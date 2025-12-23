@@ -1,0 +1,199 @@
+{
+  "passages": [
+    {
+      "id": 1,
+      "title": "Self-Sabotage and Procrastination",
+      "source": "Aeon - Eliane Glaser",
+      "difficulty": "medium",
+      "content": "Some years ago, I sat in a BBC boardroom facing a panel of senior editors interviewing me for a promotion. After treading water in a junior role for years, I wanted the job more than anything. One of the editors asked me a question about teamwork but, as I reached for my anecdote and started to speak, something strange began to happen inside my head. A song started to play on repeat. The wheels on the bus go round and round, round and round, round and round. I'd sung the song to my children as toddlers. But now its cheery tones were an exacting demand. I chanted it in my head—round and round, round and round—feeling compelled to grind my teeth together in time. I also needed to blink.\n\nI wasn't fully aware of doing this extra hidden work as I recounted my story of the late guest and the impatient presenter: just vaguely conscious that telling it felt really hard, like trying to have an in-depth conversation in a nightclub. Meanwhile, the tyrannical one-man band in my head kept on going. I was determined the panel should see none of it. But then I found myself blinking madly and caught the head of department eyeing me. I was rumbled.\n\nOver the years, my obsessive-compulsive disorder (OCD) has manifested in a panoply of painful and punitive habits. Scraping my tongue over my teeth, performing complex eye movements, peeling the skin off my lips until they bleed. It's worse when the stakes are high: when I am trying to do something prestigious, or with someone I want to please. It's also bad when I'm trying merely to exist in the moment. Also, when I'm trying to let go and have fun. My OCD is insidious and shape shifting, evading conscious awareness or control.",
+      "wordCount": 320,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What was the author being interviewed for in the BBC boardroom?",
+          "options": [
+            "A new television series",
+            "A promotion",
+            "A public speaking opportunity",
+            "A research position"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What song kept playing repeatedly in the author's head during the interview?",
+          "options": [
+            "Twinkle Twinkle Little Star",
+            "The wheels on the bus go round and round",
+            "Mary had a little lamb",
+            "Baa baa black sheep"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "Which of the following best describes the author's OCD behavior?",
+          "options": [
+            "Only occurs during sleep",
+            "Manifests in painful and punitive habits that worsen with high-stakes situations",
+            "Can be easily controlled with conscious effort",
+            "Disappears when the author is relaxed"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "How did the head of department know something was wrong during the interview?",
+          "options": [
+            "The author spoke incoherently",
+            "The author asked to leave",
+            "The author was blinking madly",
+            "The author froze completely"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 5,
+          "question": "What is the primary theme of this passage?",
+          "options": [
+            "Career advancement strategies",
+            "The author's struggle with self-sabotaging behaviors due to OCD",
+            "Interview techniques for success",
+            "Popular children's songs"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Nature of Consciousness",
+      "source": "Aeon - George Musser",
+      "difficulty": "medium",
+      "content": "Consciousness remains one of the most perplexing challenges in science. Despite centuries of philosophical inquiry and recent advances in neuroscience, we still cannot fully explain why we experience the world as we do. When you see the color red, or taste chocolate, or feel the warmth of the sun, something remarkable happens in your brain. Yet no equation can predict these subjective experiences from the physical properties of matter.\n\nThe problem is sometimes called the 'hard problem' of consciousness—to distinguish it from the 'easy problems' like explaining how the brain processes information or controls behavior. These easy problems are, ironically, quite difficult to solve. But they are fundamentally different from explaining consciousness itself. A complete neural map of the brain, showing every connection and every signal, would still not tell us why those signals feel like something.\n\nSome philosophers argue that consciousness cannot be reduced to physical processes at all. Others maintain that we simply haven't found the right conceptual framework yet. Perhaps consciousness is a fundamental feature of the universe, like gravity or electromagnetism. Or perhaps it emerges from complexity in ways we don't yet understand. What seems certain is that consciousness will continue to challenge and humble our understanding of the universe for generations to come.",
+      "wordCount": 280,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is referred to as the 'hard problem' of consciousness?",
+          "options": [
+            "Explaining how the brain processes information",
+            "Understanding why we have subjective experiences",
+            "Learning how consciousness evolved",
+            "Mapping neural connections"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "According to the passage, what would NOT be sufficient to explain consciousness?",
+          "options": [
+            "A complete neural map of the brain",
+            "Understanding brain chemistry",
+            "Knowing all neural signals",
+            "All of the above"
+          ],
+          "correct": 3
+        },
+        {
+          "id": 3,
+          "question": "Which of the following is NOT mentioned as a possible explanation for consciousness?",
+          "options": [
+            "It is irreducible to physical processes",
+            "It emerges from complexity",
+            "It is a fundamental feature of the universe",
+            "It is purely genetic in nature"
+          ],
+          "correct": 3
+        },
+        {
+          "id": 4,
+          "question": "What does the author mean by calling some problems 'ironically quite difficult'?",
+          "options": [
+            "Easy problems are impossible to solve",
+            "The terminology is misleading",
+            "Scientists find them boring",
+            "They require advanced technology"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the author's overall message about consciousness?",
+          "options": [
+            "It has been fully explained",
+            "It will remain mysterious",
+            "It is not worth studying",
+            "It is purely illusory"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The Digital Age and Human Connection",
+      "source": "Aeon - Contemporary perspectives",
+      "difficulty": "medium",
+      "content": "We live in an age of unprecedented connectivity. Billions of people are linked by the internet, able to communicate instantly across continents. Yet paradoxically, many report feeling more isolated than ever. The problem is not that we lack connections, but that we may lack genuine connection. Digital communication, for all its advantages, filters out much of what makes human interaction meaningful.\n\nFace-to-face conversation engages multiple senses and channels of communication. We read facial expressions, hear tone of voice, sense physical presence. We communicate with our whole bodies, not just words. When we reduce interaction to text messages or video calls, something essential is lost. The absence is felt most acutely in moments of vulnerability or joy that cry out for embodied presence.\n\nYet technology is not the villain in this story. Rather, we must learn to use our tools more wisely. Digital communication works best as a bridge between in-person encounters, not a replacement. The challenge for our generation is maintaining this balance—embracing technology's benefits while remembering that some experiences cannot be digitized. True intimacy requires presence, and presence remains fundamentally physical.",
+      "wordCount": 250,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What paradox does the author present about modern connectivity?",
+          "options": [
+            "We have more devices but fewer phones",
+            "We are more connected but often feel isolated",
+            "The internet makes us more social",
+            "Technology eliminates loneliness"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "According to the passage, what is lost in digital communication?",
+          "options": [
+            "Words and meaning",
+            "The ability to share ideas",
+            "Facial expressions, tone, and physical presence",
+            "Nothing significant"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 3,
+          "question": "What role does the author suggest technology should play?",
+          "options": [
+            "Completely replace in-person interaction",
+            "Be avoided entirely",
+            "Bridge between in-person encounters",
+            "Be used equally with face-to-face"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 4,
+          "question": "What does 'embodied presence' refer to in this context?",
+          "options": [
+            "Being online",
+            "Physical presence in the same location",
+            "Having a digital avatar",
+            "Sending video messages"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the author's overall perspective on technology?",
+          "options": [
+            "Technology is harmful and should be rejected",
+            "Technology is neutral and depends on how we use it",
+            "Technology always improves human connection",
+            "Technology makes all relationships better"
+          ],
+          "correct": 1
+        }
+      ]
+    }
+  ]
+}
