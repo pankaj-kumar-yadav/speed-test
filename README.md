@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ReadSpeed - English Reading Speed Test
+
+A Next.js application for measuring English reading speed and comprehension with scientifically designed passages and metrics.
+
+## Features
+
+- **Interactive Reading Test**: Timed passages with 5 multiple-choice comprehension questions
+- **Accurate WPM Calculation**: Formula: `WPM = (Words ÷ Time in Minutes) × Accuracy Rate`
+- **Random Passage Selection**: Multiple curated passages from Aeon essays, randomly selected for each test
+- **Detailed Results**: Displays WPM, accuracy percentage, correct answers, and time taken
+- **Data Persistence**: Results automatically saved as JSON files in `/public/results/`
+- **Educational Tooltips**: Explains reading speed metrics and calculation methodology
+- **Nova Design System**: Clean, professional UI built with Shadcn UI and Tailwind CSS
+
+## Project Structure
+
+```
+├── app/
+│   ├── page.tsx              # Home page with features
+│   ├── layout.tsx            # Root layout
+│   ├── globals.css           # Design tokens & styles
+│   ├── test/page.tsx         # Reading test page
+│   ├── about/page.tsx        # About page with formula explanation
+│   └── api/
+│       └── save-result/      # API endpoint for saving test results
+├── components/
+│   ├── reading-test.tsx      # Main test component
+│   ├── test-results.tsx      # Results display component
+│   └── ui/                   # Shadcn UI components
+└── public/
+    ├── passages.json         # Curated passages & questions
+    └── results/              # Saved test results (JSON)
+```
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Visit `http://localhost:3000` to start testing.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## How It Works
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. **Home Page**: Overview of the test with feature highlights
+2. **Test Page**: Read a randomly selected passage, answer questions within the time limit
+3. **Results**: Get your WPM score, accuracy, and performance breakdown
+4. **Data**: Results saved to `/public/results/` with unique timestamps
 
-## Learn More
+## Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- **Framework**: Next.js 16 with App Router
+- **UI**: Shadcn UI + Tailwind CSS v4
+- **Database**: JSON files in public directory (accessible via HTTP)
+- **Icons**: Lucide React
+- **Analytics**: Vercel Analytics
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Calculation Formula
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+$$\text{WPM} = \frac{\text{Total Words}}{\text{Time in Minutes}} \times \text{Accuracy Rate}$$
 
-## Deploy on Vercel
+Accuracy is calculated as the percentage of correct answers out of 5 questions, ensuring both speed and comprehension are rewarded.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+MIT
