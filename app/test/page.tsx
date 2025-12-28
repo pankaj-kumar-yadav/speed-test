@@ -23,7 +23,7 @@ export default function TestPage() {
                 <div className="container mx-auto px-4 py-4 flex items-center justify-between">
                     <Link href="/" className="flex items-center gap-2 hover:opacity-80 transition">
                         <BookOpen className="w-6 h-6 text-primary" />
-                        <span className="text-xl font-bold text-foreground">ReadSpeed</span>
+                        <span className="text-xl font-bold text-foreground"></span>
                     </Link>
                     <div className="flex items-center gap-4">
                         <Link href="/">

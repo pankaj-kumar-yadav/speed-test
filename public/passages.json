@@ -194,6 +194,2131 @@
           "correct": 1
         }
       ]
+    },
+    {
+      "id": 4,
+      "title": "The Myth of Multitasking",
+      "source": "Aeon - Christian Jarrett",
+      "difficulty": "medium",
+      "content": "For years, multitasking was hailed as the ultimate productivity hack, a necessary skill for the modern age. We pride ourselves on answering emails during meetings, scrolling through news while watching TV, or listening to podcasts while cooking. However, a growing body of neuroscientific research reveals a sobering truth: what we call multitasking is, in fact, rapid task-switching. The brain does not focus on two things at once; it toggles between them, each switch incurring a cognitive cost known as the 'switching penalty.'\n\nThis penalty manifests as lost time, increased errors, and diminished depth of thought. When we interrupt a complex task to check a notification, it can take over twenty minutes to return to the same level of focus. The illusion of efficiency is just that—an illusion. More concerning are the long-term effects. Studies suggest chronic media multitaskers show reduced density in the anterior cingulate cortex, a brain region vital for attention and control. By trying to do everything at once, we may be training our brains for perpetual distraction, eroding our very capacity for sustained concentration. True productivity may lie not in doing more things simultaneously, but in the disciplined, serial focus on one thing at a time.",
+      "wordCount": 265,
+      "questions": [
+        {
+          "id": 1,
+          "question": "According to neuroscience, what is 'multitasking' actually?",
+          "options": [
+            "Simultaneous processing of multiple streams of information",
+            "A heightened state of awareness",
+            "Rapid task-switching with a cognitive cost",
+            "An efficient use of brain resources"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 2,
+          "question": "What is the 'switching penalty'?",
+          "options": [
+            "The time saved by doing two things at once",
+            "The cognitive cost in time and accuracy when shifting focus",
+            "The fee for using multiple software applications",
+            "The mental fatigue from working long hours"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What potential long-term effect of chronic multitasking is mentioned?",
+          "options": [
+            "Improved memory capacity",
+            "Increased density in brain regions for attention",
+            "Reduced density in the anterior cingulate cortex",
+            "Enhanced ability to filter distractions"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 4,
+          "question": "What does the author suggest is the key to true productivity?",
+          "options": [
+            "Using more advanced technology",
+            "Disciplined, serial focus on one task",
+            "Frequent breaks to reset the brain",
+            "Listening to background music"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the main argument of the passage?",
+          "options": [
+            "Multitasking is a valuable and necessary skill.",
+            "Multitasking is an illusion that reduces efficiency and may harm our brains.",
+            "Technology has made multitasking easier and more effective.",
+            "Only some people are genetically capable of multitasking."
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "The Comfort of Cynicism",
+      "source": "Aeon - David Sessions",
+      "difficulty": "medium",
+      "content": "In an age of misinformation and institutional failure, cynicism has become a default posture. To be cynical is to signal sophistication, to demonstrate that one cannot be fooled. It offers a protective shell against disappointment; if you expect nothing, you can never be let down. This stance, however, is increasingly recognized not as a mark of intelligence, but as a form of intellectual and emotional laziness. Cynicism is a pre-emptive surrender.\n\nIt is far more challenging to maintain what philosopher Maria Popova calls a 'constructive optimism'—a stance that acknowledges the world's deep flaws and systemic problems yet insists on the possibility of improvement. This requires vulnerability, effort, and the risk of hope. The cynic, by contrast, engages in a performative disbelief that requires no action. By declaring all efforts futile or corrupt from the outset, they absolve themselves of the responsibility to try, to build, or to trust. While skepticism is a vital tool for inquiry, cynicism is its corrosive shadow, draining the motivation needed for genuine change. The true courage, then, may lie not in seeing through everything, but in working to see some things through.",
+      "wordCount": 245,
+      "questions": [
+        {
+          "id": 1,
+          "question": "According to the passage, what does cynicism often signal in modern society?",
+          "options": [
+            "Naivety and trust",
+            "Sophistication and worldliness",
+            "Emotional intelligence",
+            "A commitment to action"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What is one psychological benefit of cynicism mentioned?",
+          "options": [
+            "It increases happiness.",
+            "It protects against disappointment.",
+            "It builds strong relationships.",
+            "It motivates personal growth."
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "How does the author describe 'constructive optimism'?",
+          "options": [
+            "A naive belief that everything is fine",
+            "Acknowledging flaws but insisting on the possibility of improvement",
+            "A form of extreme cynicism",
+            "Ignoring problems to stay positive"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What key difference does the author highlight between skepticism and cynicism?",
+          "options": [
+            "Skepticism is lazy, cynicism is active.",
+            "Skepticism is a tool for inquiry, cynicism is a corrosive surrender.",
+            "They are essentially the same thing.",
+            "Skepticism is emotional, cynicism is intellectual."
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the author's primary critique of cynicism?",
+          "options": [
+            "It is always factually incorrect.",
+            "It is a lazy posture that absolves one of the responsibility to act or hope.",
+            "It is a necessary response to a corrupt world.",
+            "It leads to greater social popularity."
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "The Intelligence of Plants",
+      "source": "Aeon - Paco Calvo",
+      "difficulty": "medium",
+      "content": "For centuries, plants have been relegated to the background of the living world, viewed as passive, insentient furnishings. Modern botany is radically overturning this view. Plants are not merely alive; they are aware. They perceive their environment with a sophistication that rivals some animals: they sense light, chemicals, gravity, and sound. A root tip can navigate complex soil labyrinths, making cost-benefit calculations about where to grow. Vines exhibit a form of memory, 'remembering' the support poles they have contacted.\n\nThis is not intelligence as we know it—it is diffuse, decentralized, and slow. A plant has no brain, but its entire body functions as a neural network, where electrical and chemical signals convey information. When attacked by pests, some plants release volatile chemicals to warn their neighbors, who then preemptively bolster their defenses. This challenges our very definitions of cognition, communication, and behavior. Recognizing plant intelligence forces us to reconsider our ethical relationship with the botanical world. It suggests that sentience and problem-solving are not the sole province of creatures with neurons, but are fundamental strategies of life itself.",
+      "wordCount": 240,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How has the traditional view of plants been characterized?",
+          "options": [
+            "As highly intelligent beings",
+            "As passive and insentient furnishings",
+            "As more aware than animals",
+            "As having centralized brains"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What example is given of plant 'memory'?",
+          "options": [
+            "Photosynthesis",
+            "Vines remembering support poles they've contacted",
+            "Growing towards light",
+            "Shedding leaves in autumn"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "How do plants process information without a brain?",
+          "options": [
+            "They don't process information.",
+            "Through a centralized heart-like organ.",
+            "Their entire body acts as a neural network.",
+            "They rely on animal intermediaries."
+          ],
+          "correct": 2
+        },
+        {
+          "id": 4,
+          "question": "What is one communal behavior mentioned in plants?",
+          "options": [
+            "Releasing chemicals to warn neighbors of pests",
+            "Physically moving to new locations",
+            "Voting on where to grow roots",
+            "Creating complex social hierarchies"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 5,
+          "question": "What is the broader implication of plant intelligence discussed in the passage?",
+          "options": [
+            "Plants will soon dominate the Earth.",
+            "It forces a reconsideration of cognition and our ethical relationship with plants.",
+            "It proves that all life forms have identical intelligence.",
+            "It is merely a scientific curiosity with no real-world impact."
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "The Power of Boredom",
+      "source": "Aeon - Andreas Elpidorou",
+      "difficulty": "medium",
+      "content": "In a world that equates constant stimulation with happiness, boredom has become a modern anathema. We fill every idle moment with scrolling, gaming, or streaming, treating boredom as an emptiness to be avoided at all costs. Yet psychological research suggests that boredom serves a crucial adaptive function. It is an emotional signal that our current activity lacks meaning or challenge, prompting us to seek more engaging pursuits.\n\nBoredom is the mental space where creativity germinates. When we allow our minds to wander without external input, we activate the brain's default mode network—a state associated with daydreaming, self-reflection, and innovative problem-solving. Historical breakthroughs and artistic inspirations often strike during walks, showers, or other 'boring' intervals. By relentlessly avoiding boredom, we may be stifling our capacity for original thought and deeper self-understanding. Embracing occasional boredom, therefore, is not a regression but a strategic withdrawal that allows for mental reorganization and the emergence of new ideas.",
+      "wordCount": 205,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How does modern society typically view boredom?",
+          "options": [
+            "As a valuable emotional state",
+            "As an emptiness to be avoided",
+            "As the key to happiness",
+            "As a sign of high intelligence"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What is the adaptive function of boredom according to the passage?",
+          "options": [
+            "To make us tired so we sleep more",
+            "To signal that an activity lacks meaning and prompt us to seek engagement",
+            "To protect us from overstimulation",
+            "To help us conserve energy"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What brain network is activated during mind-wandering and boredom?",
+          "options": [
+            "The prefrontal cortex",
+            "The default mode network",
+            "The amygdala",
+            "The visual cortex"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "When do historical breakthroughs often occur, according to the passage?",
+          "options": [
+            "During intense focused work",
+            "In collaborative meetings",
+            "During 'boring' intervals like walks or showers",
+            "While using digital devices"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 5,
+          "question": "What is the author's overall recommendation about boredom?",
+          "options": [
+            "We should eliminate it completely",
+            "We should embrace it strategically for creativity and reflection",
+            "We should only experience it on weekends",
+            "It's harmful and should be medicated"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "The Lost Art of Listening",
+      "source": "Psyche - M.M. Owen",
+      "difficulty": "medium",
+      "content": "True listening is an act of profound generosity. It requires the suspension of our own narrative, the quieting of our internal monologue to fully receive another's. Yet in conversation, most of us are merely waiting to speak—formulating our response, crafting our anecdote, defending our position. This pseudo-listening creates exchanges where two monologues alternate but never truly intersect.\n\nThe therapeutic practice of 'active listening' offers a model: reflecting back what is heard, asking open-ended questions, withholding judgment. But beyond technique lies a deeper ethic of attention. To listen well is to acknowledge the other's fundamental reality, to validate their experience simply by receiving it. In an age of polarized debate and performative speech, the capacity to listen—truly listen—becomes a radical political and social act. It builds bridges across chasms of difference. The silence between words, when attended to, often contains more meaning than the words themselves.",
+      "wordCount": 205,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does true listening require according to the passage?",
+          "options": [
+            "Speaking more eloquently",
+            "Suspending our own narrative to fully receive another's",
+            "Agreeing with everything said",
+            "Taking detailed notes"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What does the author call 'pseudo-listening'?",
+          "options": [
+            "Listening while sleeping",
+            "Waiting to speak rather than truly receiving",
+            "Listening to podcasts",
+            "Listening in a foreign language"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What model does the passage mention for better listening?",
+          "options": [
+            "Therapeutic practice of 'active listening'",
+            "Speed listening techniques",
+            "Critical debate methods",
+            "Silent meditation"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 4,
+          "question": "How is good listening described in social or political terms?",
+          "options": [
+            "A waste of time",
+            "A radical act that builds bridges",
+            "A sign of weakness",
+            "Only necessary in therapy"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What contains more meaning than words themselves according to the final sentence?",
+          "options": [
+            "The volume of speech",
+            "The silence between words",
+            "The speaker's credentials",
+            "The listener's response"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "The Tyranny of Happiness",
+      "source": "Aeon - Pascal Bruckner",
+      "difficulty": "medium",
+      "content": "Contemporary culture has enshrined happiness as a moral obligation. We are told to think positively, pursue joy relentlessly, and view sadness as a failure of will or a chemical imbalance to be corrected. This imperative creates what sociologists call 'the tyranny of positivity'—a pressure to perform happiness that can make genuine suffering feel like a personal flaw.\n\nThis tyranny denies the intrinsic value of negative emotions. Sadness, anger, and grief are not merely obstacles to happiness; they are essential responses to loss, injustice, and limitation. They provide depth to our character, motivate change, and foster empathy. The constant pursuit of happiness can lead to a shallow, brittle existence, where difficult emotions are pathologized rather than understood. Perhaps true well-being lies not in the elimination of suffering, but in the capacity to hold the full spectrum of human experience—to find meaning in our struggles, not just escape from them.",
+      "wordCount": 210,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What has contemporary culture enshrined as a moral obligation?",
+          "options": [
+            "Critical thinking",
+            "Happiness",
+            "Wealth accumulation",
+            "Social justice"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What term do sociologists use for the pressure to perform happiness?",
+          "options": [
+            "The joy principle",
+            "The tyranny of positivity",
+            "Emotional capitalism",
+            "Happiness index"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "According to the passage, what is denied by the tyranny of positivity?",
+          "options": [
+            "The importance of success",
+            "The intrinsic value of negative emotions",
+            "The role of genetics in happiness",
+            "The need for vacations"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What positive functions do negative emotions serve, as mentioned in the passage?",
+          "options": [
+            "They make us more popular",
+            "They provide depth, motivate change, and foster empathy",
+            "They help us sleep better",
+            "They increase productivity"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What does the author suggest true well-being might consist of?",
+          "options": [
+            "Eliminating all negative emotions",
+            "Holding the full spectrum of human experience and finding meaning in struggles",
+            "Constantly seeking pleasure",
+            "Avoiding all sources of stress"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "The Illusion of Memory",
+      "source": "Aeon - Julia Shaw",
+      "difficulty": "medium",
+      "content": "We think of memory as a mental recording device, faithfully preserving our past. Neuroscience reveals a far different reality: memory is a reconstructive process. Each time we recall an event, we rebuild it from fragments, inevitably altering details, blending in subsequent information, and reshaping it to fit our current narrative. This plasticity makes memory profoundly unreliable as an objective record.\n\nThe implications are unsettling. Eyewitness testimony, often considered the gold standard in courts, is notoriously fallible. Vivid 'flashbulb' memories of traumatic public events feel indelible but are just as malleable. We even confidently remember entire events that never happened—a phenomenon called 'false memory.' Yet this imperfection is also adaptive. Memory is designed not for accuracy, but for utility. It helps us learn, navigate social relationships, and maintain a coherent sense of self over time. Our memories are less like archives and more like ongoing works of autobiographical fiction, edited to help us make sense of who we are.",
+      "wordCount": 215,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How does neuroscience describe memory?",
+          "options": [
+            "A faithful recording device",
+            "A reconstructive process",
+            "A genetic inheritance",
+            "A permanent storage system"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What happens each time we recall an event?",
+          "options": [
+            "It becomes more accurate",
+            "We rebuild it and potentially alter details",
+            "It gets transferred to long-term storage",
+            "We forget other unrelated memories"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What is said about eyewitness testimony?",
+          "options": [
+            "It is perfectly reliable",
+            "It is notoriously fallible",
+            "It is the only evidence courts need",
+            "It improves over time"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What is a 'false memory'?",
+          "options": [
+            "A memory from childhood",
+            "A confidently held memory of an event that never happened",
+            "A memory of a dream",
+            "A memory that is intentionally fabricated"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is memory primarily designed for, according to the passage?",
+          "options": [
+            "Absolute historical accuracy",
+            "Utility—helping us learn and maintain a coherent self",
+            "Entertaining ourselves",
+            "Impressing others with detailed stories"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "The Paradox of Choice",
+      "source": "Aeon - Barry Schwartz",
+      "difficulty": "medium",
+      "content": "Modern consumer society offers an unprecedented array of choices in every domain, from cereal to career paths. Conventional wisdom holds that more choice means more freedom and better outcomes. Yet psychological studies consistently show that beyond a modest threshold, choice overload leads to anxiety, decision paralysis, and decreased satisfaction. When faced with 30 types of jam, we are less likely to buy any than when faced with 6.\n\nThe paradox lies in our response to our own decisions. With countless alternatives, we imagine phantom perfect options we might have missed, fostering regret and undermining appreciation for what we chose. The effort of decision-making itself becomes a source of fatigue—a phenomenon called 'decision fatigue.' The solution is not to eliminate choice, but to cultivate satisficing (choosing 'good enough') rather than maximizing (seeking the elusive 'best'). By consciously limiting our options and embracing constraints, we can reclaim the freedom that excessive choice ironically takes away.",
+      "wordCount": 220,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does conventional wisdom say about more choice?",
+          "options": [
+            "It leads to anxiety",
+            "It means more freedom and better outcomes",
+            "It simplifies life",
+            "It is always overwhelming"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What is 'choice overload'?",
+          "options": [
+            "Having too few options",
+            "Anxiety and decision paralysis from too many options",
+            "Being forced to choose",
+            "The joy of shopping"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What emotion do we often feel when imagining phantom perfect options?",
+          "options": ["Joy", "Regret", "Indifference", "Surprise"],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What is 'decision fatigue'?",
+          "options": [
+            "The tiredness from making too many decisions",
+            "The excitement of new choices",
+            "A medical condition",
+            "Forgetting what you decided"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 5,
+          "question": "What solution does the passage propose?",
+          "options": [
+            "Eliminate all choices",
+            "Cultivate 'satisficing' (choosing good enough) and embrace constraints",
+            "Always seek the absolute best option",
+            "Let others choose for you"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "The Wisdom of the Crowd",
+      "source": "Nautilus - James Surowiecki",
+      "difficulty": "medium",
+      "content": "Under the right conditions, the collective judgment of a diverse group can be astonishingly accurate, often surpassing that of any single expert. This 'wisdom of the crowd' phenomenon is why poll aggregates predict elections better than pundits, and why open-source software can be remarkably robust. The key lies in aggregation: pooling many independent guesses cancels out individual errors, revealing the signal beneath the noise.\n\nHowever, not all crowds are wise. Three conditions are essential: diversity of opinion (so errors aren't correlated), independence (people aren't just echoing others), and a method for aggregating private judgments (like a vote or market). When these conditions fail—as in stock market bubbles or social media echo chambers—crowds become mad, not wise. Herd behavior amplifies biases, leading to disastrous collective delusion. The challenge for institutions is to structure collaboration to harness diversity and independence, avoiding the traps of groupthink and polarization.",
+      "wordCount": 215,
+      "questions": [
+        {
+          "id": 1,
+          "question": "When can collective judgment surpass that of an expert?",
+          "options": [
+            "Always, without exception",
+            "Under the right conditions",
+            "Only in scientific matters",
+            "Never, experts are always better"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What is the key mechanism behind the 'wisdom of the crowd'?",
+          "options": [
+            "Following the smartest person",
+            "Aggregation that cancels out individual errors",
+            "Extensive debate until consensus",
+            "Leadership by an expert"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What are the three essential conditions for a wise crowd?",
+          "options": [
+            "Uniformity, dependence, and centralization",
+            "Diversity of opinion, independence, and aggregation method",
+            "High education, technology, and funding",
+            "Similar backgrounds, strong leadership, and clear rules"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What is an example of when crowds become 'mad'?",
+          "options": [
+            "During open-source software development",
+            "In stock market bubbles or social media echo chambers",
+            "In scientific peer review",
+            "During anonymous voting"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the main challenge for institutions according to the passage?",
+          "options": [
+            "To eliminate all group decision-making",
+            "To structure collaboration to harness diversity while avoiding groupthink",
+            "To always defer to the highest-paid expert",
+            "To reduce the number of people involved in decisions"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "The Architecture of Time",
+      "source": "Aeon - Kathelin Gray",
+      "difficulty": "medium",
+      "content": "How we perceive time is not a universal constant but a cultural construct. Industrial societies typically view time as linear, divisible, and commodified—'time is money.' This perspective fuels productivity but also creates a sense of scarcity, rush, and anxiety. In contrast, many Indigenous and agrarian cultures perceive time as cyclical, tied to natural rhythms and rituals. Time is not spent but experienced, not saved but shared.\n\nModern digital life has further fractured our temporal experience. The constant flow of information and the expectation of instant response create a sense of 'accelerated time,' where the present feels compressed and the future rushes toward us. This disrupts our ability to engage in deep, sustained thought, which requires a slower, more expansive temporal landscape. Reclaiming our time perception may involve deliberate practices: digital fasting, engagement with natural cycles, or the revival of long-form activities like reading books or crafting. By redesigning our relationship with time, we can potentially redesign our quality of life.",
+      "wordCount": 225,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How do industrial societies typically view time?",
+          "options": [
+            "As cyclical and natural",
+            "As linear, divisible, and commodified",
+            "As an illusion",
+            "As a spiritual concept"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What is a consequence of the linear, commodified view of time?",
+          "options": [
+            "A sense of abundance and relaxation",
+            "A sense of scarcity, rush, and anxiety",
+            "Improved environmental harmony",
+            "Stronger community bonds"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What has modern digital life done to our temporal experience?",
+          "options": [
+            "Made it more predictable",
+            "Fractured it and created a sense of 'accelerated time'",
+            "Slowed it down significantly",
+            "Made it irrelevant"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What is required for deep, sustained thought according to the passage?",
+          "options": [
+            "A slower, more expansive temporal landscape",
+            "Constant stimulation",
+            "Multiple screens",
+            "Short bursts of focus"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 5,
+          "question": "What is one practice suggested for reclaiming our time perception?",
+          "options": [
+            "Digital fasting",
+            "Working more hours",
+            "Multitasking efficiently",
+            "Buying a faster computer"
+          ],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "The Fiction of the Self",
+      "source": "Aeon - Julian Baggini",
+      "difficulty": "medium",
+      "content": "We cherish the notion of a consistent, unchanging self—an inner core that defines who we are from birth to death. Neuroscience and psychology, however, reveal a more fragmented reality. Our memories are reconstructions, our personalities shift with context, and our decisions are often driven by unconscious processes. The brain is a confederation of competing subsystems, and what we experience as a unified 'I' is more like a story woven by the conscious mind to create coherence.\n\nThis narrative self is not a lie but a necessary fiction. It allows us to plan for the future, maintain relationships, and function in society. Yet clinging too rigidly to a fixed identity can be limiting. It makes us resist change, reject experiences that don't fit our self-concept, and judge ourselves harshly for past versions we've outgrown. Embracing the fluidity of the self can be liberating. We are not discovering who we truly are, but perpetually authoring who we might become.",
+      "wordCount": 215,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does neuroscience suggest about the self?",
+          "options": [
+            "It is a consistent, unchanging core",
+            "It is a more fragmented reality, a story woven for coherence",
+            "It is located in a specific part of the brain",
+            "It is entirely genetic"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What metaphor does the author use for the brain?",
+          "options": [
+            "A unified command center",
+            "A confederation of competing subsystems",
+            "A blank slate",
+            "A mirror of the soul"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "Why is the narrative self considered a 'necessary fiction'?",
+          "options": [
+            "Because it is completely false",
+            "Because it allows us to plan, maintain relationships, and function socially",
+            "Because it makes us unhappy",
+            "Because scientists cannot prove it"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What is a potential downside of clinging to a fixed identity?",
+          "options": [
+            "It makes us too flexible",
+            "It causes memory loss",
+            "It makes us resist change and judge past selves harshly",
+            "It leads to overconfidence"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 5,
+          "question": "What is the author's concluding perspective on the self?",
+          "options": [
+            "We are discovering a pre-existing true self",
+            "We are perpetually authoring who we might become",
+            "The self is an illusion to be discarded",
+            "Only meditation reveals the true self"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "The Language of Smell",
+      "source": "Aeon - Jason Castro",
+      "difficulty": "medium",
+      "content": "Of all our senses, smell is the most undervalued and least understood. Vision and hearing dominate our conscious experience and our languages are rich with terms for colors and sounds. Yet we struggle to describe smells, often resorting to similes: 'like lavender' or 'like rotting fruit.' This linguistic poverty, however, belies smell's profound power. Olfaction is our most ancient sense, directly linked to the brain's emotional and memory centers.\n\nA scent can instantly transport us to a forgotten childhood moment with visceral intensity. It influences attraction, triggers nostalgia, and can even alter our mood and cognition. Some cultures, like the Jahai hunter-gatherers of Malaysia, possess a sophisticated lexicon for smell, demonstrating that our olfactory neglect is cultural, not biological. Re-engaging with our sense of smell—through mindful smelling, cooking, or simply spending time in nature—can open a neglected channel to memory, emotion, and a richer experience of the present.",
+      "wordCount": 210,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How does the author describe our language for smells?",
+          "options": [
+            "Rich and precise",
+            "Undervalued and poor, often relying on similes",
+            "Superior to our language for colors",
+            "Easily learned by everyone"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What is unique about the sense of smell compared to vision and hearing?",
+          "options": [
+            "It is less ancient",
+            "It is directly linked to the brain's emotional and memory centers",
+            "It is more conscious",
+            "It is easier to study scientifically"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What power of smell is mentioned in the passage?",
+          "options": [
+            "It can instantly transport us to a forgotten memory",
+            "It improves eyesight",
+            "It allows us to see in the dark",
+            "It replaces the need for language"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 4,
+          "question": "What example is given of a culture with a sophisticated smell lexicon?",
+          "options": [
+            "The French",
+            "The Jahai hunter-gatherers of Malaysia",
+            "Ancient Greeks",
+            "Modern Americans"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is one suggested way to re-engage with our sense of smell?",
+          "options": [
+            "Wearing nose plugs",
+            "Mindful smelling or spending time in nature",
+            "Only eating bland food",
+            "Avoiding flowers"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "The Virtue of Doubt",
+      "source": "Aeon - Stephen Batchelor",
+      "difficulty": "medium",
+      "content": "In an era of polarized certainties, doubt has acquired a bad reputation. It is seen as weakness, indecision, or a lack of conviction. Yet historically, doubt has been the engine of intellectual and moral progress. Socrates championed doubt as the beginning of wisdom. Scientific inquiry is founded on systematic skepticism. Doubt is the space where questioning lives, where dogma is challenged, and where new understanding can emerge.\n\nCultivating a constructive relationship with doubt does not mean sinking into nihilism or paralysis. It means holding our beliefs lightly, subjecting them to ongoing scrutiny, and being open to revision in light of new evidence. This intellectual humility is not the opposite of conviction; it is its necessary guardian. It prevents conviction from hardening into fanaticism. In personal life, doubt allows us to question our own narratives and biases, fostering empathy and growth. To doubt wisely is a strength, not a flaw.",
+      "wordCount": 205,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How is doubt typically viewed in the modern era?",
+          "options": [
+            "As the engine of progress",
+            "As weakness, indecision, or lack of conviction",
+            "As the highest virtue",
+            "As irrelevant"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "Who championed doubt as the beginning of wisdom?",
+          "options": ["Aristotle", "Socrates", "Plato", "Descartes"],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What is scientific inquiry founded on, according to the passage?",
+          "options": [
+            "Blind faith",
+            "Systematic skepticism",
+            "Political consensus",
+            "Ancient texts"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What does 'intellectual humility' prevent?",
+          "options": [
+            "Learning new things",
+            "Conviction from hardening into fanaticism",
+            "Any form of belief",
+            "Social interactions"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the main argument of the passage?",
+          "options": [
+            "Doubt should be eliminated",
+            "To doubt wisely is a strength and necessary for progress",
+            "Only scientists should doubt",
+            "Doubt always leads to unhappiness"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "The Geography of Thought",
+      "source": "Aeon - Richard Nisbett",
+      "difficulty": "medium",
+      "content": "Do all humans think the same way? Cognitive research suggests that cultural background shapes fundamental thought processes. Western cultures, influenced by Greek philosophy and individualism, often exhibit 'analytic' thinking: focusing on objects, categorizing them, and applying formal logic. East Asian cultures, with roots in Confucianism and interdependence, tend toward 'holistic' thinking: perceiving contexts and relationships, seeing change as constant, and embracing contradiction.\n\nThese differences manifest in everything from visual perception (Westerners focus on central objects, East Asians on backgrounds) to approaches to debate and problem-solving. Neither style is inherently superior; each has strengths and blind spots. Analytic thinking excels at systematic innovation, while holistic thinking fosters adaptability and social harmony. In a globalized world, the greatest cognitive advantage may lie in cultivating 'integrative thinking'—the ability to consciously switch between or blend these modes as the situation demands.",
+      "wordCount": 210,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the main idea presented about thinking?",
+          "options": [
+            "All humans think identically",
+            "Cultural background shapes fundamental thought processes",
+            "Thinking is entirely genetic",
+            "Thinking styles are determined by language alone"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What is a characteristic of Western 'analytic' thinking?",
+          "options": [
+            "Focusing on contexts and relationships",
+            "Focusing on objects and applying formal logic",
+            "Embracing contradiction",
+            "Seeing change as constant"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What cultural roots are linked to East Asian 'holistic' thinking?",
+          "options": [
+            "Greek philosophy and individualism",
+            "Confucianism and interdependence",
+            "The Enlightenment",
+            "Romanticism"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "How do the thinking styles differ in visual perception?",
+          "options": [
+            "Westerners focus on backgrounds, East Asians on central objects",
+            "There is no difference",
+            "Westerners focus on central objects, East Asians on backgrounds",
+            "Only color perception differs"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 5,
+          "question": "What is 'integrative thinking' as described in the conclusion?",
+          "options": [
+            "Rejecting all cultural thinking styles",
+            "The ability to switch between or blend analytic and holistic modes",
+            "A purely Western mode of thought",
+            "A type of thinking used only in mathematics"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "The Ethics of Ambiguity",
+      "source": "Aeon - Skye Cleary",
+      "difficulty": "medium",
+      "content": "Human beings crave clear categories: good/bad, right/wrong, friend/foe. This binary thinking simplifies a complex world, but at a cost. It forces nuanced realities into rigid boxes, ignores shades of gray, and often dehumanizes those placed in the 'wrong' category. Moral growth and psychological maturity involve learning to tolerate—and even appreciate—ambiguity.\n\nExistentialist philosophers argued that embracing ambiguity is central to an authentic life. We must make choices without absolute certainty, take responsibility without guaranteed outcomes, and define our values in a world that offers no ultimate meaning. This is not a cause for despair but a source of freedom. In interpersonal conflicts, tolerating ambiguity means holding space for multiple perspectives to be partially true. In ethics, it means recognizing that competing values (like justice and mercy) can both be valid, and that right action often requires balancing them rather than choosing one absolutely.",
+      "wordCount": 205,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the cost of binary thinking according to the passage?",
+          "options": [
+            "It makes the world more complex",
+            "It simplifies reality perfectly",
+            "It forces nuanced realities into rigid boxes and can dehumanize",
+            "It always leads to correct decisions"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 2,
+          "question": "What does moral growth involve?",
+          "options": [
+            "Learning to tolerate and appreciate ambiguity",
+            "Creating more categories",
+            "Becoming more certain",
+            "Avoiding all difficult choices"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 3,
+          "question": "Which school of philosophy emphasized embracing ambiguity?",
+          "options": ["Existentialist", "Stoic", "Utilitarian", "Platonic"],
+          "correct": 0
+        },
+        {
+          "id": 4,
+          "question": "What is a key aspect of embracing ambiguity in interpersonal conflicts?",
+          "options": [
+            "Insisting on one's own perspective",
+            "Holding space for multiple perspectives to be partially true",
+            "Avoiding conflict altogether",
+            "Seeking an absolute authority to decide"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "In ethics, what might balancing competing values require?",
+          "options": [
+            "Choosing one value absolutely",
+            "Rejecting both values",
+            "Balancing them rather than choosing one absolutely",
+            "Creating a new value to replace them"
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "The Biology of Altruism",
+      "source": "Aeon - Robert Sapolsky",
+      "difficulty": "medium",
+      "content": "On the surface, altruism appears to defy evolutionary logic. Why would an organism sacrifice its own resources, or even its life, for another? Darwinian competition suggests selfish genes should prevail. Yet altruistic behavior is widespread in nature, from bees dying to defend their hive to humans donating to strangers. Evolutionary biology offers several explanations.\n\nKin selection theory posits that helping relatives propagates shared genes. Reciprocal altruism suggests help is given with expectation of future return. More intriguing is the concept of group selection, where traits beneficial to the group (like cooperation) can evolve even if costly to individuals. Human altruism, however, often transcends these models. We help anonymous others with no chance of reciprocation. Neuroscience reveals that altruistic acts activate the brain's reward centers, suggesting we are wired for compassion. This biological capacity for empathy and cooperation may be the cornerstone of our species' success, enabling the complex societies we build.",
+      "wordCount": 220,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does Darwinian competition initially suggest about altruism?",
+          "options": [
+            "It should be very common",
+            "Selfish genes should prevail, making altruism puzzling",
+            "It is the main driver of evolution",
+            "It only exists in humans"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What does kin selection theory propose?",
+          "options": [
+            "Helping strangers is beneficial",
+            "Helping relatives propagates shared genes",
+            "Altruism is always reciprocated",
+            "Only the strong survive"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What is 'reciprocal altruism'?",
+          "options": [
+            "Helping with no expectation of return",
+            "Helping with expectation of future return",
+            "Helping only one's children",
+            "Helping without knowing the recipient"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What does neuroscience reveal about altruistic acts?",
+          "options": [
+            "They activate brain's reward centers",
+            "They cause pain in the brain",
+            "They deactivate emotional centers",
+            "They have no neural correlate"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 5,
+          "question": "What might be the cornerstone of human success according to the passage?",
+          "options": [
+            "Pure selfishness",
+            "Biological capacity for empathy and cooperation",
+            "Superior physical strength",
+            "Individual intelligence alone"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "The Myth of the 'Natural'",
+      "source": "Aeon - Manvir Singh",
+      "difficulty": "medium",
+      "content": "Appeals to nature are pervasive in marketing and moral arguments: 'natural' foods, 'natural' parenting, 'natural' medicine. This framing assumes that what is natural is inherently good, pure, and healthy, while the artificial is suspect. But this dichotomy collapses under scrutiny. Human civilization is defined by transformation of nature: agriculture, shelter, medicine. Malaria and earthquakes are natural; vaccines and buildings are not.\n\nThe 'naturalistic fallacy' conflates 'is' with 'ought.' That something occurs in nature does not make it morally desirable. Moreover, our romantic ideal of pristine nature often ignores the harsh realities of pre-industrial life: high infant mortality, famine, and disease. The meaningful distinction is not between natural and artificial, but between what harms and what heals, what diminishes and what enriches. Evaluating technologies and practices by their actual consequences, rather than their perceived origins, leads to wiser choices for human and ecological flourishing.",
+      "wordCount": 215,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does the appeal to 'natural' assume?",
+          "options": [
+            "That natural things are inherently good and pure",
+            "That natural things are always dangerous",
+            "That artificial things are always better",
+            "That nature is irrelevant"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 2,
+          "question": "What is human civilization defined by, according to the passage?",
+          "options": [
+            "Rejecting all things natural",
+            "Transformation of nature",
+            "Returning to a primal state",
+            "Imitating animals perfectly"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What is the 'naturalistic fallacy'?",
+          "options": [
+            "Believing nature is perfect",
+            "Conflating what 'is' in nature with what 'ought' to be morally",
+            "Thinking that artificial things are unnatural",
+            "The idea that evolution has a purpose"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What does the romantic ideal of nature often ignore?",
+          "options": [
+            "Its beauty",
+            "The harsh realities of pre-industrial life",
+            "Modern environmental problems",
+            "The existence of animals"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What distinction does the author recommend instead?",
+          "options": [
+            "Natural vs. artificial",
+            "What harms vs. what heals, what diminishes vs. what enriches",
+            "Old vs. new",
+            "Simple vs. complex"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "The Psychology of Ritual",
+      "source": "Aeon - Dimitris Xygalatas",
+      "difficulty": "medium",
+      "content": "Rituals are often dismissed as irrational superstitions: knocking on wood, wedding ceremonies, religious rites. Yet psychological research reveals they serve profound cognitive and social functions. Rituals reduce anxiety by providing a sense of control in uncertain situations (like athletes' pre-game routines). They mark important transitions, helping individuals and groups navigate change (birth, marriage, death).\n\nCollectively, rituals strengthen social bonds through synchronized actions and shared emotional experiences, fostering group identity and cooperation. The very irrationality of ritual—performing actions with no instrumental purpose—may be key to its efficacy. It signals commitment to the group, as only someone truly invested would engage in costly, non-utilitarian behavior. From this perspective, rituals are not archaic relics but adaptive tools for managing emotion, building community, and navigating the human condition's inherent uncertainties.",
+      "wordCount": 205,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How are rituals often dismissed?",
+          "options": [
+            "As highly rational",
+            "As irrational superstitions",
+            "As modern inventions",
+            "As purely artistic"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What psychological function do rituals serve in uncertain situations?",
+          "options": [
+            "They increase anxiety",
+            "They reduce anxiety by providing a sense of control",
+            "They make things more unpredictable",
+            "They have no effect on emotion"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "How do rituals help with transitions?",
+          "options": [
+            "By ignoring the change",
+            "By marking important transitions and helping navigate change",
+            "By making transitions faster",
+            "By eliminating emotions"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What collective function do rituals serve?",
+          "options": [
+            "They weaken social bonds",
+            "They strengthen social bonds and foster group identity",
+            "They promote individualism",
+            "They encourage competition"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "Why might the irrationality of ritual be key to its efficacy?",
+          "options": [
+            "It makes rituals easy to perform",
+            "It signals commitment to the group through costly, non-utilitarian behavior",
+            "It proves that people are stupid",
+            "It allows for scientific testing"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "The Fallacy of the Clean Slate",
+      "source": "Aeon - Jesse Prinz",
+      "difficulty": "medium",
+      "content": "The idea that humans are born as 'blank slates' (tabula rasa) has been immensely influential, suggesting that our minds are shaped entirely by experience and culture. This view underpins many progressive social theories, as it implies infinite malleability and equality at birth. However, contemporary cognitive science reveals this to be an overcorrection. While experience is crucial, we are born with evolved cognitive architectures and predispositions.\n\nInfants show innate preferences for faces, a rudimentary sense of number, and intuitive physics. Temperament differences appear from the earliest days. Acknowledging innate predispositions does not negate the power of culture or justify inequality. Instead, it provides a more realistic foundation for education and social policy. Understanding our biological constraints and potentials allows us to design environments that help all individuals flourish, rather than expecting the mind to adapt to any circumstance without limits.",
+      "wordCount": 210,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does the 'blank slate' (tabula rasa) idea suggest?",
+          "options": [
+            "Minds are shaped entirely by genetics",
+            "Minds are shaped entirely by experience and culture",
+            "Minds are pre-written at birth",
+            "Minds are empty until adulthood"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What progressive social implication does the blank slate view have?",
+          "options": [
+            "It justifies inequality",
+            "It implies infinite malleability and equality at birth",
+            "It suggests fixed social roles",
+            "It emphasizes racial differences"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What does contemporary cognitive science say about the blank slate?",
+          "options": [
+            "It is completely accurate",
+            "It is an overcorrection; we have innate predispositions",
+            "It is only true for language",
+            "It is irrelevant"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What innate preference in infants is mentioned?",
+          "options": [
+            "For complex mathematics",
+            "For faces",
+            "For spoken poetry",
+            "For the color blue"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the benefit of acknowledging innate predispositions according to the passage?",
+          "options": [
+            "It justifies social inequality",
+            "It provides a more realistic foundation for education and social policy",
+            "It proves that culture is powerless",
+            "It shows that genetics determine everything"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "The Art of Persuasion",
+      "source": "Aeon - Tali Sharot",
+      "difficulty": "medium",
+      "content": "Effective persuasion is less about superior logic and more about understanding the psychology of belief. People are not blank slates waiting to be written upon by facts; they are motivated reasoners, interpreting evidence through the lens of pre-existing beliefs and identity. Directly confronting false beliefs with facts often backfires, entrenching the believer further (the 'backfire effect').\n\nSuccessful persuasion employs strategic empathy. It finds common ground, asks questions that lead individuals to notice inconsistencies in their own views, and presents new information in ways that align with their core values. Stories are more persuasive than statistics because they engage emotion and narrative understanding. Ultimately, changing someone's mind is rarely a sudden conversion but a gradual process of building trust and allowing them to arrive at new conclusions themselves. The goal is not to win an argument, but to open a door to reconsideration.",
+      "wordCount": 205,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What are people according to the passage?",
+          "options": [
+            "Blank slates for facts",
+            "Motivated reasoners interpreting evidence through pre-existing beliefs",
+            "Perfectly logical machines",
+            "Always open to new information"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What is the 'backfire effect'?",
+          "options": [
+            "When persuasion works instantly",
+            "When confronting false beliefs with facts entrenches them further",
+            "When people change their minds easily",
+            "When logic always wins"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What is a key strategy for successful persuasion mentioned?",
+          "options": [
+            "Strategic empathy",
+            "Loudly stating facts",
+            "Insulting the other person's intelligence",
+            "Using only complex statistics"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 4,
+          "question": "Why are stories more persuasive than statistics?",
+          "options": [
+            "They are always true",
+            "They engage emotion and narrative understanding",
+            "They are shorter",
+            "They are easier to fake"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the ultimate goal of persuasion as described?",
+          "options": [
+            "To win an argument decisively",
+            "To open a door to reconsideration",
+            "To prove one's intellectual superiority",
+            "To end the conversation"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "The Philosophy of Walking",
+      "source": "Aeon - Frédéric Gros",
+      "difficulty": "medium",
+      "content": "Walking is so mundane we rarely consider its philosophical dimensions. Yet historically, walking has been essential to the creative and intellectual process. The peripatetic philosophers taught while walking; Wordsworth composed poetry on foot; Nietzsche declared that only thoughts reached by walking have value. The rhythm of walking seems to unshackle the mind from its habitual ruts.\n\nWalking is a state of being between places, creating a mental space free from the demands of origin and destination. It allows for unfocused attention, where the mind can wander and make unexpected connections. In an era of hyper-efficiency and digital immersion, walking becomes a radical act of re-embodiment and slow thought. It reconnects us with the physical world, with the pace of our bodies, and with a mode of thinking that is contemplative rather than reactive. To walk is to think with your feet.",
+      "wordCount": 195,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What have historical figures like Nietzsche said about walking?",
+          "options": [
+            "It is a waste of time",
+            "Only thoughts reached by walking have value",
+            "It is bad for health",
+            "It prevents deep thinking"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What does the rhythm of walking do to the mind?",
+          "options": [
+            "Puts it to sleep",
+            "Unshackles it from habitual ruts",
+            "Makes it more focused on tasks",
+            "Increases stress"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What kind of attention does walking allow?",
+          "options": [
+            "Hyper-focused attention",
+            "Unfocused attention, allowing the mind to wander",
+            "No attention at all",
+            "Attention only to dangers"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "Why is walking considered a radical act in the modern era?",
+          "options": [
+            "Because it is illegal in some places",
+            "As an act of re-embodiment and slow thought against hyper-efficiency",
+            "Because no one does it anymore",
+            "Because it requires special equipment"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the final metaphor used for walking?",
+          "options": [
+            "Thinking with your feet",
+            "Running from your problems",
+            "Dancing with the world",
+            "Flying without wings"
+          ],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "The Science of Awe",
+      "source": "Aeon - Dacher Keltner",
+      "difficulty": "medium",
+      "content": "Awe is the feeling we experience when encountering something vast that transcends our current understanding. It might be triggered by a starry night, a grand symphony, or an act of profound kindness. Long considered a spiritual emotion, awe is now a subject of scientific study. Research shows that awe has remarkable psychological and social benefits.\n\nExperiences of awe shrink the individual ego, making people feel smaller in a positive way and more connected to others and the world. They can reduce stress, increase generosity, and enhance life satisfaction. Awe shifts attention outward, breaking the cycle of rumination and self-focus that characterizes anxiety and depression. In a culture often dominated by narcissism and polarization, cultivating awe—through engagement with nature, art, or collective rituals—may be an antidote to societal fragmentation. It reminds us of our place in a larger whole.",
+      "wordCount": 195,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is awe triggered by, according to the passage?",
+          "options": [
+            "Everyday routines",
+            "Something vast that transcends understanding",
+            "Winning an argument",
+            "Completing a task"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What effect does awe have on the ego?",
+          "options": [
+            "It inflates the ego",
+            "It shrinks the ego in a positive way",
+            "It has no effect on the ego",
+            "It makes the ego defensive"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What psychological benefit of awe is mentioned?",
+          "options": [
+            "Increases stress",
+            "Reduces stress and increases generosity",
+            "Makes people more selfish",
+            "Causes anxiety"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "How does awe affect attention?",
+          "options": [
+            "Shifts it outward, breaking cycles of rumination",
+            "Focuses it inward on the self",
+            "Makes it more narrow",
+            "Eliminates attention"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 5,
+          "question": "What might awe be an antidote to in modern society?",
+          "options": [
+            "Boredom",
+            "Societal fragmentation and polarization",
+            "Physical illness",
+            "Economic problems"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "The Paradox of Technology",
+      "source": "Aeon - Sherry Turkle",
+      "difficulty": "medium",
+      "content": "Every technology promises to solve a problem, but in doing so, it inevitably creates new ones. The automobile granted freedom of movement but led to pollution and urban sprawl. The internet connected the world but also enabled misinformation and eroded privacy. This is the paradox of technology: it amplifies human intentions, both good and ill, while introducing unintended consequences that reshape society in profound ways.\n\nThe challenge is not to reject technology but to approach it with what philosopher Langdon Winner called 'technological somnambulism'—a wakeful awareness of its political and social dimensions. We must ask not just what a technology does, but what kind of world it builds, what values it encodes, and who benefits. By cultivating a critical, participatory relationship with technology, we can steer its development toward human flourishing rather than allowing it to steer us toward its own implicit goals of efficiency and control.",
+      "wordCount": 200,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does the paradox of technology refer to?",
+          "options": [
+            "Technology only creates problems",
+            "It solves problems but creates new ones, amplifying human intentions",
+            "It always works perfectly",
+            "It is impossible to understand"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What example is given of the automobile's unintended consequence?",
+          "options": [
+            "It caused no problems",
+            "It led to pollution and urban sprawl",
+            "It made horses obsolete, which was good",
+            "It only had positive effects"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What term is used for 'wakeful awareness' of technology's social dimensions?",
+          "options": [
+            "Technological determinism",
+            "Technological somnambulism",
+            "Technophobia",
+            "Techno-utopianism"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What questions should we ask about technology?",
+          "options": [
+            "Only how much it costs",
+            "What it does, what world it builds, what values it encodes",
+            "Only who invented it",
+            "How to use it faster"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the implicit goal of technology mentioned at the end?",
+          "options": [
+            "Human flourishing",
+            "Efficiency and control",
+            "Environmental sustainability",
+            "Social justice"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "The History of Silence",
+      "source": "Aeon - Jane Brox",
+      "difficulty": "medium",
+      "content": "Silence is not merely an absence of sound but a cultural artifact with a history. In medieval monasteries, silence was a spiritual discipline, a way to listen for the divine. With industrialization, silence became a luxury commodity, something the wealthy could purchase by escaping the city's din. Today, in the digital age, silence is nearly extinct, replaced by a constant low hum of notifications and media.\n\nThis erosion of silence has cognitive consequences. Neuroscience shows that our brains need downtime to consolidate memories, process emotions, and generate insights. Constant noise and stimulation lead to attention fatigue and shallow thinking. Reclaiming silence requires intentional effort: creating 'sound sanctuaries' at home, practicing silent walks, or engaging in digital detoxes. In a noisy world, the ability to be comfortably silent—with others and with oneself—may be a mark of psychological depth and resilience.",
+      "wordCount": 200,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How is silence described in the passage?",
+          "options": [
+            "Only as an absence of sound",
+            "As a cultural artifact with a history",
+            "As a modern invention",
+            "As a natural constant"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What was silence in medieval monasteries?",
+          "options": [
+            "A punishment",
+            "A spiritual discipline to listen for the divine",
+            "A sign of ignorance",
+            "An accident"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What has happened to silence in the digital age?",
+          "options": [
+            "It has become more common",
+            "It is nearly extinct, replaced by constant noise",
+            "It is legally enforced",
+            "It is studied more"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What do our brains need silence for, according to neuroscience?",
+          "options": [
+            "To consolidate memories and process emotions",
+            "To sleep only",
+            "To prepare for more noise",
+            "To communicate with others"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 5,
+          "question": "What might the ability to be comfortably silent indicate?",
+          "options": [
+            "Boredom",
+            "Psychological depth and resilience",
+            "Hearing problems",
+            "A lack of social skills"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "The Limits of Empathy",
+      "source": "Aeon - Paul Bloom",
+      "difficulty": "medium",
+      "content": "Empathy—feeling what others feel—is widely celebrated as the foundation of morality. Yet psychological research reveals its limitations. Empathy is biased: we feel more for attractive victims, for those similar to us, and for individuals rather than statistics. It can lead to burnout and poor judgment, as being overwhelmed by others' pain clouds rational decision-making.\n\nCompassion, defined as concern for others' welfare coupled with a desire to help, is a more sustainable and effective moral guide. Compassion allows for distance and rationality, enabling us to make tough choices that benefit the greater good. While empathy might motivate a doctor to hug a crying child, compassion ensures she also performs the necessary painful procedure. For a more just world, we should cultivate not just emotional resonance, but also the cognitive capacities of reasoning, fairness, and strategic kindness that characterize true compassion.",
+      "wordCount": 205,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is empathy widely celebrated as?",
+          "options": [
+            "The foundation of morality",
+            "A source of rational decision-making",
+            "A bias-free emotion",
+            "A modern invention"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 2,
+          "question": "How is empathy biased?",
+          "options": [
+            "It favors unattractive people",
+            "We feel more for attractive victims and those similar to us",
+            "It is always equal for everyone",
+            "It favors large groups over individuals"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What negative effect can empathy have?",
+          "options": [
+            "It always leads to good decisions",
+            "It can lead to burnout and poor judgment",
+            "It makes people too rational",
+            "It eliminates all emotion"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "How is compassion different from empathy?",
+          "options": [
+            "It is concern for others' welfare coupled with a desire to help, allowing for distance",
+            "It is the same as empathy",
+            "It is feeling others' pain exactly",
+            "It is less moral"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 5,
+          "question": "What capacities should we cultivate for a more just world?",
+          "options": [
+            "Only emotional resonance",
+            "Reasoning, fairness, and strategic kindness (compassion)",
+            "Pure logic without kindness",
+            "Increased empathy for everyone"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "The Nature of Genius",
+      "source": "Aeon - Dean Keith Simonton",
+      "difficulty": "medium",
+      "content": "The 'lone genius' myth persists: a solitary individual, blessed with innate talent, has a sudden flash of insight that changes the world. Historical and scientific analysis tells a different story. Genius is overwhelmingly a social and cumulative phenomenon. Breakthroughs rely on absorbing existing knowledge, collaborating with peers (and rivals), and building on incremental advances. Even the most original minds stand 'on the shoulders of giants.'\n\nMoreover, genius is not a single trait but a constellation of factors: intense curiosity, sustained effort over decades (what psychologists call 'grit'), and the luck of being in the right place at the right time with the right tools. This demystification of genius is empowering. It suggests that exceptional achievement is less about rare DNA and more about cultivable habits, supportive environments, and historical contingency. We can all contribute to the ecosystem that makes genius possible.",
+      "wordCount": 200,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does the 'lone genius' myth suggest?",
+          "options": [
+            "Genius is social",
+            "A solitary individual with innate talent has sudden insight",
+            "Genius requires collaboration",
+            "Genius is always recognized immediately"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What does historical analysis say about genius?",
+          "options": [
+            "It is a social and cumulative phenomenon",
+            "It is always solitary",
+            "It is only about luck",
+            "It is purely genetic"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 3,
+          "question": "What phrase is quoted about building on past knowledge?",
+          "options": [
+            "'A flash in the pan'",
+            "'On the shoulders of giants'",
+            "'Self-made man'",
+            "'Eureka moment'"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What is 'grit'?",
+          "options": [
+            "Sudden inspiration",
+            "Sustained effort over decades",
+            "Innate intelligence",
+            "Social charm"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "Why is the demystification of genius empowering?",
+          "options": [
+            "It shows genius is only for a select few",
+            "It suggests exceptional achievement is about cultivable habits and environments",
+            "It proves that genius is a myth",
+            "It makes genius seem easy"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "The Future of Nostalgia",
+      "source": "Aeon - Svetlana Boym",
+      "difficulty": "medium",
+      "content": "Nostalgia was once considered a medical disease, a pathological longing for a lost home. Today, it's a pervasive cultural mood, from vintage fashion to retro video games. This modern nostalgia is less about returning to the past than about using the past as a resource to critique the present and imagine alternative futures. It's a form of reflection, not regression.\n\nHowever, nostalgia can be deployed in two distinct ways. 'Restorative nostalgia' seeks to reconstruct a lost homeland, often leading to nationalist myths and exclusionary politics. 'Reflective nostalgia,' on the other hand, dwells on the ambivalence of memory, acknowledging the past's distance and complexity. It is ironic, playful, and open-ended. In an age of rapid change, reflective nostalgia can provide a sense of continuity without demanding a return to an idealized past. It allows us to carry our histories forward without being trapped by them.",
+      "wordCount": 205,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How was nostalgia once viewed?",
+          "options": [
+            "As a cultural mood",
+            "As a medical disease",
+            "As a modern invention",
+            "As a philosophical concept"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What is modern nostalgia often about?",
+          "options": [
+            "A literal return to the past",
+            "Using the past to critique the present and imagine futures",
+            "Forgetting the past entirely",
+            "Repeating past mistakes"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What does 'restorative nostalgia' seek to do?",
+          "options": [
+            "Reconstruct a lost homeland, often leading to nationalist myths",
+            "Playfully reflect on the past",
+            "Ignore the past",
+            "Study history objectively"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 4,
+          "question": "How is 'reflective nostalgia' described?",
+          "options": [
+            "As ironic, playful, and open-ended",
+            "As serious and reconstructive",
+            "As a disease",
+            "As a political tool"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 5,
+          "question": "What can reflective nostalgia provide in an age of rapid change?",
+          "options": [
+            "A demand to return to the past",
+            "A sense of continuity without demanding a return",
+            "A complete break from history",
+            "A recipe for the future"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "The Psychology of Waste",
+      "source": "Aeon - Joshua Rothman",
+      "difficulty": "medium",
+      "content": "Why do we find it so difficult to throw things away? The psychology of hoarding reveals that our attachment to objects extends far beyond their utility. Objects become repositories of memory, identity, and potential. A broken tool might represent a failed project; an old shirt, a younger self. Letting go feels like losing a part of our history or betraying future possibilities.\n\nThis emotional logic clashes with the minimalism advocated by contemporary lifestyle gurus. Minimalism promises freedom from clutter and distraction, but it can become another form of consumerism—constantly curating and replacing possessions in pursuit of an aesthetic ideal. A more sustainable approach may lie in mindful consumption and appreciation of what we already have. Perhaps the goal is not to own nothing, but to own only what we truly value, and to understand why we value it. In this light, waste is not just an environmental issue, but a psychological one—a failure to discern meaning from clutter.",
+      "wordCount": 215,
+      "questions": [
+        {
+          "id": 1,
+          "question": "Why is it difficult to throw things away, according to the passage?",
+          "options": [
+            "Objects are too expensive",
+            "Objects become repositories of memory, identity, and potential",
+            "There's not enough trash collection",
+            "All objects are useful"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What does minimalism promise?",
+          "options": [
+            "More possessions",
+            "Freedom from clutter and distraction",
+            "Increased emotional attachment to objects",
+            "A guarantee of happiness"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What potential pitfall of minimalism is mentioned?",
+          "options": [
+            "It becomes another form of consumerism",
+            "It is always environmentally friendly",
+            "It requires no effort",
+            "It eliminates all waste"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 4,
+          "question": "What is the suggested sustainable approach?",
+          "options": [
+            "Buying everything new",
+            "Mindful consumption and appreciation of what we already have",
+            "Never throwing anything away",
+            "Living without any possessions"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "How is waste described in the conclusion?",
+          "options": [
+            "Only an environmental issue",
+            "A psychological issue—a failure to discern meaning from clutter",
+            "A sign of wealth",
+            "A modern invention"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "The Myth of the 'Gut Feeling'",
+      "source": "Aeon - Gerd Gigerenzer",
+      "difficulty": "medium",
+      "content": "Intuition, or 'gut feeling,' is often contrasted with rational analysis and dismissed as unreliable. However, cognitive science shows that intuition is not magic but the result of unconscious pattern recognition honed by experience. An expert chess player instantly sees the best move; a doctor recognizes a disease pattern before consciously articulating why. These are not guesses but rapid, non-conscious computations.\n\nThe key is understanding when to trust intuition. In stable environments with predictable patterns (like chess or medical diagnosis), experienced intuition is remarkably accurate. In novel or rapidly changing situations, however, intuition can lead us astray with cognitive biases. The wisest decision-makers know how to blend intuitive leaps with deliberate analysis, using each for its appropriate domain. Cultivating good intuition requires immersion in a domain, feedback on decisions, and the humility to recognize its limits. Gut feeling is not the opposite of reason, but its silent partner.",
+      "wordCount": 215,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is intuition, according to cognitive science?",
+          "options": [
+            "Magic or guessing",
+            "The result of unconscious pattern recognition honed by experience",
+            "Always wrong",
+            "The opposite of all thought"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What example is given of expert intuition?",
+          "options": [
+            "A beginner guessing",
+            "An expert chess player instantly seeing the best move",
+            "A random decision",
+            "Following a recipe exactly"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "When is experienced intuition most accurate?",
+          "options": [
+            "In novel situations",
+            "In stable environments with predictable patterns",
+            "When you're tired",
+            "When you ignore all facts"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "When can intuition lead us astray?",
+          "options": [
+            "In familiar situations",
+            "In novel or rapidly changing situations",
+            "When we have expertise",
+            "When we take our time"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "How is gut feeling described in relation to reason?",
+          "options": [
+            "Its opposite",
+            "Its silent partner",
+            "Its enemy",
+            "A replacement for it"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "The Architecture of Power",
+      "source": "Aeon - Matthew Stewart",
+      "difficulty": "medium",
+      "content": "Power is not just held by individuals; it is embedded in physical and social architecture. The design of buildings, cities, and digital platforms shapes behavior, inclusion, and exclusion. A panopticon prison enables surveillance with few guards. A city without sidewalks discourages walking and communal life. An algorithm that prioritizes engagement promotes outrage and polarization.\n\nThis architectural power is often invisible because we adapt to it as 'normal.' To challenge unjust power structures, we must learn to see the architecture: Who does this design serve? Who does it marginalize? Can it be reconfigured? Democratic participation requires not just voting, but also involvement in the design of our shared spaces—from urban planning to software development. By becoming conscious architects of our environment, we can build worlds that foster equality, creativity, and human connection rather than control and division.",
+      "wordCount": 200,
+      "questions": [
+        {
+          "id": 1,
+          "question": "Where is power embedded, according to the passage?",
+          "options": [
+            "Only in governments",
+            "Only in wealthy individuals",
+            "In physical and social architecture",
+            "Only in laws"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 2,
+          "question": "What example is given of architectural power in a prison?",
+          "options": [
+            "Comfortable beds",
+            "The panopticon design enabling surveillance",
+            "Color of the walls",
+            "The food served"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "Why is architectural power often invisible?",
+          "options": [
+            "It's deliberately hidden",
+            "We adapt to it as 'normal'",
+            "It doesn't exist",
+            "It's too complex to see"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What question should we ask to see the architecture of power?",
+          "options": [
+            "How much does it cost?",
+            "Who does this design serve? Who does it marginalize?",
+            "Is it beautiful?",
+            "How old is it?"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What does democratic participation require beyond voting?",
+          "options": [
+            "Only paying taxes",
+            "Involvement in the design of our shared spaces",
+            "Blind trust in leaders",
+            "Avoiding all architecture"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "The Paradox of Knowledge",
+      "source": "Aeon - Michael Strevens",
+      "difficulty": "medium",
+      "content": "The more we know, the more we realize how much we don't know. This isn't just a cliché but a structural feature of knowledge. Each answer generates new questions; each discovery reveals deeper layers of complexity. The horizon of ignorance recedes as we advance. This can be humbling, even discouraging, but it is also what makes science and learning endlessly fascinating.\n\nThe paradox has social implications. In an age of information overload, expertise becomes hyper-specialized, making it difficult for anyone to grasp the big picture. Public discourse suffers when citizens feel that understanding complex issues is impossible. The solution is not to abandon expertise but to cultivate 'knowledge of ignorance'—an understanding of the limits of our knowledge and the ability to navigate uncertainty. This intellectual humility allows for curiosity, collaboration across fields, and wiser decision-making in the face of the unknown.",
+      "wordCount": 205,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the paradox of knowledge?",
+          "options": [
+            "The more we know, the less we need to learn",
+            "The more we know, the more we realize how much we don't know",
+            "Knowledge is always complete",
+            "Ignorance decreases linearly with knowledge"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What does each discovery do, according to the passage?",
+          "options": [
+            "Ends all questions",
+            "Reveals deeper layers of complexity",
+            "Makes everything simpler",
+            "Proves we know everything"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What problem does hyper-specialization create?",
+          "options": [
+            "Too many experts",
+            "Difficulty grasping the big picture",
+            "Lack of detailed knowledge",
+            "Too many big pictures"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What is 'knowledge of ignorance'?",
+          "options": [
+            "Knowing nothing",
+            "Understanding the limits of our knowledge",
+            "Ignoring facts",
+            "Remembering everything"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What does intellectual humility allow for?",
+          "options": [
+            "Arrogance",
+            "Curiosity, collaboration, and wiser decision-making",
+            "Certainty in all things",
+            "Refusing to learn"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "The Biology of Beauty",
+      "source": "Aeon - Nancy Etcoff",
+      "difficulty": "medium",
+      "content": "Beauty is often dismissed as subjective or culturally constructed. While cultural standards vary, evolutionary psychology suggests deep biological roots for some aesthetic preferences. Symmetry, clear skin, and certain waist-to-hip ratios are widely found attractive across cultures, likely signaling health and reproductive fitness. Our brains respond to beauty with pleasure, activating reward circuits similar to those for food or money.\n\nYet human beauty transcends mere biology. We find beauty in landscapes, sunsets, and abstract art that have no survival value. This suggests that our aesthetic sense is also a cognitive adaptation for finding patterns, meaning, and order in the world. Appreciating beauty may have evolved as a way to engage with our environment, to learn, and to create. Thus, beauty is both a biological signal and a profound source of meaning—a bridge between our animal nature and our highest cultural achievements.",
+      "wordCount": 210,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does evolutionary psychology suggest about beauty?",
+          "options": [
+            "It is entirely cultural",
+            "It has deep biological roots for some preferences",
+            "It is random",
+            "It is only about art"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What features are widely found attractive across cultures?",
+          "options": [
+            "Asymmetry and pale skin",
+            "Symmetry, clear skin, certain waist-to-hip ratios",
+            "Only personality traits",
+            "Specific hair color"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What do our brains do in response to beauty?",
+          "options": [
+            "Shut down",
+            "Activate reward circuits",
+            "Feel pain",
+            "Become confused"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What might appreciating beauty be an adaptation for?",
+          "options": [
+            "Finding patterns, meaning, and order",
+            "Only finding mates",
+            "Avoiding danger",
+            "Cooking food"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 5,
+          "question": "How is beauty described in the conclusion?",
+          "options": [
+            "Only a biological signal",
+            "Only a cultural construct",
+            "A bridge between our animal nature and cultural achievements",
+            "An illusion"
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "The Ethics of Forgetting",
+      "source": "Aeon - Viktor Mayer-Schönberger",
+      "difficulty": "medium",
+      "content": "Digital technology has made forgetting the exception and remembering the default. Our online actions, once ephemeral, now persist indefinitely in data centers. This shift has profound implications for personal growth and society. Human identity relies on forgetting; we edit our past, learn from mistakes, and move on. Permanent digital memory can trap us in past identities, stifling forgiveness and change.\n\nThere is also a collective dimension. Societies need to forget past conflicts to achieve reconciliation. When every grievance is digitally preserved and easily recalled, moving forward becomes difficult. Some have proposed introducing 'expiration dates' for digital information or 'right to be forgotten' laws. These are not about erasing history but about restoring a natural balance between memory and forgetting that allows individuals and societies to evolve. Forgetting is not a failure of technology, but a feature of humanity that technology should respect.",
+      "wordCount": 215,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What has digital technology made the default?",
+          "options": ["Forgetting", "Remembering", "Lying", "Creating"],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "Why does human identity rely on forgetting?",
+          "options": [
+            "To remember everything",
+            "To edit our past, learn from mistakes, and move on",
+            "To become perfect",
+            "To ignore the present"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What can permanent digital memory do to us?",
+          "options": [
+            "Free us",
+            "Trap us in past identities",
+            "Improve our memory",
+            "Make us smarter"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "Why do societies need to forget?",
+          "options": [
+            "To achieve reconciliation and move forward",
+            "To repeat past mistakes",
+            "To punish past crimes forever",
+            "To destroy history"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 5,
+          "question": "What is the purpose of 'right to be forgotten' laws?",
+          "options": [
+            "To erase all history",
+            "To restore balance between memory and forgetting",
+            "To promote unlimited surveillance",
+            "To make everyone famous"
+          ],
+          "correct": 1
+        }
+      ]
     }
   ]
 }
