@@ -2319,6 +2319,1561 @@
           "correct": 1
         }
       ]
+    },
+    {
+      "id": 37,
+      "title": "The Language of Time",
+      "source": "Aeon - Lera Boroditsky",
+      "difficulty": "medium",
+      "content": "How we speak about time reveals how we think about it. English speakers often talk about time as if it's a physical substance: we 'save time,' 'spend time,' and 'waste time.' We imagine the future as ahead and the past behind. But not all languages share this spatial metaphor. In Aymara, spoken in the Andes, the past is conceptualized as in front (because it's known and visible), while the future is behind (unknown, unseen).\n\nThese linguistic differences shape temporal cognition. Speakers of languages that grammatically mark future events (like English) tend to save less money and plan less for retirement than speakers of 'futureless' languages (like German or Mandarin), which treat future and present more similarly. This suggests our temporal metaphors aren't just decorative—they influence our decisions and behaviors. Learning new ways of talking about time can expand our cognitive flexibility, allowing us to imagine different relationships to past and future. Time may be universal, but our experience of it is profoundly linguistic.",
+      "wordCount": 210,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How do English speakers often metaphorically talk about time?",
+          "options": [
+            "As a spiritual concept",
+            "As if it's a physical substance to save, spend, or waste",
+            "As completely unimportant",
+            "As purely circular"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "How is time conceptualized in Aymara?",
+          "options": [
+            "The future is ahead, past behind (like English)",
+            "The past is in front, future behind",
+            "There is no concept of time",
+            "Time is only vertical"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What behavioral difference is linked to how languages mark the future?",
+          "options": [
+            "Eating habits",
+            "Sleep patterns",
+            "Saving money and planning for retirement",
+            "Musical preferences"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 4,
+          "question": "What do 'futureless' languages do grammatically?",
+          "options": [
+            "Treat future and present more similarly",
+            "Have no tense at all",
+            "Only talk about the past",
+            "Invent new tenses daily"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 5,
+          "question": "What is the main conclusion about time?",
+          "options": [
+            "Time is exactly the same for everyone",
+            "Our experience of time is profoundly linguistic",
+            "Language has no effect on time perception",
+            "Only scientists understand time"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "The Paradox of Placebo",
+      "source": "Aeon - Kathryn T. Hall",
+      "difficulty": "medium",
+      "content": "The placebo effect is often dismissed as 'just imagination,' but its physiological reality is well-documented. Patients given sugar pills can experience real pain relief, reduced Parkinson's tremors, or improved depression—if they believe they're receiving actual medicine. This isn't proof that diseases are imaginary, but rather that the mind can powerfully modulate bodily processes.\n\nThe paradox lies in the ethical dilemma: Should doctors prescribe placebos? Doing so involves deception, violating patient autonomy. Yet studies show that openly prescribed 'honest placebos'—where patients know they're taking inert pills but understand the mind-body effect—still work for some conditions. This suggests the ritual of treatment itself (the pill, the white coat, the caring interaction) has therapeutic value. The placebo effect challenges the simplistic division between 'real' biological treatment and 'psychological' influence, pointing toward a more integrated understanding of healing where belief, expectation, and care are active ingredients.",
+      "wordCount": 215,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How is the placebo effect often dismissed?",
+          "options": [
+            "As a powerful biological force",
+            "As 'just imagination'",
+            "As the best treatment",
+            "As a new discovery"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What does the placebo effect demonstrate?",
+          "options": [
+            "All diseases are imaginary",
+            "The mind can powerfully modulate bodily processes",
+            "Sugar is medicine",
+            "Doctors are unnecessary"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What is the ethical dilemma with prescribing placebos?",
+          "options": [
+            "They are too expensive",
+            "It involves deception, violating patient autonomy",
+            "They never work",
+            "They are illegal everywhere"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What are 'honest placebos'?",
+          "options": [
+            "Pills that are actually medicine",
+            "Openly prescribed inert pills where patients know they're inert",
+            "Placebos given secretly",
+            "A type of surgery"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What does the placebo effect challenge?",
+          "options": [
+            "The need for any treatment",
+            "The simplistic division between biological and psychological treatment",
+            "The existence of the mind",
+            "All medical ethics"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "The Evolution of Childhood",
+      "source": "Aeon - Alison Gopnik",
+      "difficulty": "medium",
+      "content": "Human childhood is extraordinarily long compared to other animals. Why would evolution favor such a prolonged period of dependency and learning? The answer may lie in our unique cognitive flexibility. Children are not just imperfect adults; they are learning machines designed for exploration and experimentation. Their seemingly endless questions, play, and imaginative scenarios are not distractions but the central work of childhood—building models of how the world works.\n\nThis extended childhood allows humans to adapt to diverse cultural and environmental niches. While other species are born with highly specialized instincts, humans are born with the capacity to learn almost anything. The trade-off is vulnerability: children need years of protection and investment. This evolutionary strategy has paid off, enabling our species' remarkable cultural accumulation and innovation. Viewing childhood as a crucial adaptive phase, rather than mere preparation for adulthood, transforms how we value education, play, and the contributions of the young.",
+      "wordCount": 200,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How is human childhood compared to other animals?",
+          "options": [
+            "Much shorter",
+            "About the same length",
+            "Extraordinarily long",
+            "Nonexistent"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 2,
+          "question": "What are children described as?",
+          "options": [
+            "Imperfect adults",
+            "Learning machines designed for exploration",
+            "Small versions of adults",
+            "Basically animals"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What is the 'central work of childhood'?",
+          "options": [
+            "Being quiet and obedient",
+            "Building models of how the world works through questions and play",
+            "Learning to work as soon as possible",
+            "Memorizing facts"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What trade-off comes with extended childhood?",
+          "options": [
+            "Greater intelligence immediately",
+            "Vulnerability and need for protection",
+            "Less learning capacity",
+            "More specialized instincts"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "How should we view childhood according to the passage?",
+          "options": [
+            "As mere preparation for adulthood",
+            "As a crucial adaptive phase",
+            "As a waste of time",
+            "As exactly like adulthood"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "The Physics of Society",
+      "source": "Aeon - Mark Buchanan",
+      "difficulty": "medium",
+      "content": "Social phenomena—from fashion trends to financial crashes—often seem chaotic and unpredictable. Yet physicists studying complex systems are finding surprising patterns. Using concepts from statistical physics, they model how individual interactions generate collective behavior. A market crash might emerge from herding behavior, much like how atoms align to create magnetism. Traffic jams form through similar dynamics whether in cars or on ant trails.\n\nThese models don't predict specific events but reveal the conditions under which certain patterns (like polarization or synchronization) are likely. They show how small changes can have disproportionate effects (the 'butterfly effect'), and how systems can suddenly 'tip' into new states. This perspective suggests that social problems like inequality or political extremism might have structural causes analogous to physical phase transitions. Understanding society as a complex system could lead to more effective interventions—not by trying to control individuals, but by reshaping the rules and connections that guide collective behavior.",
+      "wordCount": 215,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What field is studying social phenomena as complex systems?",
+          "options": ["Only sociology", "Physics", "Only economics", "Biology"],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What do these models reveal?",
+          "options": [
+            "Exactly what will happen tomorrow",
+            "Conditions under which certain patterns are likely",
+            "That society is completely random",
+            "That individuals don't matter"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What is the 'butterfly effect'?",
+          "options": [
+            "Butterflies causing storms",
+            "Small changes having disproportionate effects",
+            "Beautiful social patterns",
+            "A type of traffic jam"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What analogy is made for social problems like inequality?",
+          "options": [
+            "Chemical reactions",
+            "Physical phase transitions",
+            "Biological evolution",
+            "Mathematical equations"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What approach might be more effective for social interventions?",
+          "options": [
+            "Controlling every individual",
+            "Reshaping rules and connections that guide collective behavior",
+            "Ignoring the problem",
+            "Only educating leaders"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "The Philosophy of Attention",
+      "source": "Aeon - Matthew Crawford",
+      "difficulty": "medium",
+      "content": "Attention is the most basic form of love. What we pay attention to flourishes; what we ignore withers. In an economy built on capturing attention—through notifications, ads, and algorithms—our capacity to direct our own attention has become a scarce resource. The philosopher Simone Weil called attention 'the rarest and purest form of generosity.'\n\nCultivating attention requires practice and discipline. It's not about focusing harder, but about learning to resist the pull of distraction and choose where to place our care. Activities that demand skilled attention—like crafting, playing music, or close reading—are not just hobbies but training grounds for autonomy. They teach us to inhabit time differently, to engage deeply with the world rather than skimming its surface. In reclaiming our attention, we reclaim our ability to form meaningful relationships—with people, with ideas, with our own lives. Attention is not just a cognitive skill but an ethical one.",
+      "wordCount": 210,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is attention called in the passage?",
+          "options": [
+            "A waste of time",
+            "The most basic form of love",
+            "Only a business tool",
+            "Something we have unlimited supply of"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What has become a scarce resource?",
+          "options": [
+            "Money",
+            "Time",
+            "Our capacity to direct our own attention",
+            "Natural resources"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 3,
+          "question": "How did Simone Weil describe attention?",
+          "options": [
+            "As a distraction",
+            "As 'the rarest and purest form of generosity'",
+            "As useless",
+            "As a modern problem"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What are activities like crafting or playing music described as?",
+          "options": [
+            "Wasteful hobbies",
+            "Training grounds for autonomy and attention",
+            "Only for professionals",
+            "Easy distractions"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What kind of skill is attention, according to the conclusion?",
+          "options": [
+            "Only cognitive",
+            "An ethical one",
+            "Only genetic",
+            "Unimportant"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "The Future of Old Age",
+      "source": "Aeon - Susan Pinker",
+      "difficulty": "medium",
+      "content": "We typically view aging as a story of decline: loss of physical strength, cognitive speed, and social roles. Yet research reveals a more nuanced picture. While some abilities decline, others improve or remain stable well into later life. Emotional regulation often gets better; wisdom and expertise accumulate; social networks, though sometimes smaller, become more meaningful.\n\nThe problem may not be aging itself, but our cultural narrative about it. Societies that value older people and provide meaningful roles experience lower rates of dementia and better health outcomes. 'Elderhood' could be reimagined as a distinct and valuable life stage, not merely an extension of midlife or a prelude to death. This requires redesigning communities for intergenerational connection, creating flexible work opportunities, and challenging the cult of youth. The goal isn't to live forever, but to live well at every age—including the later ones we're so often taught to fear.",
+      "wordCount": 205,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the typical cultural narrative about aging?",
+          "options": [
+            "A story of growth",
+            "A story of decline",
+            "Not important",
+            "Always positive"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What abilities often improve with age?",
+          "options": [
+            "Physical strength and speed",
+            "Emotional regulation and wisdom",
+            "Memory for new facts",
+            "Reaction time"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What do societies that value older people experience?",
+          "options": [
+            "More ageism",
+            "Lower rates of dementia and better health",
+            "Worse outcomes for youth",
+            "Economic decline"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What could 'elderhood' be reimagined as?",
+          "options": [
+            "A disease to cure",
+            "A distinct and valuable life stage",
+            "The end of life",
+            "Only about retirement"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the ultimate goal regarding aging?",
+          "options": [
+            "To live forever",
+            "To live well at every age, including later ones",
+            "To avoid aging completely",
+            "To stay young forever"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "The Anthropology of Debt",
+      "source": "Aeon - David Graeber",
+      "difficulty": "medium",
+      "content": "Debt is often considered a purely economic transaction, but anthropologists reveal it as a fundamental social relationship. Before money, societies operated on elaborate systems of gift and obligation. A gift creates a debt of reciprocity, binding people together. Money emerged not from barter—which is rare in pre-monetary societies—but as a way to quantify debts, often to central authorities like temples or palaces.\n\nThis historical perspective reframes modern debt. The moral language of debt ('repaying what you owe') carries deep social weight, making financial indebtedness feel like a moral failing. Yet unlike social debts, which can be renegotiated or forgiven, financial debts are exact and relentless. Understanding debt as a social construct, not a natural law, opens possibilities for different arrangements: debt jubilees, forgiveness, or systems that prioritize human relationships over financial abstraction. The question becomes not just who owes what, but what kind of social bonds we want to create and sustain.",
+      "wordCount": 205,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How do anthropologists view debt?",
+          "options": [
+            "As a purely economic transaction",
+            "As a fundamental social relationship",
+            "As a modern invention",
+            "As unrelated to society"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What did money emerge from, according to the passage?",
+          "options": [
+            "Barter systems",
+            "A way to quantify debts to central authorities",
+            "Gift-giving without obligation",
+            "Random chance"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "How does the moral language of debt affect people?",
+          "options": [
+            "It makes financial debt feel like a moral failing",
+            "It makes people ignore debts",
+            "It has no effect",
+            "It makes debt enjoyable"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 4,
+          "question": "How are financial debts different from social debts?",
+          "options": [
+            "Financial debts are more flexible",
+            "Financial debts are exact and relentless, while social debts can be renegotiated",
+            "Social debts are always quantified",
+            "They are the same"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What question does this perspective on debt raise?",
+          "options": [
+            "How to make more money",
+            "What kind of social bonds we want to create and sustain",
+            "How to eliminate all debt",
+            "Who invented money"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "The Neuroscience of Regret",
+      "source": "Aeon - Daniel H. Pink",
+      "difficulty": "medium",
+      "content": "Regret is a painful emotion, but neuroscience suggests it serves a crucial purpose. Brain scans show that regret activates regions involved in learning and decision-making. It is our mind's way of simulating alternative outcomes, teaching us to make better choices in the future. People with damage to these brain areas may repeat mistakes endlessly, unable to feel regret's instructive sting.\n\nHowever, not all regret is useful. 'Hot regret'—the immediate, visceral pain of a bad choice—can lead to rumination and paralysis. 'Cold regret,' reflected upon later, is more likely to yield wisdom. Cultural attitudes shape how we handle regret: some societies view it as a waste of energy, while others see it as moral instruction. The healthiest approach may be to acknowledge regret without being consumed by it—to use it as data for course correction, not as a life sentence. As the poet Katherine Mansfield wrote, 'Regret is an appalling waste of energy; you can't build on it; it's only good for wallowing in.'",
+      "wordCount": 210,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What purpose does regret serve, according to neuroscience?",
+          "options": [
+            "To make us miserable",
+            "To teach us to make better choices by simulating alternatives",
+            "To help us forget the past",
+            "No purpose at all"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What happens to people who can't feel regret due to brain damage?",
+          "options": [
+            "They become happier",
+            "They may repeat mistakes endlessly",
+            "They make perfect decisions",
+            "They forget everything"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What is 'hot regret'?",
+          "options": [
+            "Reflected-upon wisdom",
+            "Immediate, visceral pain that can lead to rumination",
+            "A type of fever",
+            "Regret for good decisions"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What cultural difference in handling regret is mentioned?",
+          "options": [
+            "Some see it as waste, others as moral instruction",
+            "All cultures view it the same",
+            "Only Western cultures feel regret",
+            "Regret is illegal in some societies"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 5,
+          "question": "What is the healthiest approach to regret?",
+          "options": [
+            "Ignore it completely",
+            "Acknowledge it and use it as data for course correction",
+            "Wallow in it permanently",
+            "Blame others for it"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "The Ecology of Cities",
+      "source": "Aeon - Tim Beatley",
+      "difficulty": "medium",
+      "content": "Cities are often seen as separate from nature—concrete jungles that replace ecosystems. But a new ecological perspective views cities as hybrid environments where human and natural systems intertwine. Urban parks, green roofs, and street trees aren't just decorations; they provide essential services: cooling air, absorbing stormwater, reducing stress, and fostering biodiversity.\n\nThis 'biophilic' approach to urban design seeks to integrate nature into daily life, recognizing that human well-being depends on connection to living systems. It also reimagines waste and resource flows, aiming for circular economies where outputs become inputs. Cities can be designed as regenerative ecosystems that support both human and non-human life. The goal is not to escape to wilderness, but to cultivate wilderness where we live—creating cities that are not just sustainable, but actively restorative. In this vision, the city itself becomes a habitat, and citizenship includes stewardship of its ecological health.",
+      "wordCount": 205,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How does the new ecological perspective view cities?",
+          "options": [
+            "As separate from nature",
+            "As hybrid environments where human and natural systems intertwine",
+            "As purely artificial",
+            "As replacements for nature"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What services do urban green spaces provide?",
+          "options": [
+            "Only aesthetic beauty",
+            "Cooling air, absorbing stormwater, reducing stress",
+            "Increase pollution",
+            "Make cities more crowded"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What is the 'biophilic' approach?",
+          "options": [
+            "Fear of nature",
+            "Integrating nature into daily urban design",
+            "Removing all nature from cities",
+            "Studying biology in labs"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What is a 'circular economy' in this context?",
+          "options": [
+            "A round city layout",
+            "Where waste outputs become resource inputs",
+            "Only using circles in design",
+            "An economy based on circles"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What does citizenship include in this vision?",
+          "options": [
+            "Only voting",
+            "Stewardship of the city's ecological health",
+            "Owning property",
+            "Driving cars"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "The Psychology of Secrets",
+      "source": "Aeon - Michael Slepian",
+      "difficulty": "medium",
+      "content": "Everyone keeps secrets—from small shames to life-altering truths. Contrary to the relief we expect from confession, research shows that the mere act of hiding information is less burdensome than the obsessive rumination about it. Secrets weigh on us not because we're holding them, but because we're constantly turning them over in our minds.\n\nThe social function of secrets is complex. They can protect privacy and autonomy, but also create isolation and shame. Interestingly, the content of the secret matters less than how we think about it. Viewing a secret as a reflection of our flawed self ('I am bad because I did this') causes more distress than viewing it as information that hasn't been shared ('This is something others don't know'). The path to dealing with a secret isn't necessarily disclosure—it's finding a way to stop circling it mentally, whether through acceptance, reframing, or selective sharing with trusted others. Secrets lose power when they stop being the center of our inner narrative.",
+      "wordCount": 210,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does research show about the burden of secrets?",
+          "options": [
+            "Hiding information is very burdensome",
+            "The obsessive rumination about secrets is more burdensome than hiding them",
+            "Confession always brings relief",
+            "Secrets are easy to forget"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What positive function can secrets serve?",
+          "options": [
+            "Only cause harm",
+            "Protect privacy and autonomy",
+            "Always improve relationships",
+            "Make us more popular"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What matters more than the content of a secret?",
+          "options": [
+            "Who else knows",
+            "How we think about it",
+            "How long we've kept it",
+            "Where we hide it"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "Which view of a secret causes more distress?",
+          "options": [
+            "Viewing it as information not shared",
+            "Viewing it as a reflection of a flawed self",
+            "Viewing it as unimportant",
+            "Viewing it as everyone's business"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "How do secrets lose power?",
+          "options": [
+            "When we tell everyone",
+            "When they stop being the center of our inner narrative",
+            "When we forget them",
+            "When they become illegal"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "The History of the Book",
+      "source": "Aeon - Leah Price",
+      "difficulty": "medium",
+      "content": "The 'death of the book' has been predicted with every new media technology—radio, television, the internet. Yet books persist, their form evolving but their essence remaining. The codex (bound pages) replaced the scroll because it allowed random access and easier reference. E-books offer searchability and portability, but print books provide superior spatial memory and fewer distractions.\n\nWhat defines a book may be less its physical form than its cultural role as a sustained, linear argument or narrative—a container for complex thought that requires patience and focus. In an age of snippets and feeds, the book represents a different temporality: deep time. The future of the book may not be about paper versus pixels, but about defending the cognitive space for long-form engagement. Whether printed or digital, the book endures as a technology for thinking—a tool that shapes minds as much as minds shape it.",
+      "wordCount": 195,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What has been predicted with every new media technology?",
+          "options": [
+            "The birth of the book",
+            "The death of the book",
+            "The end of reading",
+            "The rise of libraries"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "Why did the codex replace the scroll?",
+          "options": [
+            "It was cheaper",
+            "It allowed random access and easier reference",
+            "It was more beautiful",
+            "It was lighter"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What advantage do print books have over e-books?",
+          "options": [
+            "Superior spatial memory and fewer distractions",
+            "They are always cheaper",
+            "They never break",
+            "They need no power"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 4,
+          "question": "What cultural role defines a book?",
+          "options": [
+            "As a collection of random facts",
+            "As a container for complex thought requiring patience and focus",
+            "As a decorative object",
+            "As a short message"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What does the book represent in the digital age?",
+          "options": [
+            "A faster way to get information",
+            "Deep time and long-form engagement",
+            "An outdated technology",
+            "Only entertainment"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "The Philosophy of Luck",
+      "source": "Aeon - Ed Smith",
+      "difficulty": "medium",
+      "content": "Success is often attributed to talent and hard work, but luck plays a vastly underrated role. Being born in the right country, meeting the right mentor, avoiding random accidents—these chance events dramatically shape outcomes. Recognizing luck's influence isn't about promoting fatalism, but about cultivating humility and fairness.\n\nThose who succeed often suffer from 'survivor bias,' believing their choices alone led to success, while ignoring the lucky breaks that helped them. This can lead to harsh judgment of those who fail. Acknowledging luck creates a more compassionate society that designs systems to mitigate bad luck (through social safety nets) and spread opportunity (through equitable policies). It also encourages gratitude rather than arrogance. As the Roman philosopher Seneca noted, 'Luck is what happens when preparation meets opportunity.' The prepared mind still needs the fortunate circumstance.",
+      "wordCount": 195,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What role does the passage say luck plays in success?",
+          "options": [
+            "A minor role",
+            "No role",
+            "A vastly underrated role",
+            "The only role"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 2,
+          "question": "What is 'survivor bias'?",
+          "options": [
+            "Believing luck is everything",
+            "Believing choices alone led to success, ignoring lucky breaks",
+            "A bias against survivors",
+            "A statistical method"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What can survivor bias lead to?",
+          "options": [
+            "More humility",
+            "Harsh judgment of those who fail",
+            "Better policies",
+            "Increased luck"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What does acknowledging luck help create?",
+          "options": [
+            "A more competitive society",
+            "A more compassionate society with safety nets",
+            "A society that ignores failure",
+            "A lottery-based economy"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What does Seneca's quote suggest about luck?",
+          "options": [
+            "It's pure chance",
+            "It's what happens when preparation meets opportunity",
+            "It doesn't exist",
+            "It replaces preparation"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "The Paradox of Authenticity",
+      "source": "Aeon - Adam Grant",
+      "difficulty": "medium",
+      "content": "The modern cult of authenticity urges us to 'be ourselves' and not compromise our true nature. But this philosophy contains a paradox: if we are always authentically expressing our current feelings and beliefs, we cannot grow or adapt. Growth requires trying on new ways of being, sometimes being 'inauthentic' until new traits become integrated. Furthermore, total authenticity can be antisocial—honestly expressing every critical thought would destroy relationships.\n\nA more nuanced view sees authenticity as alignment between actions and deeply held values, not momentary impulses. It allows for tact, empathy, and self-improvement. The self is not a fixed essence to be uncovered, but a work in progress to be constructed. Authenticity then becomes not about rigidity, but about integrity—the coherence of our evolving narrative. We are not born authentic; we become authentic through the choices that shape our character. This process sometimes requires being untrue to yesterday's self to be true to tomorrow's.",
+      "wordCount": 210,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What paradox does the modern cult of authenticity contain?",
+          "options": [
+            "It makes everyone the same",
+            "If we are always authentic, we cannot grow or adapt",
+            "It leads to perfect relationships",
+            "It is easy to achieve"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "Why can total authenticity be antisocial?",
+          "options": [
+            "It makes people too popular",
+            "Honestly expressing every critical thought would destroy relationships",
+            "It encourages too much empathy",
+            "It requires constant compromise"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What is the more nuanced view of authenticity?",
+          "options": [
+            "Alignment between actions and momentary impulses",
+            "Alignment between actions and deeply held values",
+            "Always saying what you think",
+            "Never changing your mind"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "How is the self viewed in this nuanced perspective?",
+          "options": [
+            "A fixed essence to be uncovered",
+            "A work in progress to be constructed",
+            "A blank slate",
+            "A collection of random traits"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What does authenticity become in this view?",
+          "options": [
+            "Rigidity",
+            "Integrity—the coherence of our evolving narrative",
+            "Constant self-expression",
+            "A performance for others"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "The Science of Superstition",
+      "source": "Aeon - Stuart Vyse",
+      "difficulty": "medium",
+      "content": "Superstition is often dismissed as irrational ignorance, but it is a widespread and persistent human tendency. From athletes with lucky socks to students with exam rituals, superstitious behavior appears across cultures. Psychological research suggests superstition arises from our brain's innate pattern-seeking machinery. We are wired to detect causality, even when none exists, because in evolutionary terms it's safer to assume a connection (that rustle might be a predator) than to miss one.\n\nIn uncertain or high-stakes situations, superstition provides an illusion of control, reducing anxiety and sometimes improving performance through the placebo effect. The problem arises when superstitious thinking replaces evidence-based decision-making in critical domains like medicine or policy. Understanding superstition as a cognitive bias, not a character flaw, allows for more compassionate education. The goal isn't to eliminate all magical thinking—which may be impossible—but to cultivate critical thinking in domains where it matters most.",
+      "wordCount": 205,
+      "questions": [
+        {
+          "id": 1,
+          "question": "Why does superstition arise, according to psychological research?",
+          "options": [
+            "From deliberate deception",
+            "From our brain's innate pattern-seeking machinery",
+            "Only from cultural teachings",
+            "From a lack of intelligence"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What evolutionary advantage does pattern-seeking provide?",
+          "options": [
+            "It makes us more creative",
+            "It's safer to assume a connection than to miss one",
+            "It helps us ignore dangers",
+            "It reduces brain size"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What benefit can superstition provide in high-stakes situations?",
+          "options": [
+            "Guaranteed success",
+            "An illusion of control that reduces anxiety",
+            "Complete certainty",
+            "Supernatural powers"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "When does superstition become problematic?",
+          "options": [
+            "When it's fun",
+            "When it replaces evidence-based decision-making in critical domains",
+            "When it's shared with others",
+            "When it's private"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the suggested goal regarding superstition?",
+          "options": [
+            "Eliminate all magical thinking",
+            "Cultivate critical thinking where it matters most",
+            "Encourage more superstition",
+            "Ignore it completely"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "title": "The Ecology of Mind",
+      "source": "Aeon - Gregory Bateson",
+      "difficulty": "medium",
+      "content": "The mind is not confined to the skull. This radical idea, proposed by anthropologist Gregory Bateson, suggests that mind is an ecological phenomenon extending into the environment. A blind person's mind includes their cane; a writer's mind includes their notebook; a pilot's mind includes their instrument panel. These tools are not just external aids but integral parts of the cognitive system.\n\nThis perspective dissolves the strict boundary between self and world. It views thinking as a distributed process involving brains, bodies, tools, and other people. Learning becomes a matter of designing effective cognitive ecosystems. In an age of smartphones and AI, our minds are more extended than ever, raising questions about dependency and autonomy. The ecological view encourages us to think carefully about what we include in our mental systems—what tools we use, what information we consume, and how we structure our environments to think better, together.",
+      "wordCount": 200,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What radical idea does Gregory Bateson propose?",
+          "options": [
+            "The mind is only in the brain",
+            "The mind is an ecological phenomenon extending into the environment",
+            "The mind is a soul",
+            "The mind is a computer"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What example is given of an extended mind?",
+          "options": [
+            "A pilot's mind includes their instrument panel",
+            "A person thinking with eyes closed",
+            "A brain in a vat",
+            "A dream state"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 3,
+          "question": "What does this perspective dissolve?",
+          "options": [
+            "The need for tools",
+            "The strict boundary between self and world",
+            "All cognitive science",
+            "The concept of thinking"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What does learning become in this view?",
+          "options": [
+            "Only memorization",
+            "Designing effective cognitive ecosystems",
+            "Isolated study",
+            "Genetic programming"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What does the ecological view encourage us to do?",
+          "options": [
+            "Ignore technology",
+            "Think carefully about what we include in our mental systems",
+            "Only use natural tools",
+            "Avoid all external aids"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "The History of Emotion",
+      "source": "Aeon - Thomas Dixon",
+      "difficulty": "medium",
+      "content": "We assume emotions like love, anger, and sadness are universal human constants. But historians of emotion find that how emotions are felt, expressed, and valued changes dramatically across eras. Medieval Europeans prized 'acedia' (a spiritual listlessness) as a sin to be confessed; Victorians celebrated 'sentiment' as a moral faculty; today we pathologize chronic sadness as 'depression.'\n\nThese shifts reveal that emotions are not just biological responses but cultural scripts. The words available in a language shape what emotions can be articulated and recognized. Social institutions—from courtship rituals to therapy—channel emotional expression in particular directions. Understanding emotions as historically contingent doesn't make them less real, but more interesting. It allows us to see our own emotional landscape as one possibility among many, and to imagine how we might cultivate different emotional habits for a healthier society.",
+      "wordCount": 195,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What do historians of emotion find?",
+          "options": [
+            "Emotions are exactly the same across all eras",
+            "How emotions are felt, expressed, and valued changes across eras",
+            "Only physical expressions change",
+            "Emotions are not real historically"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What emotion did medieval Europeans prize as a sin?",
+          "options": [
+            "Joy",
+            "Acedia (spiritual listlessness)",
+            "Anger",
+            "Love"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "How are emotions described in addition to biological responses?",
+          "options": [
+            "As chemical reactions only",
+            "As cultural scripts",
+            "As random events",
+            "As purely individual"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What shapes what emotions can be articulated?",
+          "options": [
+            "The weather",
+            "The words available in a language",
+            "Only brain chemistry",
+            "Government laws"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What does understanding emotions as historically contingent allow?",
+          "options": [
+            "To see our emotional landscape as one possibility among many",
+            "To eliminate all emotions",
+            "To prove which emotions are correct",
+            "To ignore cultural differences"
+          ],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "title": "The Physics of Consciousness",
+      "source": "Aeon - Philip Goff",
+      "difficulty": "medium",
+      "content": "Could consciousness be a fundamental property of the universe, like mass or charge? This is the bold proposal of panpsychism, a theory gaining traction among some philosophers and physicists. Panpsychism suggests that all matter has some form of consciousness, however simple. In complex systems like brains, these micro-consciousnesses combine to produce the rich experience we recognize.\n\nThe theory attempts to solve the 'hard problem' of consciousness: how subjective experience arises from objective matter. If consciousness is fundamental, it doesn't arise—it's always there. Critics argue panpsychism is untestable and bizarre: what is it like to be an electron? Proponents counter that all theories of consciousness face deep puzzles. While panpsychism may seem strange, it represents a serious attempt to bridge the explanatory gap between physics and phenomenology, suggesting that the universe is not just alive with matter, but with mind.",
+      "wordCount": 195,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does panpsychism propose?",
+          "options": [
+            "Only brains are conscious",
+            "Consciousness is an illusion",
+            "All matter has some form of consciousness",
+            "Consciousness requires language"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 2,
+          "question": "What problem does panpsychism attempt to solve?",
+          "options": [
+            "The easy problem of brain processing",
+            "The 'hard problem' of consciousness",
+            "The problem of quantum gravity",
+            "The origin of life"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "If consciousness is fundamental, what does it mean?",
+          "options": [
+            "It arises from complexity",
+            "It doesn't arise—it's always there",
+            "It only exists in humans",
+            "It is created by the brain"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What is a common criticism of panpsychism?",
+          "options": [
+            "It is too simple",
+            "It is untestable and bizarre",
+            "It is proven by science",
+            "It denies the existence of matter"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What does panpsychism suggest about the universe?",
+          "options": [
+            "It is dead and mechanical",
+            "It is alive with matter and mind",
+            "It is purely mathematical",
+            "It is unknowable"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "The Anthropology of Play",
+      "source": "Aeon - Johan Huizinga",
+      "difficulty": "medium",
+      "content": "Play is often considered trivial, a mere pastime for children. But anthropologists argue that play is a foundational human activity that shapes culture. Games, sports, theater, and even rituals are forms of play—voluntary activities bounded by rules, separate from ordinary life, yet profoundly meaningful. Play creates 'magic circles' where different norms apply, allowing for experimentation, creativity, and social bonding.\n\nThrough play, children learn social rules and physical skills. Adults use play to navigate status, resolve conflicts, and innovate. The competitive play of markets and politics follows game-like structures. Recognizing the play element in culture helps us understand that many social institutions are constructed and can be reimagined. When we forget the playful origins of our rules, they can become rigid and oppressive. Reclaiming playfulness might be key to revitalizing institutions, fostering creativity, and remembering that human culture is, at its heart, a collective game we can choose to play differently.",
+      "wordCount": 205,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How do anthropologists view play?",
+          "options": [
+            "As trivial and only for children",
+            "As a foundational human activity that shapes culture",
+            "As a waste of time",
+            "As purely biological"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What are 'magic circles' in the context of play?",
+          "options": [
+            "Mystical rituals",
+            "Spaces where different norms apply, allowing experimentation",
+            "Children's playgrounds only",
+            "Circus performances"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What do children learn through play?",
+          "options": [
+            "Nothing important",
+            "Social rules and physical skills",
+            "Only how to win",
+            "To avoid adults"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What happens when we forget the playful origins of rules?",
+          "options": [
+            "They become more fun",
+            "They can become rigid and oppressive",
+            "They disappear",
+            "They are easier to change"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What might reclaiming playfulness help with?",
+          "options": [
+            "Making everything a competition",
+            "Revitalizing institutions and fostering creativity",
+            "Eliminating all rules",
+            "Only child development"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "title": "The Exam That Broke Society",
+      "source": "Aeon - Yasheng Huang",
+      "difficulty": "medium",
+      "content": "In June 2023, nearly 13 million Chinese high-school students sat for the gaokao, the world's most grueling college entrance exam[citation:8]. This modern ordeal casts a long shadow from China's past—specifically the keju, an imperial civil service examination system that lasted for over a millennium[citation:8]. The keju was based on exhaustive memorization of Confucian classics and served as the primary gateway to power, prestige, and bureaucratic office. Its meritocratic promise—that any man, regardless of birth, could rise through study—created a powerful cultural ideal. Yet, this system also served the state's interests perfectly. By funneling society's brightest minds into a single, state-controlled competition focused on rote learning of orthodox texts, it effectively monopolized talent and intellectual energy. It cultivated a culture of deference to authority and collectivism, reinforcing autocratic rule while stifling critical and independent thought[citation:8]. The article contrasts this historical path with the West, where civil services developed alongside vibrant societies with established rule of law and political pluralism, leading to a more balanced dynamic between state and citizen[citation:8]. The legacy of the keju suggests that a meritocratic system, when designed to serve authority rather than empower individuals, can become a tool for social control as much as for mobility.",
+      "wordCount": 245,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What modern event does the passage connect to the historical keju system?",
+          "options": [
+            "The Chinese New Year celebrations",
+            "The gaokao college entrance exam",
+            "Chinese parliamentary elections",
+            "National poetry competitions"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What was the primary purpose of the historical keju examination?",
+          "options": [
+            "To select military generals",
+            "To recruit for the imperial civil service",
+            "To test scientific innovation",
+            "To choose religious leaders"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "According to the passage, what was a major negative consequence of the keju system?",
+          "options": [
+            "It made education too expensive",
+            "It monopolized talent and stifled independent thought to serve the state",
+            "It only allowed the wealthy to succeed",
+            "It eliminated all social mobility"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What cultural values did the keju system reinforce?",
+          "options": [
+            "Deference to authority and collectivism",
+            "Radical individualism and rebellion",
+            "Religious piety and otherworldliness",
+            "Maritime exploration and trade"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 5,
+          "question": "What is the passage's main critique of the keju's 'meritocratic' promise?",
+          "options": [
+            "It was never actually based on merit",
+            "It could be a tool for social control as much as for mobility",
+            "It was only available to men, so it wasn't truly fair",
+            "The exams were always corrupt"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Boredom: A Window to a Sunny Day",
+      "source": "Aeon - Neel Burton",
+      "difficulty": "medium",
+      "content": "Boredom is a deeply unpleasant state of unmet arousal: we are energized and seeking stimulation but cannot find an outlet for that energy[citation:8]. It arises from a disconnect between our need for engaging activity and our environment's inability—or our own inability—to provide it. While often dismissed as trivial, boredom has significant psychological consequences. It can lead to negative coping behaviors like overeating or substance abuse. Yet, the essay argues that boredom also holds a paradoxical potential. It can serve as a catalyst for profound self-reflection and change. When we are bored, the habitual distractions fall away, forcing us to confront our own thoughts and desires. Historically, figures like the philosopher Bertrand Russell found that enforced stillness, such as in a prison cell, could lead to unexpected productivity and deep satisfaction[citation:8]. The key is in our response. We can see boredom as a mere deficit to be filled with the nearest distraction, often digital. Alternatively, we can embrace it as a signal—a 'window'—indicating that our current pursuits are not truly fulfilling. This more constructive view frames boredom not as an enemy to be defeated, but as an invitation to reassess our direction, cultivate internal resources like imagination, and ultimately discover more meaningful engagement with the world.",
+      "wordCount": 240,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How does the passage define boredom?",
+          "options": [
+            "A state of tiredness and sleepiness",
+            "A state of unmet arousal where we seek but cannot find stimulation",
+            "A complete lack of energy or interest",
+            "A specific type of clinical depression"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What negative consequence of boredom is mentioned?",
+          "options": [
+            "It always leads to genius",
+            "It can lead to negative coping behaviors like overeating",
+            "It permanently lowers IQ",
+            "It causes physical illness"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What historical example is given of boredom's potential benefit?",
+          "options": [
+            "Newton discovering gravity while bored at home",
+            "Bertrand Russell finding productivity in prison stillness",
+            "Shakespeare writing sonnets out of boredom",
+            "Darwin developing his theory on a long, dull voyage"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What is the 'paradoxical potential' of boredom?",
+          "options": [
+            "It makes time go faster",
+            "It can serve as a catalyst for self-reflection and change",
+            "It helps you sleep better",
+            "It makes enjoyable activities more fun later"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the constructive way to view boredom, according to the passage's conclusion?",
+          "options": [
+            "As a medical condition to be treated",
+            "As an enemy of productivity to be eliminated",
+            "As a signal and an invitation to find more meaningful engagement",
+            "As proof that one lacks imagination"
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Our Narrative Prison",
+      "source": "Aeon - Eliane Glaser",
+      "difficulty": "medium",
+      "content": "The three-act 'hero's journey' has dominated storytelling for decades, from ancient myths to Hollywood blockbusters. This template—a call to adventure, a journey of trials, and a triumphant return—is satisfying and familiar[citation:5]. However, the essay argues that its prominence has become a kind of narrative prison, limiting the stories we tell and, by extension, how we imagine human possibilities. The hero's journey centers on an individual protagonist who overcomes external obstacles to achieve a clear goal, reinforcing values of individualism, conquest, and clear-cut victory. What stories does this template exclude? Where are the tales of collective action, of quiet endurance without triumph, of ambiguous endings, or of cycles rather than linear progress? The dominance of a single story structure shapes our expectations in life as well as art, making alternative models of experience harder to recognize or value. The essay calls for a liberation of narrative form, suggesting that by exploring different kinds of stories—ones that embrace ambiguity, multiple perspectives, or lack a central 'hero'—we can expand our collective imagination. In a world facing complex, collective challenges, perhaps we need stories that teach us about interdependence, nuance, and sustained care more than stories about lone heroes saving the day.",
+      "wordCount": 240,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What storytelling template is described as a 'narrative prison'?",
+          "options": [
+            "The epistolary novel",
+            "The three-act 'hero's journey'",
+            "The stream-of-consciousness technique",
+            "The tragic five-act structure"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What values does the hero's journey template typically reinforce?",
+          "options": [
+            "Collectivism, ambiguity, and cyclical time",
+            "Individualism, conquest, and clear-cut victory",
+            "Spirituality, sacrifice, and community",
+            "Realism, tragedy, and acceptance"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "According to the passage, what does the dominance of this single structure do?",
+          "options": [
+            "Makes movies more profitable",
+            "Limits the stories we tell and how we imagine human possibilities",
+            "Improves the quality of all writing",
+            "Makes stories easier for children to understand"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What kind of stories are excluded by the hero's journey model?",
+          "options": [
+            "Stories about kings and queens",
+            "Stories set in the future",
+            "Stories of collective action, ambiguous endings, or cycles",
+            "Romantic love stories"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 5,
+          "question": "What is the essay's ultimate call to action?",
+          "options": [
+            "To stop watching Hollywood movies",
+            "To liberate narrative form by exploring different kinds of stories",
+            "To return to older, mythic forms of storytelling",
+            "To focus only on non-fiction"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "title": "Fuck Work",
+      "source": "Aeon - James Livingston",
+      "difficulty": "medium",
+      "content": "A provocative challenge lies at the heart of this essay: What if jobs aren't working anymore?[citation:9] It confronts two deep-seated beliefs: the economist's faith in full employment as a societal good, and the American ideal that work builds character[citation:9]. The author argues that these beliefs are outdated, if not harmful, in a modern economy where automation proliferates and many jobs are unfulfilling, poorly paid, or simply unnecessary. The essay questions the moral linkage between work and worth, suggesting that tying human dignity and social standing to employment leaves many people in precarious, meaningless positions. Instead of seeking full employment in a system that may no longer require or value all human labor in traditional ways, the essay proposes a radical reimagining of social organization. It hints at possibilities like a universal basic income, a shorter workweek, or a greater cultural valorization of non-labor activities like care, creativity, and community building. The title's abrasive tone underscores the frustration with a status quo that demands everyone 'work' but fails to provide work that is meaningful or adequately rewarded, urging readers to question the work ethic itself and imagine a post-work society.",
+      "wordCount": 230,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What two core beliefs does the essay challenge?",
+          "options": [
+            "The need for education and the importance of family",
+            "The economist's faith in full employment and the idea that work builds character",
+            "The value of democracy and the need for environmental protection",
+            "The importance of technology and the role of government"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What modern economic trend makes these beliefs seem outdated?",
+          "options": [
+            "Globalization",
+            "The rise of automation and the prevalence of unfulfilling jobs",
+            "Decreasing population growth",
+            "The decline of manufacturing"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What problematic linkage does the essay identify?",
+          "options": [
+            "Linking education to income",
+            "Linking human dignity and social standing directly to employment",
+            "Linking health to wealth",
+            "Linking happiness to consumption"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What is one potential alternative the essay suggests?",
+          "options": [
+            "A return to agricultural society",
+            "A universal basic income or shorter workweek",
+            "Mandatory military service",
+            "Eliminating all technology"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the essay's ultimate goal, as suggested by its provocative title?",
+          "options": [
+            "To make everyone work harder",
+            "To question the work ethic and imagine a post-work society",
+            "To promote a specific political party",
+            "To argue that all work is bad"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "title": "English is Not Normal",
+      "source": "Aeon - John McWhorter",
+      "difficulty": "medium",
+      "content": "It's common to hear English praised as uniquely vibrant, flexible, or mighty—a global lingua franca due to its inherent superiority. This essay pushes back, arguing that English isn't uniquely adaptable but is uniquely weird[citation:9]. Its strangeness is a product of its tumultuous history, a series of linguistic collisions and accidents. The Norman Conquest of 1066 imposed a layer of French vocabulary onto a Germanic Anglo-Saxon base, creating the double lexicon we have today (e.g., 'ask' from Old English vs. 'inquire' from French). Viking invasions further scrambled the grammar. The Great Vowel Shift dramatically altered pronunciation. The result is a language full of irregularities: spelling that seems arbitrary, a vast number of vowel sounds, and grammar rules with endless exceptions (think of the plural of 'mouse' being 'mice,' but 'house' becoming 'houses'). The essay contends that English became a world language not because it is logical or easy, but due to the historical and economic power of first the British Empire and then the United States. Its global dominance is a historical contingency, not a testament to its design. Appreciating English's true nature means letting go of linguistic chauvinism and marveling instead at its chaotic, hybrid, and accidental beauty.",
+      "wordCount": 245,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What common belief about English does the essay dispute?",
+          "options": [
+            "That it is a global language",
+            "That it is uniquely vibrant, flexible, or superior by design",
+            "That it has a large vocabulary",
+            "That it is derived from Latin"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What does the author argue is English's true distinctive feature?",
+          "options": [
+            "Its simplicity",
+            "Its musicality",
+            "Its weirdness and irregularity",
+            "Its ancient origins"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 3,
+          "question": "What historical event is cited as a major source of English's 'double lexicon'?",
+          "options": [
+            "The Roman occupation of Britain",
+            "The Norman Conquest of 1066",
+            "The American Revolution",
+            "The invention of the printing press"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "According to the essay, why did English become a global language?",
+          "options": [
+            "Because it is logical and easy to learn",
+            "Because of the historical/economic power of Britain and the U.S.",
+            "Because it was scientifically designed for clarity",
+            "Because it absorbs words from all other languages"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What should we appreciate about English, according to the conclusion?",
+          "options": [
+            "Its inherent superiority over other languages",
+            "Its chaotic, hybrid, and accidental beauty",
+            "Its perfect logical consistency",
+            "Its pure Germanic roots"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "title": "The Play Deficit",
+      "source": "Aeon - Peter Gray",
+      "difficulty": "medium",
+      "content": "Children today are often both cossetted and pressured: over-supervised in physical play yet burdened with academic expectations earlier than ever[citation:9]. This essay argues that this dual trend has created a severe 'play deficit' with serious developmental consequences. True play is self-directed, intrinsically motivated, and unstructured by adults. It is through such play that children learn to solve their own problems, negotiate rules with peers, manage risk, and develop creativity and emotional resilience. The modern child's schedule, packed with organized activities and homework, leaves little room for this essential work. The author connects the rise in childhood anxiety, depression, and diminished social skills to this decline in free play. He contrasts this with previous generations who had more autonomy and time for unsupervised neighborhood games. The essay is a plea to recognize play not as a frivolous extra but as a biological necessity for healthy development. It calls for a cultural shift to give children back the time, space, and freedom to play on their own terms, arguing that without this freedom, they miss crucial lessons in independence, cooperation, and joy that formal education cannot provide.",
+      "wordCount": 235,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What two trends create the modern 'play deficit'?",
+          "options": [
+            "Too much screen time and poor diet",
+            "Over-supervision in physical play and early academic pressure",
+            "Lack of toys and unsafe neighborhoods",
+            "Smaller families and both parents working"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What are the characteristics of 'true play' as defined in the passage?",
+          "options": [
+            "Adult-led, educational, and goal-oriented",
+            "Self-directed, intrinsically motivated, and unstructured by adults",
+            "Competitive, rule-bound, and focused on winning",
+            "Quiet, solitary, and indoors"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What crucial skills do children develop through free play?",
+          "options": [
+            "Test-taking strategies and memorization",
+            "Solving their own problems, negotiating with peers, and managing risk",
+            "Advanced mathematics and literacy",
+            "Professional sports techniques"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What negative outcomes does the author link to the play deficit?",
+          "options": [
+            "Increased childhood obesity only",
+            "Rise in childhood anxiety, depression, and poor social skills",
+            "Lower average height",
+            "Decreased interest in science"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the essay's fundamental plea?",
+          "options": [
+            "To buy children more educational toys",
+            "To recognize play as a biological necessity and give children freedom to play",
+            "To replace play with more structured tutoring",
+            "To enforce stricter rules on playgrounds"
+          ],
+          "correct": 1
+        }
+      ]
     }
   ]
 }
