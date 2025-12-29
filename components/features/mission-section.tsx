@@ -1,5 +1,6 @@
 import { Heart, Target, Zap } from "lucide-react"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import { WORDS_RANGE } from "@/lib/constants/app-info-constants"
 
 export const MissionSection = () => {
     return (
@@ -29,7 +30,7 @@ export const MissionSection = () => {
                     <CardContent className="space-y-4 text-muted-foreground">
                         <div>
                             <h3 className="font-semibold text-foreground mb-2">1. Start the Test</h3>
-                            <p>Click the timer to begin reading a carefully selected 200-500 word passage.</p>
+                            <p>Click the timer to begin reading a carefully selected {WORDS_RANGE} word passage.</p>
                         </div>
                         <div>
                             <h3 className="font-semibold text-foreground mb-2">2. Read & Comprehend</h3>
@@ -59,7 +60,7 @@ export const MissionSection = () => {
                         </div>
                         <ul className="space-y-2 ml-2">
                             <li>
-                                <strong>Total Words:</strong> Word count of the passage (typically 200-500)
+                                <strong>Total Words:</strong> Word count of the passage (typically {WORDS_RANGE})
                             </li>
                             <li>
                                 <strong>Time in Minutes:</strong> Duration from when you start reading until you finish

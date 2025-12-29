@@ -3874,6 +3874,2577 @@
           "correct": 1
         }
       ]
+    },
+    {
+      "id": 61,
+      "title": "The Technology of Loneliness",
+      "source": "Aeon - Julia Shaw",
+      "difficulty": "medium",
+      "content": "We live in the most connected age in human history, yet loneliness has become a widespread epidemic. Digital technology promises connection but often delivers something thinner—a performance of social life rather than its substance. The 'like' button and follower count create quantifiable social metrics that can exacerbate anxiety rather than alleviate isolation. We mistake broadcasting for bonding.\n\nTrue connection requires vulnerability, shared silence, and physical presence—elements that are systematically filtered out by digital interfaces. Video calls give us faces but not the full bodily communication of in-person interaction. Text messages allow constant contact but at the cost of nuance and emotional depth. This isn't to say technology causes loneliness, but it can reshape our expectations of connection, making us satisfied with less. The solution isn't to abandon technology but to use it more intentionally—as a bridge to physical meetings, not a replacement for them. We must recognize that digital connection, while valuable, operates on a different emotional bandwidth than embodied presence. Cultivating real community in a digital age requires conscious effort to create spaces—both online and offline—where vulnerability is possible and relationships can deepen over time.",
+      "wordCount": 225,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What paradox does the passage describe about the modern age?",
+          "options": [
+            "We have more food but are less nourished",
+            "We are most connected yet experience widespread loneliness",
+            "We work less but are more tired",
+            "We know more but understand less"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What does digital technology often deliver instead of true connection?",
+          "options": [
+            "A performance of social life",
+            "Complete isolation",
+            "Too much vulnerability",
+            "Physical meetings"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 3,
+          "question": "What elements of true connection are filtered out by digital interfaces?",
+          "options": [
+            "Speed and efficiency",
+            "Vulnerability, shared silence, and physical presence",
+            "Information and facts",
+            "Entertainment and distraction"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "How does the passage suggest we should use technology?",
+          "options": [
+            "Abandon it completely",
+            "Use it more intentionally as a bridge to physical meetings",
+            "Use it to replace all in-person interaction",
+            "Only for work, not for socializing"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is required to cultivate real community in a digital age?",
+          "options": [
+            "More advanced technology",
+            "Conscious effort to create spaces where vulnerability is possible",
+            "Fewer social media platforms",
+            "Returning to pre-digital lifestyles"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "title": "The Moral Imagination",
+      "source": "Aeon - Martha Nussbaum",
+      "difficulty": "medium",
+      "content": "Moral reasoning is often conceived as a logical process of applying principles to cases. But philosopher Martha Nussbaum argues that literature and narrative play an equally vital role in ethical development through what she calls 'the moral imagination.' Stories allow us to enter other lives, experience unfamiliar perspectives, and cultivate empathy in ways abstract principles cannot.\n\nWhen we read about characters facing moral dilemmas, we exercise our capacity for nuanced judgment. We learn to recognize the particularity of situations rather than applying rules mechanically. Great literature presents complex characters who are neither wholly good nor evil, teaching us to hold multiple perspectives simultaneously. This narrative training is essential for democratic citizenship, which requires understanding fellow citizens whose experiences differ from our own. In an age of polarization and dehumanizing rhetoric, the moral imagination offers an antidote: it reminds us of the full humanity of others, with all their contradictions and complexities. Cultivating this imaginative capacity through engagement with diverse stories may be as important for moral education as studying ethical theories.",
+      "wordCount": 210,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does Nussbaum argue is vital for ethical development?",
+          "options": [
+            "Only logical reasoning",
+            "Literature and narrative through 'the moral imagination'",
+            "Mathematical precision",
+            "Scientific facts alone"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "How do stories help moral development according to the passage?",
+          "options": [
+            "By providing clear answers to moral questions",
+            "By allowing us to enter other lives and cultivate empathy",
+            "By teaching us to ignore emotions",
+            "By simplifying complex situations"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What do we learn from complex literary characters?",
+          "options": [
+            "To categorize people as good or evil",
+            "To hold multiple perspectives simultaneously",
+            "That people are simple to understand",
+            "That morality is black and white"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "Why is the moral imagination essential for democratic citizenship?",
+          "options": [
+            "It helps win arguments",
+            "It requires understanding citizens with different experiences",
+            "It makes voting decisions easier",
+            "It eliminates political differences"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What does the moral imagination offer in an age of polarization?",
+          "options": [
+            "Simplified solutions",
+            "An antidote that reminds us of others' full humanity",
+            "More effective debating tactics",
+            "Ways to avoid difficult conversations"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "title": "The Clockwork Universe",
+      "source": "Aeon - Carlo Rovelli",
+      "difficulty": "medium",
+      "content": "The Newtonian vision of a clockwork universe—predictable, deterministic, following immutable laws—dominated scientific thought for centuries. This metaphor suggested that if we knew all initial conditions, we could predict everything. However, 20th-century physics shattered this certainty. Quantum mechanics introduced fundamental randomness, while chaos theory showed how tiny variations can lead to vastly different outcomes.\n\nYet the clockwork metaphor persists in popular imagination and even in some scientific rhetoric. It comforts us with the illusion of predictability and control. But a more accurate metaphor for our universe might be a creative process—unfolding, evolving, generating novelty. This shift in perspective has philosophical implications: it suggests that the future is genuinely open, not predetermined. It allows for freedom, creativity, and surprise as fundamental aspects of reality, not just human illusions. Embracing this uncertain, creative universe requires humility about our predictive powers but also opens space for genuine novelty and emergence. The universe is less like a precise clock and more like an improvisational jazz performance—structured by rules but constantly surprising.",
+      "wordCount": 215,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What did the Newtonian vision of the universe suggest?",
+          "options": [
+            "Complete randomness",
+            "A predictable, deterministic clockwork",
+            "Continuous creation",
+            "A living organism"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What did 20th-century physics reveal about the universe?",
+          "options": [
+            "It confirmed the clockwork metaphor completely",
+            "It introduced fundamental randomness and unpredictability",
+            "It showed everything was predetermined",
+            "It proved Newton was entirely wrong"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "Why does the clockwork metaphor persist according to the passage?",
+          "options": [
+            "Because it's scientifically accurate",
+            "Because it comforts us with the illusion of predictability",
+            "Because quantum physics supports it",
+            "Because it's easy to understand"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What is a more accurate metaphor proposed in the passage?",
+          "options": [
+            "A precise machine",
+            "A creative process or improvisational jazz",
+            "A mathematical equation",
+            "A predetermined script"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What philosophical implication does this shift in perspective have?",
+          "options": [
+            "The future is completely random",
+            "The future is genuinely open, not predetermined",
+            "Human freedom is an illusion",
+            "Everything is predictable with enough data"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "title": "The Architecture of Thought",
+      "source": "Aeon - Annie Murphy Paul",
+      "difficulty": "medium",
+      "content": "We think of thinking as happening 'in the head,' but cognitive science reveals that thought is embodied, extended, and embedded in our environments. Our physical posture affects our confidence; our gestures help us reason; the spaces we inhabit shape what we can imagine. This 'extended mind' thesis suggests that intelligence is not just a brain property but a system that includes body and world.\n\nArchitecture becomes cognitive technology: a well-designed library supports focused study; a collaborative workspace fosters creativity; a natural environment reduces mental fatigue. Even simple tools like notebooks and whiteboards extend our memory and reasoning capacity. Recognizing this has practical implications for education and work. Instead of treating thinking as a disembodied process, we can design environments that support different cognitive modes. Classrooms could facilitate movement and interaction; offices could offer varied spaces for concentration and collaboration. By thoughtfully arranging our physical and digital environments, we can literally think better. The mind doesn't stop at the skull—it reaches out into the world, and we can design that world to help it flourish.",
+      "wordCount": 215,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does cognitive science reveal about thinking?",
+          "options": [
+            "It happens only in the brain",
+            "It is embodied, extended, and embedded in environments",
+            "It is completely separate from the body",
+            "It is identical to computer processing"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What is the 'extended mind' thesis?",
+          "options": [
+            "Intelligence is only in the brain",
+            "Intelligence is a system including brain, body, and world",
+            "Minds can read other minds",
+            "Thinking gets better with age"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "How does architecture function according to the passage?",
+          "options": [
+            "Only as shelter",
+            "As cognitive technology that shapes thinking",
+            "As purely aesthetic expression",
+            "As a necessary evil"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What practical implication does this have for education?",
+          "options": [
+            "Classrooms should eliminate all distractions",
+            "Classrooms could be designed to facilitate movement and interaction",
+            "Students should only learn online",
+            "Traditional classrooms are perfect as they are"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the main conclusion about the mind?",
+          "options": [
+            "It stops at the skull",
+            "It reaches into the world, and we can design the world to help it flourish",
+            "It is completely independent of environment",
+            "It works best in isolation"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "title": "The Economy of Attention",
+      "source": "Aeon - Tim Wu",
+      "difficulty": "medium",
+      "content": "In an information-abundant world, attention becomes the scarce resource. The 'attention economy' describes how media, technology, and advertising compete for our limited focus. This competition has transformed not just what we pay attention to, but how we pay attention. Continuous partial attention—skimming, switching, multitasking—becomes the norm, eroding our capacity for sustained focus.\n\nThe economics of attention create perverse incentives: content optimized for grabbing attention (through outrage, novelty, or emotion) often differs from content valuable for understanding or well-being. Social media algorithms prioritize engagement over truth or quality. This has cognitive and social consequences: shorter attention spans, increased polarization, and difficulty with complex reasoning. Reclaiming our attention requires recognizing it not as an infinite resource but as a precious capacity to be cultivated and protected. This might involve digital minimalism, attention training practices like meditation, or structural changes to how platforms are designed. In the attention economy, the most radical act may be to choose depth over distraction, to cultivate the ability to attend to what truly matters.",
+      "wordCount": 210,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What becomes the scarce resource in an information-abundant world?",
+          "options": ["Money", "Time", "Attention", "Energy"],
+          "correct": 2
+        },
+        {
+          "id": 2,
+          "question": "What is 'continuous partial attention'?",
+          "options": [
+            "Deep focus on one task",
+            "Skimming, switching, and multitasking as the norm",
+            "Complete absence of attention",
+            "Meditative awareness"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What do the economics of attention create?",
+          "options": [
+            "Incentives for high-quality, thoughtful content",
+            "Perverse incentives where attention-grabbing content differs from valuable content",
+            "Equal distribution of attention",
+            "More free time for everyone"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What cognitive consequence of the attention economy is mentioned?",
+          "options": [
+            "Improved memory",
+            "Shorter attention spans and difficulty with complex reasoning",
+            "Increased intelligence",
+            "Better multitasking ability"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What might reclaiming our attention involve?",
+          "options": [
+            "Consuming more information faster",
+            "Digital minimalism and attention training practices",
+            "Checking social media more frequently",
+            "Watching more television"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "title": "The Biology of Meaning",
+      "source": "Aeon - Antonio Damasio",
+      "difficulty": "medium",
+      "content": "How do physical brains generate meaning? Neuroscience suggests that meaning arises not from abstract computation but from the body's interaction with the world. Our concepts are grounded in sensory and motor experiences: we understand 'grasp' both literally and metaphorically because we have physically grasped objects. Emotions, far from interfering with reason, are essential to assigning value and significance.\n\nThis embodied view of meaning challenges the computer metaphor of mind. Computers process symbols according to rules, but they don't understand what those symbols mean in the way humans do. Human meaning is visceral, tied to survival needs, social connections, and bodily experience. Even abstract concepts like justice or freedom are metaphorically linked to physical experiences (standing upright, breaking chains). This perspective suggests that artificial intelligence, to truly understand meaning, would need something like a body with needs and emotions—or at least a simulation of embodied experience. Meaning isn't something added to information processing; it emerges from being a living organism navigating a world that matters to it.",
+      "wordCount": 205,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How does neuroscience suggest meaning arises?",
+          "options": [
+            "From abstract computation alone",
+            "From the body's interaction with the world",
+            "From divine inspiration",
+            "From logical deduction only"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "How are our concepts grounded according to the passage?",
+          "options": [
+            "In pure logic",
+            "In sensory and motor experiences",
+            "In genetic programming",
+            "In social conventions only"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What role do emotions play in meaning?",
+          "options": [
+            "They interfere with reason",
+            "They are essential to assigning value and significance",
+            "They are irrelevant to meaning",
+            "They confuse meaning"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What does the embodied view challenge?",
+          "options": [
+            "The importance of the brain",
+            "The computer metaphor of mind",
+            "The existence of meaning",
+            "The value of education"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What would AI need to truly understand meaning according to this view?",
+          "options": [
+            "More processing power",
+            "A body with needs and emotions or simulated embodiment",
+            "Better algorithms",
+            "Access to all human knowledge"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "title": "The Philosophy of Identity",
+      "source": "Aeon - Derek Parfit",
+      "difficulty": "medium",
+      "content": "What makes you the same person over time? Common sense suggests physical continuity or memory, but philosophical thought experiments reveal paradoxes. If all your cells were gradually replaced, would you still be you? If your memories were copied to another body, which one is the real you? The philosopher Derek Parfit argued that personal identity isn't what matters. What matters is psychological connectedness—the degree to which future selves share our memories, intentions, and character traits.\n\nThis view has ethical implications. It reduces the importance of the self-other distinction, making altruism more rational. If identity is less strict, concern for others becomes more like concern for our future selves. It also changes how we think about survival: we survive to the extent that our projects, values, and psychological traits continue, whether in our biological body or elsewhere. This perspective can lessen the fear of death while increasing our sense of connection to others. Personal identity may be less a fact and more a convenient fiction—one that shapes our fears and attachments but can be reimagined for greater flourishing.",
+      "wordCount": 215,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does Parfit argue matters instead of strict personal identity?",
+          "options": [
+            "Physical appearance",
+            "Psychological connectedness",
+            "Biological continuity",
+            "Social status"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What ethical implication does this view have?",
+          "options": [
+            "It makes selfishness more rational",
+            "It reduces the self-other distinction, making altruism more rational",
+            "It eliminates all ethical concerns",
+            "It justifies ignoring others"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "How does this perspective change how we think about survival?",
+          "options": [
+            "Only biological survival matters",
+            "We survive if our projects and values continue",
+            "Survival is impossible",
+            "Survival requires memory of every experience"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "How might this view affect the fear of death?",
+          "options": [
+            "Increase it dramatically",
+            "Lessen it while increasing connection to others",
+            "Make it irrelevant",
+            "Turn it into joy"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "How is personal identity described in the conclusion?",
+          "options": [
+            "An absolute fact",
+            "A convenient fiction that can be reimagined",
+            "A biological certainty",
+            "A religious truth"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "title": "The Science of Stories",
+      "source": "Aeon - Jonathan Gottschall",
+      "difficulty": "medium",
+      "content": "Humans are storytelling animals. We don't just enjoy stories; we think in stories, remember in stories, and understand our lives as narratives. Evolutionary psychology suggests this isn't accidental. Stories function as simulation technology, allowing us to safely explore social situations, consider consequences, and transmit cultural knowledge. They bind communities through shared myths and create common moral frameworks.\n\nNeuroscience reveals that when we hear a compelling story, our brains don't just process language—they simulate the experiences described. If a character runs, our motor cortex activates; if they feel fear, our amygdala responds. Stories are empathy machines, allowing us to feel what others feel. This power makes stories potent tools for persuasion and change, but also for manipulation. Understanding the science of stories helps us become more critical consumers of narratives—whether in advertising, politics, or personal relationships. It also suggests that if we want to change minds or cultures, we need better stories, not just better arguments. Facts may inform, but stories transform.",
+      "wordCount": 210,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How do humans think according to the passage?",
+          "options": [
+            "In abstract concepts only",
+            "In stories",
+            "In mathematical formulas",
+            "In isolated facts"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What evolutionary function do stories serve?",
+          "options": [
+            "Decoration",
+            "Simulation technology for exploring social situations",
+            "Wasting time",
+            "Confusing enemies"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What happens in our brains when we hear compelling stories?",
+          "options": [
+            "They shut down",
+            "They simulate the experiences described",
+            "They only process words",
+            "They become less active"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What are stories described as?",
+          "options": [
+            "Empathy machines",
+            "Lies",
+            "Simple entertainment",
+            "Historical records"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 5,
+          "question": "What is needed to change minds or cultures according to the passage?",
+          "options": [
+            "Better arguments alone",
+            "Better stories",
+            "More facts",
+            "Stricter laws"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "title": "The Nature of Time",
+      "source": "Aeon - Lee Smolin",
+      "difficulty": "medium",
+      "content": "Is time real or an illusion? Physics presents a puzzle: the equations of general relativity suggest time might be an emergent property, not fundamental. Yet our experience of time—of past, present, and future—feels undeniable. Some physicists argue that time is fundamental and real, with the present moment having special status. Others see time as a human projection onto a timeless universe.\n\nThis debate has philosophical implications. If time is unreal, free will may be illusory—everything just 'is' in a four-dimensional block. But if time is real and fundamental, then novelty and genuine change are possible. The experience of becoming—of things actually happening—would be central to reality. How we resolve this question affects how we understand agency, responsibility, and the meaning of our lives. Perhaps time is both real and relational: not an absolute container but a measure of change and relationship. In this view, time emerges from the interactions of things, making it both real in our experience and derivative in the deepest physical description.",
+      "wordCount": 205,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What puzzle does physics present about time?",
+          "options": [
+            "It goes too fast",
+            "Equations suggest it might be emergent, not fundamental",
+            "It only exists in the mind",
+            "It is perfectly understood"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "If time is unreal, what might be illusory?",
+          "options": ["Space", "Free will", "Matter", "Energy"],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "If time is real and fundamental, what becomes possible?",
+          "options": [
+            "Time travel",
+            "Novelty and genuine change",
+            "Eternal life",
+            "Stopping time"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What does the experience of 'becoming' refer to?",
+          "options": [
+            "Things actually happening",
+            "Growing older",
+            "Evolution",
+            "Learning"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 5,
+          "question": "What is the relational view of time?",
+          "options": [
+            "Time is an absolute container",
+            "Time emerges from interactions of things",
+            "Time is only psychological",
+            "Time doesn't exist"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "title": "The Psychology of Ritual",
+      "source": "Aeon - Cristine Legare",
+      "difficulty": "medium",
+      "content": "Rituals are often dismissed as irrational, but they serve important psychological functions across cultures. Rituals reduce anxiety by imposing order on uncertainty. Before competitions, athletes follow precise routines; during crises, communities perform ceremonies. These patterned behaviors provide a sense of control when outcomes are unpredictable.\n\nRituals also mark transitions, helping individuals and groups navigate life changes: births, marriages, deaths, graduations. They create social cohesion through synchronized actions and shared symbolic meaning. Interestingly, the very features that make rituals seem irrational—their rigidity, repetition, and lack of instrumental purpose—may be what make them effective. These characteristics signal commitment to the group and create memorable experiences. Modern life has fewer formal rituals, but we create our own—morning routines, pre-game superstitions, family traditions. Recognizing the psychological value of ritual can help us design better rituals for modern challenges: transitions, grief, or building community in fragmented societies.",
+      "wordCount": 200,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What psychological function do rituals serve?",
+          "options": [
+            "Increase anxiety",
+            "Reduce anxiety by imposing order on uncertainty",
+            "Create chaos",
+            "Waste time"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "How do rituals help with life changes?",
+          "options": [
+            "By ignoring them",
+            "By marking transitions",
+            "By making them longer",
+            "By eliminating emotion"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What do rituals create through synchronized actions?",
+          "options": [
+            "Social isolation",
+            "Social cohesion",
+            "Competition",
+            "Confusion"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What paradoxical feature makes rituals effective?",
+          "options": [
+            "Their flexibility",
+            "Their rigidity and lack of instrumental purpose",
+            "Their practicality",
+            "Their novelty"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What can recognizing the value of ritual help us do?",
+          "options": [
+            "Eliminate all rituals",
+            "Design better rituals for modern challenges",
+            "Make rituals more irrational",
+            "Forget traditional rituals"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "title": "The Future of Intelligence",
+      "source": "Aeon - Andy Clark",
+      "difficulty": "medium",
+      "content": "Intelligence is often measured by individual brainpower, but the future may belong to collective intelligence. Humans have always used tools to think better, from writing to computers. Now we're creating systems where humans and machines think together in hybrid networks. Wikipedia, citizen science projects, and prediction markets demonstrate collective intelligence exceeding individual experts.\n\nThe challenge is designing these systems well. They can amplify bias if poorly constructed or create groupthink if diversity is lacking. But well-designed collective intelligence can tackle problems too complex for any individual or institution. This suggests that enhancing human intelligence isn't just about improving brains or building smarter AI—it's about creating better ways for intelligences (biological and artificial) to connect, share, and build on each other's insights. Education might shift from filling individual minds to teaching participation in collective thinking. The most intelligent entity of the future may not be a human or a machine, but a well-designed network connecting many minds.",
+      "wordCount": 200,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What may the future of intelligence belong to?",
+          "options": [
+            "Individual genius",
+            "Collective intelligence",
+            "Alien minds",
+            "Genetic enhancement"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What examples demonstrate collective intelligence?",
+          "options": [
+            "Solitary meditation",
+            "Wikipedia and citizen science projects",
+            "Standardized tests",
+            "Private diaries"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What can poorly designed systems amplify?",
+          "options": ["Creativity", "Bias", "Intelligence", "Memory"],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What should enhancing intelligence focus on according to the passage?",
+          "options": [
+            "Only improving individual brains",
+            "Creating better ways for intelligences to connect",
+            "Building the fastest computers",
+            "Isolating geniuses"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "How might education shift?",
+          "options": [
+            "From learning to memorizing",
+            "From participation to isolation",
+            "From filling individual minds to teaching collective thinking",
+            "From schools to no education"
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "title": "The Paradox of Self-Knowledge",
+      "source": "Aeon - Timothy Wilson",
+      "difficulty": "medium",
+      "content": "We believe we know ourselves better than anyone, but psychological research suggests otherwise. Our conscious minds are like reporters trying to explain decisions made by unconscious processes. We confabulate—create plausible but inaccurate stories about why we feel or act as we do. The 'adaptive unconscious' processes vast information quickly, while consciousness constructs narratives to make sense of it all.\n\nThis creates the paradox: the person most certain of their self-knowledge may be most mistaken. We're poor predictors of our future happiness, bad at identifying what truly motivates us, and unaware of many biases affecting our judgments. Better self-knowledge comes not from introspection alone, but from observing our behavior over time, seeking feedback from others, and testing our assumptions through experience. The self is less transparent and more constructed than we assume. Embracing this humility about self-knowledge can make us more open to growth and less defensive when our self-conceptions are challenged.",
+      "wordCount": 205,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does psychological research suggest about self-knowledge?",
+          "options": [
+            "We know ourselves perfectly",
+            "We know ourselves less well than we think",
+            "Only psychologists can know us",
+            "Self-knowledge is impossible"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What is confabulation?",
+          "options": [
+            "Creating accurate self-reports",
+            "Creating plausible but inaccurate stories about our motives",
+            "Remembering everything perfectly",
+            "Forgetting intentionally"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What is the 'adaptive unconscious'?",
+          "options": [
+            "A Freudian concept only",
+            "Processes that handle information quickly outside awareness",
+            "The part that makes bad decisions",
+            "A myth"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "Who may be most mistaken about themselves?",
+          "options": [
+            "Those who never think about themselves",
+            "Those most certain of their self-knowledge",
+            "Those with low self-esteem",
+            "Those who meditate"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "How does better self-knowledge come according to the passage?",
+          "options": [
+            "Only from deep introspection",
+            "From observing behavior, feedback, and testing assumptions",
+            "From ignoring others' opinions",
+            "From genetic testing"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "title": "The Consciousness of Animals",
+      "source": "Aeon - Frans de Waal",
+      "difficulty": "medium",
+      "content": "For centuries, philosophers and scientists debated whether animals have consciousness, often concluding they were mere automata. Today, evidence from cognitive ethology suggests many animals possess rich inner lives. Elephants mourn their dead, dolphins recognize themselves in mirrors, and corvids plan for future needs—all behaviors suggesting self-awareness and complex cognition.\n\nThe challenge lies not in proving animal consciousness but in overcoming our tendency to see it through an anthropocentric lens. Animal consciousness may differ from ours—more focused on scent for dogs, electroreception for platypuses, or echolocation for bats. The 'hard problem' of consciousness applies to animals too: we can observe neural correlates but not experience qualia directly. Yet the evolutionary continuity of nervous systems suggests consciousness didn't appear suddenly in humans but evolved gradually. Recognizing animal consciousness has ethical implications for how we treat other species. It challenges the human exceptionalism that has justified exploitation. If consciousness is a spectrum rather than a human monopoly, our moral circle must expand to include beings whose experiences, while different, are nonetheless real.",
+      "wordCount": 205,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does modern cognitive ethology suggest about animals?",
+          "options": [
+            "They are mere automata without inner lives",
+            "Many possess rich inner lives and complex cognition",
+            "Only primates have consciousness",
+            "Consciousness is uniquely human"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What is the challenge in studying animal consciousness?",
+          "options": [
+            "Overcoming anthropocentric perspectives",
+            "Lack of scientific methods",
+            "Animals hide their consciousness",
+            "It's illegal to study"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 3,
+          "question": "What does evolutionary continuity suggest about consciousness?",
+          "options": [
+            "It appeared suddenly in humans",
+            "It evolved gradually across species",
+            "It exists only in mammals",
+            "It's a recent evolutionary development"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What ethical implication is mentioned?",
+          "options": [
+            "We should stop studying animals",
+            "It challenges human exceptionalism and exploitation",
+            "Animals have no rights",
+            "Only humans deserve ethical consideration"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "How is consciousness best understood according to the passage?",
+          "options": [
+            "As a human monopoly",
+            "As a spectrum across species",
+            "As identical in all animals",
+            "As impossible to study"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "title": "The End of Education",
+      "source": "Aeon - Yong Zhao",
+      "difficulty": "medium",
+      "content": "Traditional education systems, designed for industrialization, prioritize standardization, compliance, and the transmission of fixed knowledge. In an age of rapid change, artificial intelligence, and global connectivity, this model is increasingly obsolete. The 'end of education' doesn't mean stopping learning, but ending an outdated paradigm.\n\nFuture-ready education would cultivate creativity, entrepreneurship, and adaptability over rote memorization. It would be personalized rather than standardized, project-based rather than subject-divided, and focused on creating rather than consuming knowledge. Such systems already exist in innovative schools worldwide, where students solve real problems, work collaboratively, and develop agency over their learning. The barrier isn't pedagogical knowledge but political will and institutional inertia. Transforming education requires rethinking assessment (portfolios over tests), teacher roles (mentors over lecturers), and physical spaces (studios over classrooms). The goal isn't to prepare students for existing jobs but to equip them to create jobs, solve unforeseen problems, and thrive in uncertain futures. Education must evolve from factory model to ecosystem.",
+      "wordCount": 210,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What was traditional education designed for?",
+          "options": [
+            "The information age",
+            "Industrialization",
+            "Agricultural society",
+            "Post-modernism"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What does 'the end of education' refer to?",
+          "options": [
+            "Stopping all learning",
+            "Ending an outdated paradigm",
+            "Closing schools",
+            "Online learning only"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What should future education cultivate according to the passage?",
+          "options": [
+            "Rote memorization",
+            "Creativity and adaptability",
+            "Standardized test skills",
+            "Compliance and obedience"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What is identified as the main barrier to change?",
+          "options": [
+            "Lack of pedagogical knowledge",
+            "Political will and institutional inertia",
+            "Student resistance",
+            "Technology costs"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What metaphor describes the needed transformation?",
+          "options": [
+            "From factory to ecosystem",
+            "From garden to factory",
+            "From ecosystem to machine",
+            "From network to hierarchy"
+          ],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "title": "The Psychology of Spaces",
+      "source": "Aeon - Colin Ellard",
+      "difficulty": "medium",
+      "content": "Our environments shape our psychology in profound ways, yet we design spaces with little attention to their cognitive and emotional impacts. Vast, blank corridors induce anxiety; cramped cubicles depress creativity; windowless rooms increase stress. Conversely, spaces with natural elements, varied textures, and prospects for movement enhance well-being and thinking.\n\nEnvironmental psychology reveals specific principles: humans need 'prospect and refuge'—the ability to see without being seen, explaining why window seats in cafes are preferred. We respond positively to biophilic design incorporating plants, water, and natural light. Complex but legible spaces stimulate without overwhelming. These insights have applications from offices to hospitals to cities. A hospital room with a view of trees literally helps patients recover faster. An office with communal and private areas supports different work modes. Urban design that includes green spaces and walkable streets fosters community and mental health. By applying psychology to architecture and design, we can create environments that don't just house us, but help us flourish.",
+      "wordCount": 200,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What do vast, blank corridors tend to induce?",
+          "options": ["Creativity", "Anxiety", "Calm", "Productivity"],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What is 'prospect and refuge'?",
+          "options": [
+            "A financial term",
+            "The ability to see without being seen",
+            "A type of building",
+            "Anxiety in open spaces"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What is biophilic design?",
+          "options": [
+            "Design without nature",
+            "Incorporating plants, water, and natural light",
+            "Minimalist design",
+            "High-tech design"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What practical effect does a hospital room with a tree view have?",
+          "options": [
+            "Increases costs",
+            "Helps patients recover faster",
+            "No effect",
+            "Distracts doctors"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the main argument of the passage?",
+          "options": [
+            "Design doesn't matter",
+            "We should apply psychology to create flourishing environments",
+            "All spaces are essentially the same",
+            "Only architects understand space"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "title": "The Attention Economy",
+      "source": "Aeon - James Williams",
+      "difficulty": "medium",
+      "content": "In digital capitalism, attention has become the primary currency. Platforms compete not for dollars directly, but for minutes of user engagement. This has created an 'attention economy' with perverse incentives: content is optimized for virality rather than truth, for emotion rather than reason, for addiction rather than well-being.\n\nThe psychological techniques used—variable rewards, infinite scroll, autoplay—are borrowed from slot machine design. They exploit cognitive vulnerabilities to keep us engaged, often at the cost of our attention spans, mental health, and democratic discourse. The solution isn't individual willpower alone but structural change. This could include design ethics (how about a 'time well spent' metric?), regulation (limits on persuasive design), and new business models (subscriptions over advertising). We need to recognize that attention is not just a resource but the fabric of our consciousness—what we pay attention to shapes who we are. Reclaiming attention means reclaiming our minds from systems designed to capture them.",
+      "wordCount": 195,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What has become the primary currency in digital capitalism?",
+          "options": ["Money", "Data", "Attention", "Content"],
+          "correct": 2
+        },
+        {
+          "id": 2,
+          "question": "What are digital platforms optimized for?",
+          "options": [
+            "Truth and reason",
+            "User engagement and virality",
+            "Educational value",
+            "Offline interaction"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "Where are persuasive design techniques borrowed from?",
+          "options": [
+            "Educational theory",
+            "Slot machine design",
+            "Library science",
+            "Meditation practices"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What is needed beyond individual willpower?",
+          "options": [
+            "Stronger addictive designs",
+            "Structural change and design ethics",
+            "More free apps",
+            "Less regulation"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "Why is reclaiming attention important according to the passage?",
+          "options": [
+            "It saves time",
+            "Attention shapes who we are",
+            "It makes platforms less money",
+            "It's impossible anyway"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "title": "The History of Emotions",
+      "source": "Aeon - Barbara Rosenwein",
+      "difficulty": "medium",
+      "content": "Emotions feel universal and timeless, but historians demonstrate they have histories. Medieval 'accidie' (spiritual apathy) was a deadly sin; Victorian 'sentiment' was a moral virtue; modern 'stress' is a medical condition. Each era has its emotional repertoire shaped by cultural, religious, and social norms.\n\nThese emotional styles are learned through socialization—what to feel, when, how intensely, and how to express it. The words available in a language enable certain emotions to be recognized and articulated while others remain inchoate. This historical perspective doesn't make emotions less real but reveals their plasticity. It also challenges psychological universalism: while basic affective responses may be biological, their meaning and expression are culturally constructed. Understanding emotional history helps us see our own emotional landscape as contingent rather than natural. It offers the possibility of emotional innovation—consciously cultivating emotional habits better suited to contemporary challenges than inherited Victorian sentimentalism or stoic repression.",
+      "wordCount": 195,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What do historians demonstrate about emotions?",
+          "options": [
+            "They are universal and unchanging",
+            "They have histories and change over time",
+            "They don't really exist",
+            "They are purely biological"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What was medieval 'accidie' considered?",
+          "options": [
+            "A virtue",
+            "A deadly sin",
+            "A medical condition",
+            "A sign of intelligence"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "How are emotional styles learned?",
+          "options": [
+            "Through genetics",
+            "Through socialization",
+            "Through instinct",
+            "Through meditation"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What does this perspective challenge?",
+          "options": [
+            "The existence of emotions",
+            "Psychological universalism",
+            "Historical research",
+            "Biological science"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What possibility does emotional history offer?",
+          "options": [
+            "Returning to past emotions",
+            "Emotional innovation for contemporary challenges",
+            "Eliminating emotions",
+            "Proving which emotions are correct"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "title": "The Science of Science",
+      "source": "Aeon - Philip Kitcher",
+      "difficulty": "medium",
+      "content": "Science is often presented as a pure pursuit of truth, but studying how science actually works reveals a social process with human imperfections. The 'science of science' uses empirical methods to examine scientific practice: how discoveries happen, why some ideas spread while others don't, how biases affect research, and how to improve the system.\n\nFindings include: most breakthroughs come from connecting disparate fields; diversity in research teams produces more innovative work; peer review has limitations in detecting fraud or bias; and the 'publish or perish' culture incentivizes quantity over quality. This meta-science doesn't undermine science but helps optimize it. Proposed reforms include preregistration of studies to reduce publication bias, open data and code for reproducibility, and alternative metrics beyond citation counts. Recognizing science as a fallible human institution rather than an infallible oracle makes it stronger. The goal isn't to tear down science but to build a more robust, transparent, and effective scientific enterprise for addressing humanity's complex challenges.",
+      "wordCount": 210,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does the 'science of science' study?",
+          "options": [
+            "Only scientific facts",
+            "How scientific practice actually works",
+            "How to do experiments",
+            "Historical scientists only"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "Where do most breakthroughs come from according to the passage?",
+          "options": [
+            "Isolated genius",
+            "Connecting disparate fields",
+            "Accidental discoveries",
+            "Government funding"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What effect does diversity in research teams have?",
+          "options": [
+            "Reduces innovation",
+            "Produces more innovative work",
+            "Causes conflict",
+            "Slows progress"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What is one proposed reform mentioned?",
+          "options": [
+            "More secrecy",
+            "Preregistration of studies",
+            "Fewer publications",
+            "Eliminating peer review"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "How does recognizing science as fallible affect it?",
+          "options": [
+            "Weakens it",
+            "Makes it stronger",
+            "Destroys public trust",
+            "Makes it irrelevant"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "title": "The Aesthetics of Failure",
+      "source": "Aeon - Matthew Crawford",
+      "difficulty": "medium",
+      "content": "Contemporary culture celebrates success while treating failure as something to be hidden or quickly overcome. Yet there is an alternative aesthetics that finds value in failure's traces. Worn stone steps, faded photographs, weathered wood—these show the passage of time and use, telling stories that perfection cannot. In Japan, the concept of 'wabi-sabi' finds beauty in imperfection, impermanence, and incompleteness.\n\nThis appreciation extends beyond objects to human endeavors. Scientific progress depends on failed experiments; artistic innovation emerges from creative risks that don't always succeed. Failure reveals limits and teaches humility, while constant success can foster arrogance and fragile self-esteem. Embracing an aesthetics of failure doesn't mean celebrating incompetence, but rather recognizing that attempts, struggles, and even breakdowns are part of meaningful engagement with the world. It values the patina of experience over the sheen of untouched perfection. In a culture obsessed with optimization and flawless performance, finding beauty in what is cracked, worn, or unfinished becomes a quietly radical act—a recognition that life's value isn't measured only by successes but by the depth of engagement with reality in all its resistant complexity.",
+      "wordCount": 210,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What cultural attitude toward failure does the passage describe?",
+          "options": [
+            "Celebration and appreciation",
+            "Something to be hidden or quickly overcome",
+            "Complete indifference",
+            "Systematic study"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What Japanese concept finds beauty in imperfection?",
+          "options": ["Ikigai", "Wabi-sabi", "Kaizen", "Mottainai"],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "How does failure contribute to scientific progress?",
+          "options": [
+            "It stops progress completely",
+            "Through failed experiments that provide data",
+            "It has no role in science",
+            "Only successful experiments matter"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What does failure teach according to the passage?",
+          "options": [
+            "Only that one should give up",
+            "Humility and reveals limits",
+            "How to cheat better",
+            "That success is impossible"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the 'quietly radical act' mentioned in the conclusion?",
+          "options": [
+            "Performing perfectly",
+            "Finding beauty in what is cracked or unfinished",
+            "Rejecting all tradition",
+            "Avoiding all risk"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "title": "The Neuroscience of Free Will",
+      "source": "Aeon - Patrick Haggard",
+      "difficulty": "medium",
+      "content": "Neuroscience experiments showing brain activity preceding conscious decisions have sparked debates about free will. If our brains decide before we're aware of deciding, is free will an illusion? This interpretation oversimplifies both the science and the philosophy. The experiments measure simple, arbitrary choices, not complex moral decisions. More importantly, they conflate different levels of description.\n\nBrain processes are necessary for decisions but don't eliminate agency. Just as the hardware of a computer doesn't negate the reality of software, neural processes don't negate the reality of conscious deliberation. Free will might be better understood as a higher-level property of complex systems—the capacity to reflect on impulses, consider alternatives, and act according to values. This capacity emerges from brains but isn't reducible to simple neural events. Rather than eliminating responsibility, neuroscience can refine it by revealing factors that influence decisions (fatigue, bias, addiction). The challenge is integrating scientific findings with our experience of agency without falling into either scientistic reductionism or antiscientific dualism. Free will may not be what we thought, but neither is it an illusion—it's a complex capacity that can be studied, understood, and cultivated.",
+      "wordCount": 215,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What sparked debates about free will in neuroscience?",
+          "options": [
+            "Brain activity preceding conscious decisions",
+            "Discovery of the soul",
+            "Psychological theories",
+            "Philosophical arguments alone"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 2,
+          "question": "What limitation of the experiments is mentioned?",
+          "options": [
+            "They measure complex moral decisions",
+            "They measure simple, arbitrary choices",
+            "They don't measure brain activity",
+            "They involve too few subjects"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What analogy is used to explain different levels of description?",
+          "options": [
+            "Car and driver",
+            "Computer hardware and software",
+            "Building and blueprint",
+            "Tree and leaves"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "How might free will be better understood?",
+          "options": [
+            "As a simple neural event",
+            "As a higher-level property of complex systems",
+            "As complete randomness",
+            "As a supernatural force"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "How can neuroscience refine responsibility according to the passage?",
+          "options": [
+            "By eliminating it completely",
+            "By revealing factors that influence decisions",
+            "By proving we have no control",
+            "By making punishment harsher"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "title": "The Ecology of Ideas",
+      "source": "Aeon - Steven Johnson",
+      "difficulty": "medium",
+      "content": "Ideas don't emerge in isolation but in ecosystems. The 'adjacent possible' concept suggests that innovations become viable only when certain prerequisites exist. The printing press required paper, movable type, and demand for texts—conditions that emerged gradually. Similarly, multiple scientists often make discoveries simultaneously when the intellectual ecosystem is ready.\n\nThis ecological view emphasizes connectivity over lone genius. Ideas spread through networks, combining with other ideas to create new possibilities. Cities, coffeehouses, and the internet function as idea ecosystems where diverse perspectives interact. The quality of an idea ecosystem depends on diversity (different viewpoints), connectivity (ways ideas can combine), and openness to novelty. Intellectual monocultures produce stagnation, while rich ecosystems foster innovation. This perspective suggests that fostering creativity is less about inspiring individuals and more about designing environments where ideas can connect: interdisciplinary spaces, serendipitous encounters, and platforms for sharing half-formed thoughts. The most innovative societies may be those that optimize not for efficiency but for fruitful collisions between disparate ideas and people.",
+      "wordCount": 200,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does the 'adjacent possible' concept suggest?",
+          "options": [
+            "Anything is possible at any time",
+            "Innovations need certain prerequisites to become viable",
+            "Ideas come from nowhere",
+            "Only geniuses create innovations"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What often happens when the intellectual ecosystem is ready?",
+          "options": [
+            "Nothing changes",
+            "Multiple scientists make discoveries simultaneously",
+            "All progress stops",
+            "Ideas become less important"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What functions as idea ecosystems according to the passage?",
+          "options": [
+            "Only libraries",
+            "Cities, coffeehouses, and the internet",
+            "Isolated laboratories",
+            "Individual brains only"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What do intellectual monocultures produce?",
+          "options": [
+            "Rapid innovation",
+            "Stagnation",
+            "Perfect ideas",
+            "More geniuses"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What should societies optimize for according to the conclusion?",
+          "options": [
+            "Maximum efficiency only",
+            "Fruitful collisions between disparate ideas",
+            "Isolation of thinkers",
+            "Elimination of all old ideas"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "title": "The Phenomenology of Boredom",
+      "source": "Aeon - Lars Svendsen",
+      "difficulty": "medium",
+      "content": "Boredom is more than mere disinterest; it's a philosophical mood that reveals our relationship to time and meaning. Existential boredom—the feeling that nothing matters, that time is empty—uncovers the groundlessness of our existence. Unlike situational boredom (waiting in line), existential boredom questions the very point of our activities.\n\nThis uncomfortable state can be transformative. By stripping away habitual distractions, boredom creates space for questioning: What do I truly want? What gives life meaning? The problem isn't boredom itself but our response to it. We typically treat it as a void to be filled with consumption or distraction, missing its potential as a catalyst for self-examination. Philosophers from Kierkegaard to Heidegger saw boredom as revealing our freedom: if nothing necessarily matters, we must choose what matters. In this light, boredom isn't pathology but possibility—the unsettled feeling that precedes reevaluation and redirection. Learning to tolerate boredom without immediately escaping it might be essential for developing autonomy and discovering authentic interests rather than passively consuming prefabricated entertainments.",
+      "wordCount": 200,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does existential boredom reveal according to the passage?",
+          "options": [
+            "That everything is fun",
+            "The groundlessness of our existence",
+            "That time is full",
+            "That we are always busy"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "How can boredom be transformative?",
+          "options": [
+            "By making time pass faster",
+            "By creating space for questioning meaning",
+            "By eliminating all thought",
+            "By providing entertainment"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What is our typical response to boredom?",
+          "options": [
+            "To examine it deeply",
+            "To fill it with consumption or distraction",
+            "To appreciate it",
+            "To write about it"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What did philosophers like Heidegger see boredom as revealing?",
+          "options": [
+            "Our lack of freedom",
+            "Our freedom to choose what matters",
+            "The meaning of life",
+            "That we should avoid boredom"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What might learning to tolerate boredom help develop?",
+          "options": [
+            "Addiction to distraction",
+            "Autonomy and authentic interests",
+            "Better entertainment choices",
+            "Immunity to all feelings"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "title": "The Anthropology of Money",
+      "source": "Aeon - David Graeber",
+      "difficulty": "medium",
+      "content": "Money is typically understood through economics, but anthropology reveals it as a social institution with moral dimensions. Contrary to the myth that money emerged from barter, historical evidence shows that money-like systems developed from social debts and obligations. Gift economies created relationships of reciprocity that later became quantified.\n\nMoney isn't neutral; it carries cultural meanings and shapes social relations. It can commodify what was previously sacred, turning relationships into transactions. Yet money also enables cooperation across vast networks of strangers. This dual nature creates moral dilemmas: how do we prevent market values from crowding out non-market values like care, friendship, or civic duty? Different societies have drawn different boundaries. Some have prohibited charging interest (usury laws); others have created non-monetary spheres (family, religion). Understanding money anthropologically helps us see it as a human creation that can be redesigned. Complementary currencies, time banks, and local exchange systems demonstrate alternatives to conventional money. The question isn't whether to have money, but what kind of social relations we want our monetary systems to foster.",
+      "wordCount": 210,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does anthropology reveal about money?",
+          "options": [
+            "It's purely economic",
+            "It's a social institution with moral dimensions",
+            "It's always harmful",
+            "It's a natural phenomenon"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What historical evidence contradicts the barter myth?",
+          "options": [
+            "Money emerged from gold",
+            "Money-like systems developed from social debts",
+            "Barter was universal",
+            "Money was invented by kings"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What is money's dual nature?",
+          "options": [
+            "It commodifies but also enables cooperation",
+            "It's both paper and metal",
+            "It's real and imaginary",
+            "It helps and harms equally"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 4,
+          "question": "What moral dilemma does money create?",
+          "options": [
+            "How to make more of it",
+            "Preventing market values from crowding out non-market values",
+            "How to hide it",
+            "Whether to use it at all"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What examples of alternative systems are mentioned?",
+          "options": [
+            "Only conventional banks",
+            "Complementary currencies and time banks",
+            "Barter systems",
+            "Digital currencies only"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "title": "The Philosophy of Hope",
+      "source": "Aeon - Jonathan Lear",
+      "difficulty": "medium",
+      "content": "Hope is often confused with optimism or wishful thinking, but philosophers distinguish it as something deeper. Optimism expects a good outcome; hope maintains commitment to possibilities even when optimism isn't justified. In extreme situations—illness, injustice, ecological crisis—hope becomes a radical orientation toward the future.\n\nThe philosopher Gabriel Marcel described hope as 'the memory of the future'—not prediction but active anticipation that keeps possibilities alive. Hope acknowledges reality's constraints while refusing to be determined by them. It's what allows social movements to persist against overwhelming odds, or patients to engage with treatment despite uncertain outcomes. This conception of hope has practical implications: it suggests we should cultivate not naive positivity but the capacity to imagine and work toward alternatives even when success seems unlikely. Hope in this sense is a virtue that sustains agency in adversity. It's less about what will happen than about how we relate to what might happen—keeping open the space for novelty and redemption in a world that often seems closed.",
+      "wordCount": 195,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How is hope distinguished from optimism?",
+          "options": [
+            "They are the same",
+            "Hope maintains commitment even without justified optimism",
+            "Optimism is deeper than hope",
+            "Hope is always justified"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What did Gabriel Marcel call hope?",
+          "options": [
+            "The denial of the future",
+            "'The memory of the future'",
+            "Wishful thinking",
+            "A prediction"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What does hope acknowledge while refusing to be determined by?",
+          "options": [
+            "Only possibilities",
+            "Reality's constraints",
+            "Nothing",
+            "The past only"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What does hope allow social movements to do?",
+          "options": [
+            "Give up quickly",
+            "Persist against overwhelming odds",
+            "Be certain of victory",
+            "Ignore reality"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is hope as a virtue?",
+          "options": [
+            "Naive positivity",
+            "What sustains agency in adversity",
+            "Certainty of outcome",
+            "Avoiding all risk"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "title": "Philosopher of Pride",
+      "source": "Aeon - Andrea Branchi",
+      "difficulty": "medium",
+      "content": "The 18th-century thinker Bernard Mandeville offered a provocative and cynical view of human society. He argued that what we call virtue and civilization are not built on noble self-sacrifice, but on our most ignoble trait: pride. At the foundation of society, he claimed, lies a 'bottomless need to be liked' and admired by others[citation:1]. Our desire for the good opinion of our peers is the engine that drives us to cooperate, create art, follow laws, and build complex economies.\n\nThis perspective turns conventional morality on its head. Acts that appear altruistic are, in Mandeville's analysis, often sophisticated attempts to feed our own vanity and secure social status. The doctor seeks praise for his skill, the philanthropist for her generosity. This does not make their actions worthless—far from it. Mandeville's point is that a society can flourish precisely because it cleverly channels these selfish passions toward publicly beneficial ends. His philosophy forces a difficult question: does the moral worth of an action depend on the purity of its motive, or solely on its beneficial outcome for society? It suggests that our social world is a magnificent, if somewhat deceptive, edifice built upon the shaky ground of human vanity.",
+      "wordCount": 230,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What human trait did Mandeville identify as the foundation of society?",
+          "options": [
+            "Rational self-interest",
+            "A bottomless need to be liked and admired",
+            "Innate kindness",
+            "Fear of punishment"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "How does Mandeville's view reinterpret seemingly altruistic acts?",
+          "options": [
+            "As divinely inspired",
+            "As attempts to feed vanity and secure status",
+            "As genetic imperatives",
+            "As random accidents"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "According to the passage, what is Mandeville's view on whether society can flourish from selfish passions?",
+          "options": [
+            "It is impossible",
+            "It can flourish if passions are channeled toward public benefit",
+            "It leads only to corruption",
+            "He did not address this"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What difficult question does Mandeville's philosophy force?",
+          "options": [
+            "Whether money is the root of all evil",
+            "Whether moral worth depends on pure motive or good outcome",
+            "Whether governments are necessary",
+            "Whether humans are inherently good"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What metaphor is used to describe society in the conclusion?",
+          "options": [
+            "A well-oiled machine",
+            "A magnificent edifice built on the shaky ground of vanity",
+            "A garden to be cultivated",
+            "A prison of our own making"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "title": "Long Live the Aeonophiles!",
+      "source": "Aeon - Karen G Lloyd",
+      "difficulty": "medium",
+      "content": "The discovery of microorganisms that have been alive, metabolically active, and reproducing for tens or even hundreds of thousands of years shatters our conventional understanding of life's timescales[citation:1]. These 'aeonophiles'—lovers of the eon—exist in deep-sea sediments, buried ice, and within the Earth's crust. Their existence demands a revolution in biology, challenging the very definition of what it means to be alive.\n\nWe typically measure life in rapid cycles of growth and decay, but these microbes operate on a geological clock. Their metabolism is unimaginably slow, their reproduction a rare event separated by millennia. This forces scientists to reconsider life not as a fleeting, frantic state, but as a persistent, barely-there whisper that can endure across epochs. The implications are profound. If life can exist in such a suspended, energy-starved state for so long, it vastly expands the possible habitats for life elsewhere in the universe. It also blurs the line between life and non-life, suggesting a continuum of vitality. Studying these aeonophiles is more than a biological curiosity; it is a fundamental inquiry into the minimum requirements for persistence, forcing us to expand our imagination of life's potential in both time and space.",
+      "wordCount": 235,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What discovery does the passage say shatters our understanding of life's timescales?",
+          "options": [
+            "The oldest dinosaur fossil",
+            "Microorganisms alive for tens of thousands of years",
+            "A 5,000-year-old tree",
+            "Immortal jellyfish"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "Where do these 'aeonophile' microorganisms exist?",
+          "options": [
+            "Only in laboratory petri dishes",
+            "In deep-sea sediments, ice, and Earth's crust",
+            "On the surfaces of leaves",
+            "In the human gut"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "How does the passage contrast their life cycle with the conventional view?",
+          "options": [
+            "Rapid vs. geological timescales",
+            "Plant vs. animal cycles",
+            "Visible vs. microscopic",
+            "Independent vs. symbiotic"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 4,
+          "question": "What is one major implication of this discovery for astrobiology?",
+          "options": [
+            "Life must be based on DNA",
+            "It vastly expands possible habitats for life in the universe",
+            "It proves life only exists on Earth",
+            "It shows life needs abundant sunlight"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What fundamental line does this discovery blur?",
+          "options": [
+            "Between plant and animal kingdoms",
+            "Between life and non-life",
+            "Between evolution and creation",
+            "Between biology and physics"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "title": "The Empty Ideology",
+      "source": "Aeon - Gabriel Asuquo",
+      "difficulty": "medium",
+      "content": "In many African nations, liberalism—with its promises of individual rights, free markets, and democratic governance—has failed to deliver widespread prosperity, dignity, or genuine self-determination[citation:1]. Imposed through colonial structures and post-colonial economic programs, it often feels like an alien framework, an 'empty ideology' disconnected from local realities and historical experience. Its universalist claims ring hollow in contexts of deep inequality and persistent external influence.\n\nThis essay argues that the alternative to this disillusionment will not be found in importing another ready-made foreign system, but in looking inward. The future must be built on ideas, values, and political models rooted in Africa's own soil—drawing from its diverse philosophical traditions, communal practices, and historical struggles for liberation[citation:1]. This is not a call for isolationism or a romantic return to a mythic past, but for a critical and creative engagement with indigenous knowledge to address contemporary challenges like governance, ecology, and economic justice. It is a project of intellectual and political self-definition, asserting the right and the capacity to generate solutions from within, rather than forever consuming blueprints drafted elsewhere. The end of liberalism's ideological monopoly in Africa may mark the beginning of a more authentic and grounded era of political thought.",
+      "wordCount": 240,
+      "questions": [
+        {
+          "id": 1,
+          "question": "Why is liberalism described as an 'empty ideology' in this context?",
+          "options": [
+            "Because it has no philosophical content",
+            "Because it failed to deliver on promises and feels alien",
+            "Because its proponents are silent",
+            "Because it is a new idea"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "Where does the author argue the alternative must be found?",
+          "options": [
+            "In a newer version of Western socialism",
+            "In ideas and models rooted in Africa's own traditions",
+            "In a complete rejection of all modern governance",
+            "In a single, pan-African political party"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What is the essay's stance on engaging with the past?",
+          "options": [
+            "It advocates a wholesale return to pre-colonial systems",
+            "It calls for a critical and creative engagement with indigenous knowledge",
+            "It says the past is irrelevant to modern problems",
+            "It only values anti-colonial military history"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What does the project described primarily seek?",
+          "options": [
+            "Intellectual and political self-definition",
+            "Stronger economic ties with Asia",
+            "The dissolution of all African nation-states",
+            "A unified African currency"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 5,
+          "question": "What might the end of liberalism's monopoly signal?",
+          "options": [
+            "The start of a more authentic era of political thought",
+            "The beginning of constant warfare",
+            "The final victory of colonialism",
+            "The end of all ideology"
+          ],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "title": "Medieval Moons",
+      "source": "Aeon - Ayoush Lazikani",
+      "difficulty": "medium",
+      "content": "The Moon in the medieval European imagination was not merely a cold, distant rock. It was a rich and multivalent symbol, a canvas onto which theologians, poets, and natural philosophers projected their deepest questions about creation, divinity, and the human soul[citation:1]. For some, the Moon's borrowed light, reflecting the Sun, made it a perfect symbol for creation itself—a beautiful but derivative reality that yearns for and points toward its divine source.\n\nFor others, the Moon's cyclical nature, its constant dying and rebirth, mirrored the human soul's journey through sin, penance, and redemption. In more daring mystical thought, the Moon was sometimes imagined as almost Divine herself, a feminine celestial power or a mediator between heaven and earth[citation:1]. This pre-scientific engagement reveals a mode of understanding where the cosmos was inherently meaningful, woven through with spiritual correspondences. To look at the Moon was to contemplate theology and one's place in a great chain of being. The contrast with our modern, disenchanted view is stark. Where we see a geological object, they saw a story, a symbol, and a sign. Recovering this perspective reminds us that the human relationship with the cosmos has always been as much about generating meaning as it has been about measuring distance.",
+      "wordCount": 240,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How was the Moon primarily viewed in the medieval imagination?",
+          "options": [
+            "As a geological object to be studied",
+            "As a rich symbol for theological and philosophical questions",
+            "As a potential source of mineral wealth",
+            "As an optical illusion"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What did the Moon's reflected light symbolize for some thinkers?",
+          "options": [
+            "The arrogance of science",
+            "Creation as a derivative reality pointing to the Divine",
+            "The evil of the night",
+            "The independence of nature from God"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What human journey did the Moon's cycles mirror?",
+          "options": [
+            "The journey from poverty to wealth",
+            "The soul's journey through sin and redemption",
+            "The progress of history",
+            "The stages of physical growth"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What characterized the pre-scientific cosmos described in the passage?",
+          "options": [
+            "It was random and meaningless",
+            "It was inherently meaningful, woven with spiritual correspondences",
+            "It was understood perfectly by astronomers",
+            "It was feared as a place of demons"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What does the passage suggest is a key difference between medieval and modern views?",
+          "options": [
+            "Medieval people were less intelligent",
+            "One saw meaning and story, the other sees a measured object",
+            "Modern people appreciate its beauty more",
+            "There is no real difference"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "title": "The Vanishing of Youth",
+      "source": "Aeon - Victor Kumar",
+      "difficulty": "medium",
+      "content": "Global population decline and aging present a civilizational challenge that goes far beyond economics. While some environmentalists welcome smaller human numbers, this essay sounds a stark alarm about the 'vanishing of youth.' Youth is not just a demographic category but a social force—a crucial driver of cultural vitality, innovation, and moral progress[citation:3]. A society with a shrinking proportion of young people is a society facing poverty of a different kind: scarcity of new ideas, diminished energy for social change, and a growing risk of cultural stagnation and moral regress.\n\nThe author uses the poignant case study of his own family's demographic shift to illustrate the profound loneliness and weight that falls on fewer younger shoulders[citation:3]. The argument advocates for a 'progressive pronatalism'—not a coercive policy, but a societal shift that genuinely values and supports child-rearing and family life. This is a plea to recognize that a future without a vibrant, numerous younger generation is a future that is less adaptable, less creative, and ultimately less hopeful. The essential question is not merely how to support an aging population, but how to ensure the renewal of the social and moral imagination that youth represents.",
+      "wordCount": 230,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does the author argue is the primary risk of a shrinking youth population?",
+          "options": [
+            "Higher pension costs",
+            "Cultural stagnation and diminished social vitality",
+            "Overcrowded schools",
+            "Too many job openings"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "How does the author define 'youth' beyond a demographic category?",
+          "options": [
+            "As a consumer market",
+            "As a driver of cultural vitality and moral progress",
+            "As a burden on healthcare systems",
+            "As a political voting bloc"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What personal example does the author use?",
+          "options": [
+            "His own family's demographic shift",
+            "The history of his hometown",
+            "A survey of his university students",
+            "The biography of a historical figure"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 4,
+          "question": "What solution does the essay advocate for?",
+          "options": [
+            "Coercive government birth programs",
+            "A societal shift valuing child-rearing, or progressive pronatalism",
+            "Mass immigration as the only solution",
+            "Encouraging early retirement"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the 'essential question' posed in the conclusion?",
+          "options": [
+            "How to reduce the carbon footprint",
+            "How to ensure the renewal of social and moral imagination",
+            "How to build more retirement homes",
+            "How to lower the retirement age"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "title": "More-Than-Human Science",
+      "source": "Aeon - Brandon Boesch",
+      "difficulty": "medium",
+      "content": "As artificial intelligence begins to design experiments, analyze data, and formulate hypotheses, we are approaching an era of 'more-than-human science.' The results may be powerful but also deeply strange and potentially incomprehensible to human scientists[citation:5]. This essay argues that the core issue is not just about accuracy, but about the fundamental value of science. Science is valuable not merely for its useful results, but because it is a human practice driven by curiosity, creativity, and wonder[citation:5]. It fosters intellectual engagement and questioning—a good in itself.\n\nIf we outsource the entire scientific process to AI, we risk gaining answers while losing understanding. A future where inscrutable AI models declare scientific truths without a humanly intelligible chain of reasoning would represent a profound loss. The author cautions that AI should be a tool that augments human thought, not a replacement for it[citation:5]. The true value lies in the process of thinking and discovering, not just the final answer. For education, this means teaching students to use AI as a partner in inquiry, not a shortcut that bypasses the development of their own fundamental intellectual capacities[citation:5]. The goal is to preserve science as a characteristically human endeavor of wonder.",
+      "wordCount": 235,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the primary concern about AI-conducted science?",
+          "options": [
+            "That it will be too expensive",
+            "That results may be powerful but strange and incomprehensible",
+            "That it will be slower than human science",
+            "That it will only work in certain fields"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What does the author say is a core value of science beyond useful results?",
+          "options": [
+            "Generating patent revenue",
+            "Being a human practice of curiosity, creativity, and wonder",
+            "Winning international prizes",
+            "Employing many academics"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What is the risk of outsourcing the entire scientific process to AI?",
+          "options": [
+            "Gaining answers while losing understanding",
+            "Making no progress at all",
+            "Causing global unemployment",
+            "Inventing dangerous technologies"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 4,
+          "question": "What role should AI play, according to the author's recommendation?",
+          "options": [
+            "A complete replacement for human scientists",
+            "A tool that augments, not replaces, human thought",
+            "The sole judge of scientific truth",
+            "A teacher that trains new scientists"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the ultimate goal regarding science and AI?",
+          "options": [
+            "To automate science completely for efficiency",
+            "To preserve science as a characteristically human endeavor of wonder",
+            "To create a new species of AI scientists",
+            "To separate AI and human research entirely"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+
+    {
+      "id": 91,
+      "title": "The Empty Brain",
+      "source": "Aeon - Robert Epstein",
+      "difficulty": "medium",
+      "content": "For decades, the dominant metaphor for the human mind has been the computer. We speak of brains 'processing information,' 'storing memories,' and 'running programs' on the 'hardware' of neural circuits. This essay argues that this metaphor is not just imperfect but profoundly misleading. Brains do not encode, store, or retrieve information in any way analogous to a digital device.\n\nWe have no 'memory banks.' Instead, we reconstruct past experiences each time we recall them, a process that alters the memory itself. We do not 'process information' but rather change physically and chemically in response to our environment. The computer metaphor, born in the mid-20th century, has constrained our understanding by forcing neural phenomena into an inappropriate technological box. It leads to futile searches for 'memory files' and 'brain algorithms.' Letting go of this metaphor is liberating. It allows us to see the brain for what it is: a biological organ that grows, develops, and interacts with the world in organic, dynamic ways. True progress in neuroscience may depend not on building better brain-computer interfaces, but on developing entirely new, non-computational frameworks for understanding our biological minds.",
+      "wordCount": 225,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the dominant metaphor for the mind that the essay criticizes?",
+          "options": [
+            "The brain as a muscle",
+            "The brain as a computer",
+            "The brain as a network",
+            "The brain as a garden"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "How does the essay describe human memory?",
+          "options": [
+            "As a permanent, unchanging record",
+            "As a reconstruction that alters with each recall",
+            "As information stored in specific 'banks'",
+            "As a perfect video playback"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What does the author say the brain does instead of 'processing information'?",
+          "options": [
+            "It shuts down periodically",
+            "It changes physically and chemically in response to the environment",
+            "It downloads data from a cosmic cloud",
+            "It performs mathematical calculations"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What consequence does the computer metaphor have, according to the essay?",
+          "options": [
+            "It has led to rapid cures for brain diseases",
+            "It has constrained understanding and led to futile searches",
+            "It has made brains easier to study",
+            "It has no significant consequences"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What does the author suggest is needed for true progress in neuroscience?",
+          "options": [
+            "Better brain-computer interfaces",
+            "New, non-computational frameworks for understanding",
+            "More powerful supercomputers",
+            "A return to Freudian psychoanalysis"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "title": "The Attention Economy",
+      "source": "Aeon - Tom Chatfield",
+      "difficulty": "medium",
+      "content": "In the digital landscape, human attention is the most valuable commodity. Platforms and apps are designed not merely to inform or connect, but to capture and hold our focus for as long as possible. This has given rise to a ruthless 'attention economy' where clicks, likes, and minutes of engagement are the primary metrics of success. The techniques used—endless scrolling, autoplay, push notifications—are engineered to exploit psychological vulnerabilities, creating patterns of compulsion that can border on addiction.\n\nThis economy reshapes not just our habits but our cognition itself. It fosters continuous partial attention, eroding our capacity for deep, sustained thought. It prioritizes content that triggers immediate emotional reactions—outrage, envy, fear—over content that is nuanced, true, or valuable in the long term. The essay argues that we must become conscious participants in this economy, not just its raw material. This requires developing personal strategies for managing attention, advocating for ethical design principles that respect user well-being over mere engagement metrics, and recognizing that our focus is the foundation of our agency, our relationships, and our inner lives. In an age of endless distraction, the disciplined allocation of attention becomes a paramount ethical and personal challenge.",
+      "wordCount": 235,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is described as the most valuable commodity in the digital landscape?",
+          "options": [
+            "Personal data",
+            "Bitcoin",
+            "Human attention",
+            "Creative content"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 2,
+          "question": "What is the primary success metric in the attention economy?",
+          "options": [
+            "Educational value",
+            "Clicks, likes, and minutes of engagement",
+            "Artistic merit",
+            "Factual accuracy"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What cognitive effect does the attention economy foster?",
+          "options": [
+            "Enhanced memory",
+            "Continuous partial attention",
+            "Improved logical reasoning",
+            "Faster reading speed"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What type of content does the attention economy prioritize?",
+          "options": [
+            "Nuanced and complex analysis",
+            "Content that triggers immediate emotional reactions",
+            "Long-form scientific papers",
+            "Calm and meditative material"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What does the author argue we must become in relation to this economy?",
+          "options": [
+            "Its enthusiastic promoters",
+            "Conscious participants who manage our attention",
+            "Completely detached observers",
+            "Its primary engineers"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "title": "The Reality Show",
+      "source": "Aeon - Mike Jay",
+      "difficulty": "medium",
+      "content": "The experience of schizophrenia has transformed across centuries, mirroring the dominant technologies and narratives of each era. Where once sufferers reported encounters with demons, angels, or divine voices, today they are increasingly likely to describe being watched by hidden cameras, their thoughts broadcast on television, or their lives being an orchestrated reality show. This shift reveals a profound truth: mental distress is not expressed through timeless, universal symbols, but is shaped by the cultural materials at hand.\n\nThe modern 'delusion of reference'—where mass media seems to be speaking directly to the individual—is a pathology forged in the age of broadcast and surveillance. It reflects a deep, contemporary anxiety about visibility, privacy, and authenticity in a mediated world. Understanding schizophrenia thus requires more than neurobiology; it demands a cultural history of paranoia. The patient who believes they are on a hidden TV show is not just experiencing broken brain chemistry but is grappling, in a fractured way, with quintessential modern questions: Who is watching? What is real? Who controls the narrative? Their psychosis is a distorted, painful reflection of our collective preoccupations, making it a uniquely revealing lens on the spirit of our times.",
+      "wordCount": 220,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How has the expression of schizophrenia changed over time?",
+          "options": [
+            "It has remained exactly the same",
+            "It mirrors the dominant technologies and narratives of each era",
+            "It has become less severe",
+            "It is now purely physical with no delusions"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What is a common modern delusion mentioned in the passage?",
+          "options": [
+            "Being possessed by demons",
+            "Being a king or queen",
+            "Being on a hidden reality TV show",
+            "Being able to fly"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 3,
+          "question": "What does this shift reveal about mental distress?",
+          "options": [
+            "It is genetic and unchangeable",
+            "It is shaped by cultural materials, not just universal symbols",
+            "It is caused solely by brain chemistry",
+            "It is decreasing in modern society"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What modern anxiety does the 'delusion of reference' reflect?",
+          "options": [
+            "Anxiety about food scarcity",
+            "Anxiety about visibility, privacy, and authenticity",
+            "Anxiety about ancient curses",
+            "Anxiety about traveling"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What does the author conclude psychosis can act as?",
+          "options": [
+            "A precise medical diagnosis",
+            "A distorted lens on our collective preoccupations",
+            "A sign of low intelligence",
+            "A creative gift"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "title": "Indifference is a Power",
+      "source": "Aeon - Lary Wallace",
+      "difficulty": "medium",
+      "content": "Stoicism is often misunderstood as a philosophy of grim endurance, a stiff-upper-lip repression of emotion in the face of adversity. This essay reclaims its original, radical aim: not to eliminate feeling, but to achieve a profound internal freedom through 'indifference' to external events we cannot control. The Stoics distinguished between what is 'up to us' (our judgments, values, and actions) and what is not (our reputations, wealth, health, the actions of others).\n\nTrue power lies in directing all our concern to the former realm while cultivating apatheia—not apathy, but a clear-saced indifference—toward the latter. This indifference is not passivity; it is the liberated energy to act virtuously and effectively within the sphere we can influence. By not being emotionally hostage to fortune's whims, we become resilient and, paradoxically, more capable of joy. The Stoic sage is not an unfeeling statue, but a person who has sorted the chaotic world into two categories: the unimportant noise of externals, and the vital, sovereign domain of their own reasoned choice. In a world of overwhelming stimuli and manufactured crises, this ancient discipline of attention and judgment offers a timeless path to tranquility and self-possession.",
+      "wordCount": 225,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How is Stoicism often misunderstood?",
+          "options": [
+            "As a philosophy of constant celebration",
+            "As a grim endurance and repression of emotion",
+            "As a guide to acquiring wealth",
+            "As a form of political rebellion"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What is the Stoic goal regarding external events?",
+          "options": [
+            "To control them completely",
+            "To achieve 'indifference' to things we cannot control",
+            "To enjoy them without limit",
+            "To analyze them scientifically"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What does the Stoic concept of 'apatheia' mean?",
+          "options": [
+            "Apathy and laziness",
+            "Clear-saced indifference to externals, not absence of feeling",
+            "Intense passion for justice",
+            "Fear of the outside world"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What is the paradoxical result of this indifference?",
+          "options": [
+            "Greater poverty",
+            "Increased vulnerability",
+            "Greater resilience and capacity for joy",
+            "Social isolation"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 5,
+          "question": "What does the Stoic discipline ultimately offer, according to the conclusion?",
+          "options": [
+            "A guarantee of financial success",
+            "A path to tranquility and self-possession",
+            "A method for predicting the future",
+            "A reason to avoid all action"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "title": "The Golden Quarter",
+      "source": "Aeon - Michael Hanlon",
+      "difficulty": "medium",
+      "content": "Between 1945 and 1971, humanity experienced an unparalleled burst of transformative innovation: the jet airliner, the satellite, the computer chip, the structure of DNA, nuclear power, the birth control pill, and the first steps on the Moon. This period, dubbed 'The Golden Quarter,' saw progress that was not just incremental but foundational, reshaping the material and conceptual world. Since then, while digital technology has advanced spectacularly, progress in many fundamental domains—energy, transport, space exploration, material science—has slowed markedly.\n\nWhy did the acceleration stall? The essay explores several hypotheses: the low-hanging fruit of basic science has been picked; regulatory and risk-aversion cultures have thickened; economic incentives now favor incremental software updates over bold physical engineering. We live in a world of refinement rather than revolution. This matters because the great challenges of the 21st century—climate change, sustainable energy, space industrialization—require a new wave of foundational innovation. Recapturing the spirit of the Golden Quarter may demand more than funding; it requires a cultural and political renaissance that once again believes in ambitious, collective engineering projects and is willing to tolerate the risks and long timelines they entail.",
+      "wordCount": 215,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What time period is referred to as 'The Golden Quarter'?",
+          "options": [
+            "1900-1925",
+            "1945-1971",
+            "1975-2000",
+            "The last 25 years"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What characterizes innovation in this period?",
+          "options": [
+            "It was mainly digital and virtual",
+            "It was foundational and reshaped the material world",
+            "It was focused solely on military technology",
+            "It was slow and cautious"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What is the essay's observation about progress since 1971?",
+          "options": [
+            "It has accelerated in all fields",
+            "It has slowed in many fundamental domains",
+            "It has stopped completely",
+            "It has become more revolutionary than ever"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What is NOT suggested as a reason for the slowdown?",
+          "options": [
+            "The easy scientific discoveries have been made",
+            "Increased risk-aversion and regulation",
+            "A lack of intelligent scientists",
+            "Economic incentives favoring incremental updates"
+          ],
+          "correct": 2
+        },
+        {
+          "id": 5,
+          "question": "What does recapturing this spirit require, according to the essay?",
+          "options": [
+            "Only more government funding",
+            "A cultural renaissance that believes in ambitious projects",
+            "Focusing only on software, not hardware",
+            "Reducing all safety regulations"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "title": "Death the Teacher",
+      "source": "Aeon - Warren Ward",
+      "difficulty": "medium",
+      "content": "Modern Western culture is marked by a 'delusional denial' of death. We pour resources into prolonging life at any cost, often in its final, diminished stages, while avoiding honest contemplation of mortality. Yet, as palliative care research and ancient philosophies agree, an awareness of death is not a morbid fixation but the essential teacher of a meaningful life. The most common regrets of the dying are not about failures of medical treatment, but failures of living: I wish I'd been truer to myself, worked less, expressed feelings more, stayed connected, allowed happiness.\n\nThis essay argues that keeping our finitude at the forefront of consciousness—a practice from Stoicism to Buddhism—paradoxically enriches life. It acts as a prioritizing force, stripping away trivial concerns and clarifying what truly matters. The awareness that time is limited and precious motivates us to live authentically and connect deeply now, not in some imagined future. Embracing mortality does not mean giving up on life; it means giving up on the fear-driven, inauthentic life that ignores its ultimate boundary. In this light, death is not the opposite of life but its necessary frame, the darkness that gives the picture its shape and urgency.",
+      "wordCount": 220,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What characterizes the modern Western attitude toward death, according to the essay?",
+          "options": [
+            "A comfortable acceptance",
+            "A delusional denial",
+            "A constant celebration",
+            "A scientific curiosity"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What do the most common regrets of the dying primarily concern?",
+          "options": [
+            "Not receiving the latest medical technology",
+            "Failures of living authentically and connecting",
+            "Not having enough money",
+            "Not traveling to enough countries"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What is the paradoxical effect of death awareness?",
+          "options": [
+            "It causes instant depression",
+            "It enriches and prioritizes life",
+            "It makes people reckless",
+            "It has no real effect"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What does death awareness motivate us to do?",
+          "options": [
+            "Live authentically and connect deeply in the present",
+            "Hide from all risk and adventure",
+            "Focus only on accumulating wealth",
+            "Ignore our relationships"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 5,
+          "question": "What metaphor is used for death in the conclusion?",
+          "options": [
+            "A terrifying monster",
+            "A peaceful sleep",
+            "The necessary frame that gives life's picture shape",
+            "A wall that cannot be climbed"
+          ],
+          "correct": 2
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "title": "The Obesity Era",
+      "source": "Aeon - David Berreby",
+      "difficulty": "medium",
+      "content": "Obesity is typically framed as a personal or national failing—a result of individual gluttony and sloth, or the toxic food environment of a particular country. However, a startling pattern undermines this view: not just Americans, but laboratory animals, zoo animals, and even wild animals across species have been getting fatter for decades. This synchronized global weight gain, affecting creatures with vastly different diets and lifestyles, points to causes far beyond personal choice or national culture.\n\nThe essay explores the 'obesogen' hypothesis: that synthetic chemicals in our environment—plastics, pesticides, air pollutants—may be disrupting the metabolic systems of humans and animals alike, altering how we store fat and regulate appetite. It also considers changes to gut microbiomes or ambient temperature. The implications are profound. If true, it means the obesity crisis is an ecological event, a symptom of deeper anthropogenic changes to the planet's biosphere. Solving it would require not just better dietary advice, but a radical reconsideration of industrial chemistry and environmental health. The expanding waistlines of Earth's creatures may be one of the clearest biological signals that we have entered a new, human-shaped geological era where our pollution is rewriting the basic physiology of life.",
+      "wordCount": 225,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What common explanation for obesity does the essay challenge?",
+          "options": [
+            "It is solely a personal or national failing",
+            "It is caused by viruses",
+            "It is purely genetic",
+            "It is caused by lack of exercise alone"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 2,
+          "question": "What evidence points to broader causes?",
+          "options": [
+            "Only humans in wealthy countries are affected",
+            "Animals across species are also gaining weight",
+            "It started in the last five years",
+            "It only affects mammals"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What is the 'obesogen' hypothesis?",
+          "options": [
+            "That obesity is contagious",
+            "That synthetic chemicals disrupt metabolic systems",
+            "That obesity is caused by a specific gene",
+            "That social media causes overeating"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "How does the essay reframe the obesity crisis?",
+          "options": [
+            "As a simple issue of willpower",
+            "As an ecological event and symptom of planetary change",
+            "As a problem only for healthcare systems",
+            "As a fashion trend"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What would addressing the crisis require, according to this view?",
+          "options": [
+            "Only stricter diet plans",
+            "Reconsidering industrial chemistry and environmental health",
+            "Building more gyms",
+            "Banning certain foods"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "title": "The Paradox of Sleep",
+      "source": "Aeon - Matthew Walker",
+      "difficulty": "medium",
+      "content": "Sleep remains one of biology's greatest unsolved mysteries. While every complex animal sleeps, science cannot fully explain why this vulnerable state evolved. The 'paradox of sleep' is that it appears to be maladaptive: animals lie defenseless, unable to eat or reproduce for hours each day. Yet sleep is so essential that prolonged deprivation leads to psychosis and death.\n\nRecent research reveals sleep is not passive downtime but an active period of brain maintenance and integration. During deep sleep, the brain clears metabolic waste that accumulates during waking hours. REM sleep appears crucial for emotional processing and memory consolidation, weaving daily experiences into long-term neural networks. This suggests sleep isn't a luxury but a non-negotiable biological necessity. Modern society's erosion of sleep—through artificial light, shift work, and constant connectivity—may have profound consequences for mental health, learning, and physical well-being. Understanding sleep's true function challenges our productivity-obsessed culture, suggesting that what appears as 'doing nothing' may be when our brains perform their most vital work.",
+      "wordCount": 205,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the 'paradox of sleep' described in the passage?",
+          "options": [
+            "It makes us smarter but takes too much time",
+            "It appears maladaptive yet is biologically essential",
+            "It's enjoyable but causes nightmares",
+            "It's natural but requires training"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What happens during deep sleep according to recent research?",
+          "options": [
+            "The brain clears metabolic waste",
+            "The body grows taller",
+            "Dreams predict the future",
+            "Muscles become stronger"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 3,
+          "question": "What is REM sleep crucial for?",
+          "options": [
+            "Physical exercise",
+            "Emotional processing and memory consolidation",
+            "Digesting food",
+            "Regulating body temperature"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What modern factors are eroding sleep?",
+          "options": [
+            "Natural sunlight and fresh air",
+            "Artificial light and constant connectivity",
+            "Quiet neighborhoods",
+            "Comfortable beds"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "How does understanding sleep challenge modern culture?",
+          "options": [
+            "It suggests productivity isn't everything",
+            "It proves we need less sleep than thought",
+            "It shows sleep is unnecessary",
+            "It indicates night owls are superior"
+          ],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "title": "The Digital Panopticon",
+      "source": "Aeon - Shoshana Zuboff",
+      "difficulty": "medium",
+      "content": "We inhabit a new form of power structure: the digital panopticon. Unlike Jeremy Bentham's 18th-century prison design where guards watch inmates, today's surveillance is decentralized, automated, and commercial. Digital platforms constantly monitor our behaviors, preferences, and interactions, creating detailed behavioral profiles. The goal isn't primarily state control but behavioral prediction and modification for economic gain.\n\nThis 'surveillance capitalism' extracts human experience as free raw material for translation into behavioral data. These predictions are then sold in behavioral futures markets, where businesses bid to influence our actions—what we buy, how we vote, what we believe. The psychological effect mirrors the panopticon's power: when we know we might be watched, we modify our behavior even without visible observers. This creates a society of self-censorship and conformity, where the very possibility of being monitored shapes social norms. The challenge isn't just privacy invasion but the colonization of human autonomy by systems designed to subtly guide our choices for others' profit. Reclaiming digital sovereignty requires recognizing that our attention and behavior are not commodities to be mined but fundamental aspects of human dignity.",
+      "wordCount": 220,
+      "questions": [
+        {
+          "id": 1,
+          "question": "How does the digital panopticon differ from Bentham's original design?",
+          "options": [
+            "It's decentralized, automated, and commercial",
+            "It uses physical guards in towers",
+            "It only watches criminals",
+            "It's completely transparent to those being watched"
+          ],
+          "correct": 0
+        },
+        {
+          "id": 2,
+          "question": "What is the primary goal of digital surveillance according to the passage?",
+          "options": [
+            "State control and punishment",
+            "Behavioral prediction for economic gain",
+            "Improving social services",
+            "Preventing terrorism"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What term describes extracting human experience as data?",
+          "options": [
+            "Digital humanism",
+            "Surveillance capitalism",
+            "Behavioral communism",
+            "Experience economy"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What psychological effect does constant surveillance create?",
+          "options": [
+            "Greater creativity and risk-taking",
+            "Self-censorship and conformity",
+            "Improved memory and focus",
+            "Stronger community bonds"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What must be reclaimed according to the conclusion?",
+          "options": [
+            "Digital sovereignty and human dignity",
+            "Free internet access",
+            "Faster computers",
+            "More social media platforms"
+          ],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "title": "The Wisdom of Not Knowing",
+      "source": "Aeon - Daniel Kahneman",
+      "difficulty": "medium",
+      "content": "In an age that venerates expertise and certainty, there is profound wisdom in acknowledging what we don't know. Cognitive science reveals that the most confident experts are often the least accurate, while those aware of their knowledge boundaries make better decisions. This 'wisdom of not knowing' recognizes that complexity usually exceeds our understanding, and premature certainty closes doors to learning.\n\nThe Dunning-Kruger effect demonstrates how incompetence breeds unwarranted confidence, while true competence brings awareness of limitations. This applies not just to individuals but to institutions and cultures. Societies that tolerate ambiguity and intellectual humility are more adaptable and innovative. They create spaces for questioning, experimentation, and course correction. The challenge is cultural: we reward decisive certainty over thoughtful doubt, even when the latter is more appropriate. Cultivating epistemic humility—knowing the limits of our knowledge—requires resisting the social pressure to appear certain. It means valuing questions as much as answers, and recognizing that in a complex world, the mark of wisdom isn't having all the answers but knowing which questions matter most.",
+      "wordCount": 200,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does cognitive science reveal about confident experts?",
+          "options": [
+            "They are always the most accurate",
+            "They are often the least accurate",
+            "They have perfect memories",
+            "They never make mistakes"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "What does the 'wisdom of not knowing' recognize?",
+          "options": [
+            "That we should never try to learn",
+            "That complexity usually exceeds our understanding",
+            "That knowledge is unimportant",
+            "That questions are useless"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What psychological effect links incompetence to confidence?",
+          "options": [
+            "The placebo effect",
+            "The Dunning-Kruger effect",
+            "The halo effect",
+            "The bystander effect"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "What quality do adaptable societies tolerate?",
+          "options": [
+            "Absolute certainty in leaders",
+            "Ambiguity and intellectual humility",
+            "Rigid traditionalism",
+            "Complete consensus on all issues"
+          ],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the mark of wisdom in a complex world?",
+          "options": [
+            "Having all the answers",
+            "Knowing which questions matter most",
+            "Never admitting doubt",
+            "Always being decisive"
+          ],
+          "correct": 1
+        }
+      ]
     }
   ]
 }

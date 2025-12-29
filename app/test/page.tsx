@@ -18,9 +18,14 @@ export default function TestPage() {
             {/* Main Content */}
             <div className="container mx-auto px-4 py-8">
                 {!testCompleted ? (
-                    <ReadingTest onComplete={handleTestComplete} />
+                    <ReadingTest
+                        onComplete={handleTestComplete}
+                    />
                 ) : results ? (
-                    <TestResults results={results} onRetake={() => setTestCompleted(false)} />
+                    <TestResults
+                        results={results}
+                        onRetake={() => setTestCompleted(false)}
+                    />
                 ) : null}
             </div>
         </>
